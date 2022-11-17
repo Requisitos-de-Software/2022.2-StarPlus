@@ -37,7 +37,7 @@ Detalhamento das Metodologias | 17/11/2022 | Abdul Hannan | João Pedro de Camar
 
 Atividade(s) | Data  | Responsável | Data de Entrega
 ------------ | ------- | ---------- | ---------------
-Atualização (feedbacks) | 22/11/2022 | Todos | Todos | 23/11
+Atualização (feedbacks) | 22/11/2022 | Todos  | 23/11
 Brainstorm   | 24/11/2022 | Abdul Hannan, João Pedro de Camargo | 25/11/2022
 Observação | 24/11/2022 | Vinicius Assumpção, Thiago Vivan | 25/11/2022
 Instrospecção | 24/11/2022 | Vinicius Assumpção, Thiago Vivan | 25/11/2022
