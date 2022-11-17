@@ -2,7 +2,7 @@
 - [Apresentações](/)
 - Planejamento
   - [Cronograma das Atividades](/docs/planejamento/cronograma.md)
-  - [Ferramentas](/)
+  - [Ferramentas](/docs/planejamento/ferramentas.md)
   - [Metodologia](/docs/planejamento/metodologia.md)
 -  Pré-rastreabilidade
   - [Rich Picture](/)
