@@ -5,4 +5,4 @@
   - [Ferramentas](/docs/planejamento/ferramentas.md)
   - [Metodologia](/docs/planejamento/metodologia.md)
 -  Pré-rastreabilidade
-  - [Rich Picture](/)
+  - [Rich Picture](/docs/planejamento/richPicture.md)
