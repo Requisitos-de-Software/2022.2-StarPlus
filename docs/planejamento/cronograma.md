@@ -21,13 +21,13 @@ Etapa | Entrega | Apresentação | Atividade(s) |
 
 <p> Tabela 2 - Cronograma detalhado para primeira entrega</p>
 
-Atividade(s) | Data  | Responsável | Revisor |
------------- | ------- | --------- | ------- |
+Atividade(s) | Data  | Responsável | 
+------------ | ------- | --------- |
 Selecionar app para o projeto da disciplina | 08/11/2022 | Todos | Todos
-Rich Picture | 28/06/2022 | Vinicius Assumpção | Guilherme Puida 
-Definição de ferramentas e metodologias |  08/11/2022   | Todos| Todos
-Cronograma detalhado | 17/11/2022 | Josué Teixeira | Gabriel Roger
-Detalhamento das Metodologias | 17/11/2022 | Abdul Hannan | João Pedro de Camargo
+Rich Picture | 28/06/2022 | Vinicius Assumpção
+Definição de ferramentas e metodologias |  08/11/2022   | João Pedro de Camargo, Abdul Hannan
+Cronograma detalhado | 17/11/2022 | Josué Teixeira, Thiago Vivan
+Detalhamento das Metodologias | 17/11/2022 | Abdul Hannan, Gabriel Roger
 
 <br>
 
