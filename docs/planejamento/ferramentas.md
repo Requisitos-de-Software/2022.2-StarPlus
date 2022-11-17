@@ -16,7 +16,7 @@ Figma é uma das principais ferramentas de prototipação gratuitas na internet.
 
 ## [Canva](https://canva.com)
 
-<img src="../assets/canva.png" alt="drawing" width="400"/>
+<img src="..\assets\canva.png" alt="drawing" width="400"/>
 
 O Canva é uma plataforma de design gráfico australiana usada para criar gráficos de mídia social, apresentações, pôsteres, documentos e outros conteúdos visuais.
 ## [Telegram](https://telegram.org)
@@ -32,7 +32,7 @@ A ferramenta Telegram será utilizada como fonte de comunicação primária, vis
 A ferramenta LucidChart será utilizada para diagramação e construção de esquemáticos de maneira barata, eficaz e colaborativa.
 
 ## Bloco De Notas
-<img src="../assets/Bloco-de-Notas1.png" alt="drawing" width="400"/>
+<img src="..\assets\Bloco-de-Notas1.png" alt="drawing" width="400"/>
 O bloco de notas do Windows é um editor de texto simples para Windows; ele cria e edita documentos de texto simples.
 
 ## Histórico de Versão
