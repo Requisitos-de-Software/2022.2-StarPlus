@@ -1,4 +1,4 @@
-## Rich Picture - App Exército Brasileiro
+## Rich Picture - StarPlus
 ## Introdução
 
 Rich Pictures são desenhos de contexto que ilustram os elementos principais de uma situação (contexto) e os relacionamentos que precisam ser considerados, seja para intervir objetivando sua melhoria, seja para melhor compreendê-la. Na prática, consiste em imagens, textos, símbolos e ícones ajustados de maneira relacionada.
