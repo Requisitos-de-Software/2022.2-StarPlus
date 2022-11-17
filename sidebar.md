@@ -1,1 +1,9 @@
 - [Sobre](/Readme.md)
+- [Apresentações](/Readme.md)
+- **Planejamento**
+  - [Cronograma das Atividades](/Readme.md)
+  - [Ferramentas](/Readme.md)
+  - [Heatmap](/Readme.md)
+  - [Metodologia](/Readme.md)
+- **Pré-rastreabilidade**
+  - [Rich Picture](/Readme.md)
