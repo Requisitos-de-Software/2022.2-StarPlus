@@ -1,5 +1,5 @@
 - [Sobre](./README.md)
-- [Apresentações](/)
+- [Apresentações](/docs/apresentacao/apresentacao.md)
 - Planejamento
   - [Cronograma das Atividades](/docs/planejamento/cronograma.md)
   - [Ferramentas](/docs/planejamento/ferramentas.md)
