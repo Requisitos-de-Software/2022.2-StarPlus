@@ -16,7 +16,7 @@ Figma é uma das principais ferramentas de prototipação gratuitas na internet.
 
 ## [Canva](https://canva.com)
 
-<img src="..\assets\canva.png" alt="drawing" width="400"/>
+<img src="2022.2-StarPlus\assets\canva.png" alt="drawing" width="400"/>
 
 O Canva é uma plataforma de design gráfico australiana usada para criar gráficos de mídia social, apresentações, pôsteres, documentos e outros conteúdos visuais.
 ## [Telegram](https://telegram.org)
