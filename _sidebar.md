@@ -3,7 +3,6 @@
 - Planejamento
   - [Cronograma das Atividades](/docs/planejamento/cronograma.md)
   - [Ferramentas](/)
-  - [Heatmap](/)
-  - [Metodologia](/)
+  - [Metodologia](/docs/planejamento/metodologia.md)
 -  Pré-rastreabilidade
   - [Rich Picture](/)
