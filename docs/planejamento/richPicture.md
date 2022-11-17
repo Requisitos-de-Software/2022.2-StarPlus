@@ -12,6 +12,6 @@ Um Rich Picture pode auxiliar na identificação de:
 - Problemas e conflitos.
 
 ## Versão 1
-![StarPul RichPicture](Projeto\2022.2-StarPlus\docs\assets\RichPicture.png)
+![StarPul RichPicture](..\assets\RichPicture.png)
 <p>Imagem 1: Rich Picture, Autor: Vinicius Assumpção, Versão: 1.0<p/>
 
