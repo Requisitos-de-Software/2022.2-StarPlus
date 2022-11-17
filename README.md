@@ -1,8 +1,6 @@
-<p align="center">
-    <a href="https://www.starplus.com/pt-br/welcome/stream" target="_blank">
-        <img src="/docs/assets/starplus.png" height="170px" alt="Logo da aplicação Star+"/>
-    </a>
-</p>
+
+![logo-image](/docs/assets/starplus.png)
+
 
 ## Sobre o Projeto
 
