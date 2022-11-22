@@ -8,3 +8,10 @@
   - [Metodologia](/docs/planejamento/metodologia.md)
 -  Pré-rastreabilidade
   - [Rich Picture](/docs/planejamento/richPicture.md)
+ - Elicitação
+    - Personas
+   - Perfis de usuário
+    - Técnicas
+      - Questionário
+   - Priorização
+    - Resultado da Elicitação
