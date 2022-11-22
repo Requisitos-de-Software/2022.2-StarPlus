@@ -15,3 +15,10 @@ Um Rich Picture pode auxiliar na identificação de:
 ![StarPul RichPicture](..\assets\RichPicture.png)
 <p>Imagem 1: Rich Picture, Autor: Vinicius Assumpção, Versão: 1.0<p/>
 
+## Histórico de Versão
+
+| Versão | Data | Descrição | Autor | Revisor
+|--------|------|-----------|-------| -------
+| 0.1 | 15/11/22 | Documento Inicial | Vinicius | Gabriel
+
+
