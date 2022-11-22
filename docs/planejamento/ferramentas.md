@@ -41,7 +41,7 @@ O bloco de notas do Windows é um editor de texto simples para Windows; ele cria
 A ferramenta This person does not exist será utilizada como parte do suporte para a elaboração de personas
 
 ## Google forms
-<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.2-StarPlus/gh-pages/docs/assets/forms.png" alt="drawing" width="400"/>
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.2-StarPlus/gh-pages/docs/assets/forms2.png" alt="drawing" width="400"/>
 
 A ferramenta Google forms auxiliará na elaboração de questionários com fins de pesquisa 
 
