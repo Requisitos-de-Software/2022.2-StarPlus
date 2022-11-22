@@ -36,7 +36,7 @@ A ferramenta LucidChart será utilizada para diagramação e construção de esq
 O bloco de notas do Windows é um editor de texto simples para Windows; ele cria e edita documentos de texto simples.
 
 ## This person does not exist
-<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.2-StarPlus/gh-pages/docs/assets/Bloco-de-Notas1.png" alt="drawing" width="400"/>
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.2-StarPlus/gh-pages/docs/assets/ThisPersonNotExist.png" alt="drawing" width="400"/>
 
 A ferramenta This person does not exist será utilizada como parte do suporte para a elaboração de personas
 
