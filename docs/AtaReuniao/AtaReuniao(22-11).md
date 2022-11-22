@@ -18,7 +18,6 @@ Tarefas
 | Técnica de brainstorm + implementar feedback | Joao Pedro Vaz  e Abdul
 | Técnicas de observação e questionário |  Vinicius e Thiago
 | Elaboração de personas e técnica de introspecção | Gabriel e Josué
-
 <figcaption align="center">Tabela 1: Atividades a serem feitas.</figcaption>
 
 
