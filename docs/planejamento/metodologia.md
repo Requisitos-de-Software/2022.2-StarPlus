@@ -16,3 +16,8 @@ O Pair Programming consiste em duas pessoas trabalhando nas mesmas linhas de có
 ### Quadro Kanban
 O quadro kanban será a base que os integrantes do grupo terão para saberem quais entregáveis devem ser feitos, estão sendo feitos e os que já estão feitos (to do, doing, done)
 
+## Histórico de Versão
+
+| Versão | Data | Descrição | Autor | Revisor
+|--------|------|-----------|-------| -------
+| 0.1 | 15/11/22 | Documento Inicial |Thiago | Vinicius
