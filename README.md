@@ -61,6 +61,6 @@ O serviço também tem uma programação original exclusiva do Star (o serviço 
 ## Histórico de versão
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
-| 0.1 | 15/11/2022 | Criação da ata de reunião | Josué | Joao Pedro Vaz |
+| 0.1 | 15/11/2022 | Criação do documento | Josué | Joao Pedro Vaz |
  
       
