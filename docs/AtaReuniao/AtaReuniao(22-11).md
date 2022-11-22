@@ -14,8 +14,8 @@ Revisar os artefatos desenvolvidos com base no feedback das apresentações do p
 
 | Tarefa | Responsável |
 | ---- | ---- |
-| Técnica de brainstorm + implementar feedback | Joao Pedro Vaz  e Abdul
-| Técnicas de observação e questionário |  Vinicius e Thiago
+| Técnica de brainstorm, implementar feedback e escolha da priorização | Joao Pedro Vaz  e Abdul
+| Técnicas de observação e questionário, Adição da página de perfil de usuário |  Vinicius e Thiago
 | Elaboração de personas e técnica de introspecção | Gabriel e Josué
 
 Tabela 1: Atividades a serem feitas
