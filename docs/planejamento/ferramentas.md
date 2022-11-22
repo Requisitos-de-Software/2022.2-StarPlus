@@ -35,8 +35,14 @@ A ferramenta LucidChart será utilizada para diagramação e construção de esq
 <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.2-StarPlus/gh-pages/docs/assets/Bloco-de-Notas1.png" alt="drawing" width="400"/>
 O bloco de notas do Windows é um editor de texto simples para Windows; ele cria e edita documentos de texto simples.
 
+## This person does not exist
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.2-StarPlus/gh-pages/docs/assets/Bloco-de-Notas1.png" alt="drawing" width="400"/>
+
+A ferramenta This person does not exist será utilizada como parte do suporte para a elaboração de personas
+
 ## Histórico de Versão
 
 | Versão | Data | Descrição | Autor | Revisor
 |--------|------|-----------|-------| -------
-| 0.1 | 29/06/22 | Documento Inicial | Abdul Hannan | 
+| 0.1 | 15/11/22 | Documento Inicial | Abdul Hannan | Josué
+| 0.2 | 22/11/22 | Adição de mais uma ferramenta | Vinicius  | Thiago
