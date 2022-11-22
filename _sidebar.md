@@ -10,7 +10,7 @@
   - [Rich Picture](/docs/planejamento/richPicture.md)
  - Elicitação
     - Personas
-   - [Perfis de usuário](/docs/Elicitacao/Perfil de Usuário.md)
+   - [Perfis de usuário](/docs/Elicitacao/PerfildeUsuario.md)
     - Técnicas
       - [Questionário](docs/Elicitacao/Tecnicas/Questionário.md)
    - Priorização
