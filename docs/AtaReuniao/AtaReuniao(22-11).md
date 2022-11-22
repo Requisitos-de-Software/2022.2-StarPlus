@@ -1,13 +1,13 @@
-#Ata reunião 22/11/2022
+# Ata reunião 22/11/2022
 
 Presencial 
 
-##Participantes- Todos os integrantes presentes
+# Participantes - Todos os integrantes presentes
 
-##Início e término
+## Início e término
 A reunião foi iniciada às 14:10 e finalizada às 15:00.
 
-##Objetivos
+## Objetivos
 Revisar os artefatos desenvolvidos com base no feedback das apresentações do ponto de controle 1 e organizar as tarefas para o ponto de controle 2
 
 Tarefas
@@ -22,7 +22,7 @@ Tarefas
 <figcaption align="center">Tabela 1: Atividades a serem feitas.</figcaption>
 
 
-##Conclusão
+## Conclusão
 
 Documentação e cronograma revisado e acordado por todos com sucesso
 
