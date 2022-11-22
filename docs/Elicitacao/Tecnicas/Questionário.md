@@ -20,4 +20,4 @@
 ## Histórico de versão
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
-| 0.1 | 22/11/2022 | Criação da ata de reunião | Vinicius | Thiago e João Pedro Vaz |
+| 0.1 | 22/11/2022 | Criação da página de questionário | Vinicius | Thiago e João Pedro Vaz |
