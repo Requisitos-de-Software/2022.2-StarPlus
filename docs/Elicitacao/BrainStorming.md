@@ -16,6 +16,7 @@ A reunião ocorreu no dia  25/11/2022 as 12horas ate 12:30 na forma presencial o
  |Vinicius Assumpcao|
  |Thiago Vivan|
  
+ 
  Tabela1:Membros
 
 ## Questões Guia
