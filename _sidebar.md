@@ -9,6 +9,7 @@
 -  Pré-rastreabilidade
   - [Rich Picture](/docs/planejamento/richPicture.md)
  - Elicitação
+    - [BrainStorm](/docs/Elicitacao/BrainStorming.md)
     - Personas
    - [Perfis de usuário](/docs/Elicitacao/PerfildeUsuario.md)
     - Técnicas
