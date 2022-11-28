@@ -52,13 +52,13 @@ refinamentos sucessivos durante a investigação inicial do domínio de atividad
 
 </center>
 
-- Idade: 53.
-- Sexo: Feminino.
-- Profissão: Advogada.
-- Escolaridade: Doutoranda em direito.
-- Expectativas: Deseja assistir filmes da Pixar com a família.
+- Idade: 17.
+- Sexo: Masculino.
+- Profissão: Estudante.
+- Escolaridade: Ensino médio incompleto.
+- Expectativas: Deseja assistir filmes de ação.
 
-&emsp;&emsp;Maria tem 53 anos, mora na Asa Sul, é casada, tem duas filhas, é doutoranda em direito e trabalha na procuradoria da justiça. Suas filhas são crianças, fãs da Disney e no ano passado viajaram para o parque da Disney na Flórida. Elas assistem filmes das princesas todos os dias e a programação de domingo da família é assistir filmes da Pixar.
+&emsp;&emsp;Pedro tem 17 anos, mora em taguatinga, é solteiro e estudante do ensino médio, ele gosta muito de matemática e matérias relacionadas a ciências exatas. Ele adora estudar e pretende se tornar professor de matemática no futuro. Nas horas vagas ele vai na casa dos seus amigos para curtir e assistir filmes, seu gênero de filme predileto é filme de ação. 
 
 ## 3. Antipersona
 ### 3.1 Maria Alice da Luz
@@ -70,16 +70,16 @@ refinamentos sucessivos durante a investigação inicial do domínio de atividad
 
 </center>
 
-- Idade: 65.
-- Sexo: Masculino.
-- Profissão: Professor Universitário.
-- Escolaridade: Doutor em matemática
-- Expectativas: Deseja assistir jornais e canais de esporte.
+- Idade: 66.
+- Sexo: Feminino.
+- Profissão: Médica Veterinária.
+- Escolaridade: Ensino superior completo.
+- Expectativas: Deseja assistir jornais e novelas.
 
-&emsp;&emsp;José Andrade Pereira mora em Sobradinho, Distrito Federal. É doutor em matemática e trabalha como professor universitário na Universidade de Brasília (UnB). José assisti os jornais do meio dia e da noite na televisão e acompanha os campeonatos de futebol brasileiro em canais por assinatura e plataformas pagas de streaming.
+&emsp;&emsp;Maria Alice mora em copacabana, no Rio de Janeiro. É especialista no tratamento de animais silvestres, e trabalha no Centro de Triagem de Animais Silvestres (Cetas) do Ibama. Maria adora assistir jornais e novelas, principalmente no horário do almoço e à noite, quando chega em casa.
 
 ## 4. Histórico de versão
 
-|Versão|Data|Descrição|Autor|
-| ------ | ---------- | ----------------------------------------- | ------------ |
-| 0.1 | 26/11/2022 | Adicionando Personas e Antipersona | Josué |
+|Versão|Data|Descrição|Autor|Revisor|
+| ------ | ---------- | ----------------------------------------- | ------------ | --------- |
+| 0.1 | 28/11/2022 | Adicionando Personas e Antipersona | Josué | Gabriel Roger
