@@ -68,22 +68,21 @@ Tabela 1: Dados do usuário externo. Fonte: Grupo 6
 |RF44| O usuário pode pausar um título | Introspecção <br/>   | in  |
 |RF45| O usuário pode avançar ou retroceder na reprodução de um título | Introspecção <br/>   | in  |
 |RF46| O usuário deve ser capaz de ver as informações de um título | Introspecção <br/>   | in  |
-|RF47| O título deve possuir ao menos uma categoria | Introspecção <br/>   | in  |
+|RF47| O título deve possuir ao menos uma categoria | Introspecção <br/>  | in  |
+|RF48| O sistema deve restringir alguns títulos para perfis infantis | Introspecção<br/>  | out |
+|RF49| O sistema deve oferecer a opção de impedir downloads usando dados móveis |   | in  |
 
 Tabela 2: Requisitos Funcionais. Fonte: Grupo 6
 
 ### 3.2 Requisitos Não-Funcionais
 | ID  | Requisito | Técnica | Prioridade |
 | :-: | :-------- | :-----: | :--------: |
-|RNF1| O sistema deve restringir alguns títulos para perfis infantis | Introspecção<br/>  | out |
-|RNF2| O sistema deve oferecer a opção de impedir downloads usando dados móveis |   | in  |
-|RNF3| O sistema deve manter o tempo do título já assistido para que o usuário possa continuar assistindo posteriormente | Introspecção<br/>  | in  |
-|RNF4| O sistema deve ser responsivo | Brainstorm<br/>Introspecção<br/>Questionário<br/>   | in  |
-|RNF5| O sistema deve ser multiplataforma |   | in  |
-|RNF6| O sistema deve possuir uma boa conexão com o servidor | Brainstorm<br/> Introspecção<br/> | in  |
-|RNF7| O sistema deve proporcionar uma aba com sugestões para o usuário logado | Questionário<br/>  | in  |
-|RNF8| O sistema deve oferecer ao usuário transmissão ao vivo sem atraso | Introspecção<br/>  | in  |
-|RNF9| O sistema deve suportar o acesso simultâneo de mais de um perfil do mesmo usuário | Introspecção<br/>  | in  |
+|RNF1| O sistema deve manter o tempo do título já assistido para que o usuário possa continuar assistindo posteriormente | Introspecção<br/>  | in  |
+|RNF2| O sistema deve ser responsivo | Brainstorm<br/>Introspecção<br/>Questionário<br/>   | in  |
+|RNF3| O sistema deve ser multiplataforma |   | in  |
+|RNF4| O sistema deve possuir uma boa conexão com o servidor | Brainstorm<br/> Introspecção<br/> | in  |
+|RNF5| O sistema deve oferecer ao usuário transmissão ao vivo sem atraso | Introspecção<br/>  | in  |
+|RNF6| O sistema deve suportar o acesso simultâneo de mais de um perfil do mesmo usuário | Introspecção<br/>  | in  |
 
 
 Tabela 3: Requisitos não funcionais. Fonte: Grupo 6
