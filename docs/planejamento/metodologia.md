@@ -20,4 +20,4 @@ O quadro kanban será a base que os integrantes do grupo terão para saberem qua
 
 | Versão | Data | Descrição | Autor | Revisor
 |--------|------|-----------|-------| -------
-| 0.1 | 15/11/22 | Documento Inicial |Thiago | Vinicius
+| 0.1 | 15/11/22 | Documento Inicial |[Thiago](https://github.com/thiago-vivan) | [Vinicius](https://github.com/viniman27)
