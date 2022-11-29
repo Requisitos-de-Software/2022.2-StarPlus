@@ -60,6 +60,8 @@
 | RF40 | O usuário deve conseguir acessar um título pelo nome completo ou apenas parte dele | Observação | Alta |
 | RF41 | O usuário deve poder criar um perfil infantil | Observação | Alta |
 | RF42 | O usuário pode receber recomendações de conteúdo | Observação | Alta |
+
+Tabela 1 : Requisitos Funcionais com Níveis de prioridade
 ### 3.2 Requisitos Não-Funcionais
 | ID  | Requisito | Técnica | Prioridade |
 | :-: | :-------- | :-----: | :--------: |
@@ -72,10 +74,13 @@
 | RNF7 | O sistema deve proporcionar uma aba com sugestões para o usuário logado | Observação | Média |
 | RNF8 | O sistema deve possuir a função de reprodução automática | Observação | Média |
 
+Tabela 2 : Requisitos Não-Funcionais com Níveis de prioridade
+
+
 ## 4. Referências
 > - Karl Wiegers, Joy Beatty, Software Requirements, Third Edition - Página 319. Disponível em: Aprender3.
 > - Milene Serrano, Requisitos - Disponível em: Aprender3.
 ## 5. Histórico de Versão
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ----------- |
-| 1.0    | 29/11/2022 | Descrição do emprego da técnica de priorização exposta no documento criado. | <a href="https://github.com/JoaoPedro0803" target="_blank">@JoaoPedro0803</a> | <a href="https://github.com/hannanhunny01" target="_blank">@hannanhunny01</a> |
+| 1.0    | 29/11/2022 | Descrição do emprego da técnica de priorização exposta no documento criado. | <a href="https://github.com/JoaoPedro0803" target="_blank">João Pedro de Camargo Vaz</a> | <a href="https://github.com/hannanhunny01" target="_blank">Abdul Hannan</a> |
