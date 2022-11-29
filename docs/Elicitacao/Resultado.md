@@ -58,6 +58,12 @@
 | RF39 | O usuário deve conseguir acessar um título pelo nome completo ou apenas parte dele | Observação, Questionário |
 | RF40 | O usuário deve poder criar um perfil infantil | Observação |
 | RF41 | O usuário pode receber recomendações de conteúdo | Observação, Questionário |
+|RF42| O usuário pode alterar a senha da sua conta | Introspecção <br/>   
+|RF43| O usuário pode assistir à um título | Introspecção <br/>  
+|RF44| O usuário pode pausar um título | Introspecção <br/>  
+|RF45| O usuário pode avançar ou retroceder na reprodução de um título | Introspecção <br/>  
+|RF46| O usuário deve ser capaz de ver as informações de um título | Introspecção <br/>   
+|RF47| O título deve possuir ao menos uma categoria | Introspecção <br/>   
 
 <figcaption>Tabela 1: Requisitos funcionais.</figcaption>
 
@@ -76,6 +82,8 @@
 | RNF5 | O sistema deve ser multiplataforma | Questionário |
 | RNF6 | O sistema deve possuir uma boa conexão com o servidor | Observação, Brainstorm |
 | RNF7 | O sistema deve proporcionar uma aba com sugestões para o usuário logado | Observação, Questionário |
+ |RNF8| O sistema deve oferecer ao usuário transmissão ao vivo sem atraso | Introspecção<br/>  
+|RNF9| O sistema deve suportar o acesso simultâneo de mais de um perfil do mesmo usuário | Introspecção<br/>  
 
 
 <figcaption>Tabela 2: Requisitos não funcionais.</figcaption>
