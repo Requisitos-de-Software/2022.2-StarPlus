@@ -2,8 +2,7 @@
 
 ## 1. Introdução
 
-&emsp;&emsp;Uma persona é um personagem fictício, arquétipo hipotético de um grupo de usuários reais, criada para descrever um usuário típico. As personas são definidas principalmente por seus objetivos, que são determinados num processo de refinamentos sucessivos durante a investigação inicial do domínio de atividade do usuário.
- A partir disso, foi projetado um elenco de personas e uma anti-persona para descrever usuários típicos do StarPlus. 
+&emsp;&emsp;Uma persona é um personagem fictício, arquétipo hipotético de um grupo de usuários reais, criada para descrever um usuário típico. As personas são definidas principalmente por seus objetivos, que são determinados num processo de refinamentos sucessivos durante a investigação inicial do domínio de atividade do usuário. A partir disso, foi projetado um elenco de personas e uma anti-persona para descrever usuários típicos do StarPlus. 
 
 ## 2. Personas
 ### 2.1 Pedro Miguel Santos
