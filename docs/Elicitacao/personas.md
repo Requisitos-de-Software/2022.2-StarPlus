@@ -6,8 +6,7 @@
 
 ## 2. Formação do Elenco de Persona e Anti-Persona
 
-&emsp;&emsp;Foi utilizado como referência para a criação das personas o formato encontrado no site usability.gov.
-&emsp;&emsp;As imagens utilizadas foram obtidas no site ThisPersonDoesNotExist.
+&emsp;&emsp;Foi utilizado como referência para a criação das personas o formato encontrado no site usability.gov. As imagens utilizadas foram obtidas no site ThisPersonDoesNotExist.
 
 ## 3. Personas
 ### 3.1 Pedro Miguel Santos
