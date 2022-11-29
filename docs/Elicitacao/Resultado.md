@@ -17,7 +17,7 @@
 
 | Número | Requisito | Técnica        |
 | :------: | ---------- | :---------------------------------------------------: |
-| RF1 | O usuário deve conseguir Criar conta | Brainstorm |
+| RF1 | O usuário deve conseguir Criar conta | Brainstorm  |
 | RF2 | O usuário deve poder realizar login | Brainstorm |
 | RF3 | O usuário deve conseguir Cancelar assinatura | Brainstorm |
 | RF4 | O usuário deve poder alterar dados da conta | Brainstorm |
