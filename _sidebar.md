@@ -17,4 +17,5 @@
       - [Questionário](docs/Elicitacao/Tecnicas/Questionário.md)
    - Priorização
       - [MoSCoW](docs/Elicitacao/Priorizacao/MoSCoW.md)
+      - In or Out
     - [Resultado da Elicitação](/docs/Elicitacao/Resultado.md)
