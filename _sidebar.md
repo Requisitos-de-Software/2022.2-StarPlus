@@ -10,7 +10,7 @@
   - [Rich Picture](/docs/planejamento/richPicture.md)
  - Elicitação
     - [BrainStorm](/docs/Elicitacao/BrainStorming.md)
-    - Personas
+    - [Personas](/docs/Elicitacao/personas.md)
    - [Perfis de usuário](/docs/Elicitacao/PerfildeUsuario.md)
     - Técnicas
       - [Questionário](docs/Elicitacao/Tecnicas/Questionário.md)
