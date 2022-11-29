@@ -115,3 +115,4 @@ WIERGERS, Karl; BEATTY, Joy. Software Requirements. 3. ed. [S. l.: s. n.], 1999.
 |Versão|Data de modificação|Descrição da modificação|Autor|Revisor|
 |-|-|-|-|-|
 |1.0|28/11/2022|Criação do MoSCoW|[João Pedro de Camargo Vaz](https://github.com/JoaoPedro0803)|[Abdul](https://github.com/hannanhunny01)|
+|1.0|28/11/2022|Atualização do MoSCoW|[João Pedro de Camargo Vaz](https://github.com/JoaoPedro0803)|[Abdul](https://github.com/hannanhunny01) e [Vinicius](https://github.com/viniman27)|
