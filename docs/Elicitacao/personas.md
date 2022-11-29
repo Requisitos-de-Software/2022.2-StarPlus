@@ -1,11 +1,16 @@
-# Metodologia
+# Personas
 
 ## 1. Introdução
 
 &emsp;&emsp;Uma persona é um personagem fictício, arquétipo hipotético de um grupo de usuários reais, criada para descrever um usuário típico. As personas são definidas principalmente por seus objetivos, que são determinados num processo de refinamentos sucessivos durante a investigação inicial do domínio de atividade do usuário. A partir disso, foi projetado um elenco de personas e uma anti-persona para descrever usuários típicos do StarPlus. 
 
-## 2. Personas
-### 2.1 Pedro Miguel Santos
+## 2. Formação do Elenco de Persona e Anti-Persona
+
+&emsp;&emsp;Foi utilizado como referência para a criação das personas o formato encontrado no site usability.gov.
+&emsp;&emsp;As imagens utilizadas foram obtidas no site ThisPersonDoesNotExist.
+
+## 3. Personas
+### 3.1 Pedro Miguel Santos
 
 |     |    |
 | :-: | :- |
@@ -19,7 +24,7 @@
 | **Ambiente** | Pedro mora com os pais, mas passa a maior parte do tempo sozinho porque seus pais trabalham o dia todo. As vezes vai na casa dos seus amigos depois que termina a aula para jogar ou realizar as atividades escolares. |
 | **Expectativas** | Pedro Miguel espera conseguir assitir os principáis títulos da atualidade em qualidade 4K. |
 
-### 2.2 Ana Júlia Fogaça
+### 3.2 Ana Júlia Fogaça
 
 |     |    |
 | :-: | :- |
@@ -32,7 +37,7 @@
 | **Habilidades e Tarefas** | Ana Júlia é focado e gosta de estudar. Faz estágio em uma emissora de TV, produzindo conteúdo sobre os principais times de futebol do mundo. Adora praticar atividade física em uma academia perto do trabalho, e sempre que pode, passa o tempo com sua família assistindo filmes de romance.<br/><br/>Principáis tarefas:<br/>- Estudando um pouco todo dia para realizar as atividades e provas da faculdade.<br/>- Fazendo atividade física diariamente para exercitar o corpo.<br>- Assistindo filmes com sua família.<br/>|
 | **Ambiente** | Ana Júlia mora com seus pais e adora passar o tempo livre com sua família. Ela não é muito de sair de casa, mas as vezes se encontra com sua amiga que mora na casa ao lado. |
 | **Expectativas** | Ana Júlia espera conseguir assistir filmes de romance. |
-### 2.3 Pedro Miguel Santos
+### 3.3 Pedro Miguel Santos
 
 |     |    |
 | :-: | :- |
@@ -45,8 +50,8 @@
 | **Habilidades e Tarefas** | João Guilherme é Doutor em Engenharia Civil e trabalha na MRV empresa de construção civil. João é escritor e tem 4 livros de sua autoria sobre engenharia e inovação. Passa a maior parte do dia no seu trabalho, mas ao final do dia, pratica atividade física com sua esposa. Aos finais de semana ele gosta de ficar em casa e as vezes assiste documentários, principalmente sobre a vida animal.<br/><br/>Principáis tarefas:<br/>- Escreve seus livros diariamente antes de dormir.<br/>- Gosta de praticar atividade física.<br>- Assiste documentários no tempo livre. <br/>|
 | **Ambiente** | João Guilherme passa a maior parte do dia no trabalho com seus colegas, ele conhece muitas pessoas e tem uma rede de amizade muito grande. Sempre dedica um tempo para passar com sua esposa, principalmente aos finais de semana |
 | **Expectativas** | João espera assistir documentários sobre a vida animal com áudio e vídeo em português. |
-## 3. Antipersona
-### 3.1 Maria Alice da Luz
+## 4. Antipersona
+### 4.1 Maria Alice da Luz
 |     |    |
 | :-: | :- |
 | **Foto** | ![persona](../assets/maria.jpg) <figcaption style="font-size: 13px">Figura 4: Maria Alice da Luz</figcaption> |
@@ -68,5 +73,6 @@
 
 |Versão|Data|Descrição|Autor|Revisor|
 | ------ | ---------- | ----------------------------------------- | ------------ | --------- |
-| 0.1 | 28/11/2022 | Adicionando Personas e Antipersona | [Josué](https://github.com/zjosuez) | [Gabriel](https://github.com/GabrielRoger07)
-| 0.2 | 29/11/2022 | alterado: dimensão das imagens; adicionado: referências.  | [Josué](https://github.com/zjosuez) | [Gabriel](https://github.com/GabrielRoger07)
+| 1.0 | 28/11/2022 | Adicionando Personas e Antipersona | [Josué](https://github.com/zjosuez) | [Gabriel Roger](https://github.com/GabrielRoger07)
+| 1.1 | 29/11/2022 | alterado: dimensão das imagens; adicionado: referências.  | [Josué](https://github.com/zjosuez) | [Gabriel Roger](https://github.com/GabrielRoger07)
+| 1.2 | 29/11/2022 | Adicionando topico 2 | [Gabriel Roger](https://github.com/GabrielRoger07) | [Josué](https://github.com/zjosuez)
