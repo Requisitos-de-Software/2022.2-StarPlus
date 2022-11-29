@@ -87,4 +87,4 @@ Tabela 3: Requisitos não funcionais. Fonte: Grupo 6
 ## 5. Histórico de Versão
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ----------- |
-| 1.0    | 29/11/2022 | Criação do documento e introdução inicial. | Vinicius | Joao |
+| 1.0    | 29/11/2022 | Criação do documento e introdução inicial. | [Vinicius](https://github.com/viniman27) | [João Pedro de Camargo Vaz](https://github.com/JoaoPedro0803) |
