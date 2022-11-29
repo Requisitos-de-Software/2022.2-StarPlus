@@ -15,4 +15,5 @@
     - Técnicas
       - [Questionário](docs/Elicitacao/Tecnicas/Questionário.md)
    - Priorização
+      - [MoSCoW](docs/Elicitacao/Priorizacao/MoSCoW.md)
     - Resultado da Elicitação
