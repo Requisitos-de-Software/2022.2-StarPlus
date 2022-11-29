@@ -13,7 +13,7 @@
     - [Perfis de usuário](/docs/Elicitacao/PerfildeUsuario.md)
     - Técnicas
       - [BrainStorm](docs/Elicitacao/BrainStorming.md)
-      - [Introspecção](docs/Elicitacao/Tecnicas/instrospeccao.md)
+      - [Introspecção](docs/Elicitacao/Tecnicas/introspeccao.md)
       - [Questionário](docs/Elicitacao/Tecnicas/Questionário.md)
    - Priorização
       - [MoSCoW](docs/Elicitacao/Priorizacao/MoSCoW.md)
