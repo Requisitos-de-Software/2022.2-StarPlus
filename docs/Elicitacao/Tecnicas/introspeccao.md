@@ -1,4 +1,4 @@
-# Instrospecção
+# Introspecção
 
 ## 1. Definição
 
@@ -49,6 +49,7 @@ A partir da definição da técnica, os dois participantes da etapa realizaram a
 |28 | O usuário deve ser capaz de habilitar e desabilitar a reprodução automática |
 |29 | O usuário deve ser capaz de ter acesso aos títulos vistos anteriormente | 
 |30 | O usuário deve ser capaz de baixa um título |
+
 Tabela 1: Requisitos Funcionais.
 
 ### 4.2 Requisitos Não Funcionais
@@ -57,6 +58,7 @@ Tabela 1: Requisitos Funcionais.
 |01 |O sistema deve ser responsivo |
 |02 |O sistema deve oferecer ao usuário transmissão ao vivo sem atraso |
 |03 |O sistema deve suportar o acesso simultâneo de mais de um perfil do mesmo usuário |
+
 Tabela 2: Requisitos Não Funcionais.
 
 ## Bibliografia
