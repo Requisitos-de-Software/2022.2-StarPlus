@@ -75,16 +75,15 @@ Com o intuito de organizar melhor os requisitos do projeto, de acordo com as nec
 |RF30|O usuário deve poder usar a opção de tela cheia|Must|
 |RF31| O usuário pode excluir perfis|Must|
 |RF32| O usuário pode usar o Watch party|Won't|
-|RF33| O usuário pode pode renovar canais, filmes e series|Should|
-|RF34| O usuário pode pode ocultar vídeos|Could|
-|RF35| O usuário pode desvincular os dispositivos |Must|
-|RF36| O usuário pode excluir historico de navegação|Won't|
-|RF37| O usuário pode ver informações dos atores |Could|
-|RF38| O usuário pode ver informações da conta |Must|
-|RF39| O usuário pode diminuir o consumo de dados de celular |Should|
-|RF40| O usuário deve conseguir acessar um título pelo nome completo ou apenas parte dele |Must|
-|RF41| O usuário deve poder criar um perfil infantil |Must|
-|RF42| O usuário pode receber recomendações de conteúdo |Must|
+|RF33| O usuário pode pode ocultar vídeos|Could|
+|RF34| O usuário pode desvincular os dispositivos |Must|
+|RF35| O usuário pode excluir historico de navegação|Won't|
+|RF36| O usuário pode ver informações dos atores |Could|
+|RF37| O usuário pode ver informações da conta |Must|
+|RF38| O usuário pode diminuir o consumo de dados de celular |Should|
+|RF39| O usuário deve conseguir acessar um título pelo nome completo ou apenas parte dele |Must|
+|RF40| O usuário deve poder criar um perfil infantil |Must|
+|RF41| O usuário pode receber recomendações de conteúdo |Must|
 
 <center>
 Tabela 1: Requisitos funcionais.
@@ -101,7 +100,6 @@ Tabela 1: Requisitos funcionais.
 |RNF5| O sistema deve ser multiplataforma |Must|
 |RNF6|O sistema deve possuir uma boa conexão com o servidor |Must|
 |RNF7| O sistema deve proporcionar uma aba com sugestões para o usuário logado|Should|
-|RNF8|O sistema deve possuir a função de reprodução automática|Should|
 
 <center>
 Tabela 2: Requisitos não funcionais.
@@ -117,3 +115,4 @@ WIERGERS, Karl; BEATTY, Joy. Software Requirements. 3. ed. [S. l.: s. n.], 1999.
 |Versão|Data de modificação|Descrição da modificação|Autor|Revisor|
 |-|-|-|-|-|
 |1.0|28/11/2022|Criação do MoSCoW|[João Pedro de Camargo Vaz](https://github.com/JoaoPedro0803)|[Abdul](https://github.com/hannanhunny01)|
+|1.0|28/11/2022|Atualização do MoSCoW|[João Pedro de Camargo Vaz](https://github.com/JoaoPedro0803)|[Abdul](https://github.com/hannanhunny01) e [Vinicius](https://github.com/viniman27)|

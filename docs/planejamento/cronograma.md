@@ -54,6 +54,6 @@ Apresentação do projeto na aula | 01/12/2023 | Todos | 01/12/2023
 
 | Versão | Data | Descrição | Autor | Revisor
 |--------|------|-----------|-------| -------
-| 0.1 | 15/11/22 | Documento Inicial | Gabriel Roger | Josué
+| 0.1 | 15/11/22 | Documento Inicial | [Gabriel](https://github.com/GabrielRoger07) | [Josué](https://github.com/zjosuez)
  
 

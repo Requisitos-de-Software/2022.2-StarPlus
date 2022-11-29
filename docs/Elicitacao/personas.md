@@ -69,5 +69,5 @@
 
 |Versão|Data|Descrição|Autor|Revisor|
 | ------ | ---------- | ----------------------------------------- | ------------ | --------- |
-| 0.1 | 28/11/2022 | Adicionando Personas e Antipersona | Josué | Gabriel Roger
-| 0.2 | 29/11/2022 | alterado: dimensão das imagens; adicionado: referências.  | Josué | Gabriel Roger |
+| 0.1 | 28/11/2022 | Adicionando Personas e Antipersona | [Josué](https://github.com/zjosuez) | [Gabriel](https://github.com/GabrielRoger07)
+| 0.2 | 29/11/2022 | alterado: dimensão das imagens; adicionado: referências.  | [Josué](https://github.com/zjosuez) | [Gabriel](https://github.com/GabrielRoger07)

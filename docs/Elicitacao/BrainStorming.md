@@ -67,4 +67,4 @@ Tabela 3: Requisitos Não Funcionais
 
 | Versão | Data | Descrição | Autor | Revisor |
 |--------|------|-----------|-------|---------|
-| 0.1 | 27/11/22 | Documento inicial | Abdul Hannan | Jõao Pedro Vaz e Vinicius |
+| 0.1 | 27/11/22 | Documento inicial | [Abdul Hannan](https://github.com/hannanhunny01) | [Jõao Pedro Vaz](https://github.com/JoaoPedro0803) e [Vinicius](https://github.com/viniman27) |

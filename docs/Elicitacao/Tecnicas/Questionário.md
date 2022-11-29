@@ -102,5 +102,5 @@ Engenharia de Requisitos. Carlos R. Valquez, Guilherme S. Sinões. Disponível e
 ## Histórico de versão
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
-| 0.1 | 22/11/2022 | Criação da página de questionário | Vinicius | Thiago e João Pedro Vaz |
-| 0.2 | 28/11/2022 | Atualização com dados | Vinicius | Thiago  |
+| 0.1 | 22/11/2022 | Criação da página de questionário |  [Vinicius](https://github.com/viniman27) | [Thiago](https://github.com/thiago-vivan)  e [João Pedro Vaz](https://github.com/JoaoPedro0803) |
+| 0.2 | 28/11/2022 | Atualização com dados |  [Vinicius](https://github.com/viniman27) | [Thiago](https://github.com/thiago-vivan)   |

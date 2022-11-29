@@ -1,7 +1,10 @@
 - [Sobre](./README.md)
 - Atas das Reuniões
   - [Reunião 1](/docs/AtaReuniao/AtaReuniao(22-11).md)
-- [Apresentações](/docs/apresentacao/apresentacao.md)
+  - [Reunião 2](docs/AtaReuniao/AtaReuniao(29-11).md)
+- Apresentações
+  - [Apresentação 1](/docs/apresentacao/apresentacao.md)
+  - [Apresentação 2]
 - Planejamento
   - [Cronograma das Atividades](/docs/planejamento/cronograma.md)
   - [Ferramentas](/docs/planejamento/ferramentas.md)
@@ -9,10 +12,14 @@
 -  Pré-rastreabilidade
   - [Rich Picture](/docs/planejamento/richPicture.md)
  - Elicitação
-    - [BrainStorm](/docs/Elicitacao/BrainStorming.md)
     - [Personas](/docs/Elicitacao/personas.md)
-   - [Perfis de usuário](/docs/Elicitacao/PerfildeUsuario.md)
+    - [Perfis de usuário](/docs/Elicitacao/PerfildeUsuario.md)
     - Técnicas
+      - [BrainStorm](docs/Elicitacao/BrainStorming.md)
+      - [Introspecção](docs/Elicitacao/Tecnicas/introspeccao.md)
       - [Questionário](docs/Elicitacao/Tecnicas/Questionário.md)
    - Priorização
-    - Resultado da Elicitação
+      - [MoSCoW](docs/Elicitacao/Priorizacao/MoSCoW.md)
+      - [In or Out](docs/Elicitacao/Priorizacao/InOrOut.md)
+      - [Scale](docs/Elicitacao/Priorizacao/Scale.md)
+    - [Resultado da Elicitação](/docs/Elicitacao/Resultado.md)

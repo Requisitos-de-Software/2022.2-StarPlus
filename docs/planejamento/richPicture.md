@@ -19,6 +19,6 @@ Um Rich Picture pode auxiliar na identificação de:
 
 | Versão | Data | Descrição | Autor | Revisor
 |--------|------|-----------|-------| -------
-| 0.1 | 15/11/22 | Documento Inicial | Vinicius | Gabriel
+| 0.1 | 15/11/22 | Documento Inicial | [Vinicius](https://github.com/viniman27) | [Gabriel](https://github.com/GabrielRoger07)
 
 
