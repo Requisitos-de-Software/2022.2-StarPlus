@@ -49,16 +49,15 @@
 | RF30 | O usuário deve poder usar a opção de tela cheia | Observação |
 | RF31 | O usuário pode excluir perfis | Observação |
 | RF32 | O usuário pode usar o Watch party | Observação |
-| RF33 | O usuário pode pode renovar canais, filmes e series | Observação |
-| RF34 | O usuário pode pode ocultar vídeos | Observação |
-| RF35 | O usuário pode desvincular os dispositivos | Observação |
-| RF36 | O usuário pode excluir historico de navegação | Observação |
-| RF37 | O usuário pode ver informações dos atores | Observação |
-| RF38 | O usuário pode ver informações da conta | Observação |
-| RF39 | O usuário pode diminuir o consumo de dados de celular | Observação |
-| RF40 | O usuário deve conseguir acessar um título pelo nome completo ou apenas parte dele | Observação |
-| RF41 | O usuário deve poder criar um perfil infantil | Observação |
-| RF42 | O usuário pode receber recomendações de conteúdo | Observação |
+| RF33 | O usuário pode pode ocultar vídeos | Observação |
+| RF34 | O usuário pode desvincular os dispositivos | Observação |
+| RF35 | O usuário pode excluir historico de navegação | Observação |
+| RF36 | O usuário pode ver informações dos atores | Observação |
+| RF37 | O usuário pode ver informações da conta | Observação |
+| RF38 | O usuário pode diminuir o consumo de dados de celular | Observação |
+| RF39 | O usuário deve conseguir acessar um título pelo nome completo ou apenas parte dele | Observação |
+| RF40 | O usuário deve poder criar um perfil infantil | Observação |
+| RF41 | O usuário pode receber recomendações de conteúdo | Observação |
 
 <figcaption>Tabela 1: Requisitos funcionais.</figcaption>
 
@@ -77,7 +76,7 @@
 | RNF5 | O sistema deve ser multiplataforma | Questionário |
 | RNF6 | O sistema deve possuir uma boa conexão com o servidor | Observação, Brainstorm |
 | RNF7 | O sistema deve proporcionar uma aba com sugestões para o usuário logado | Observação |
-| RNF8 | O sistema deve possuir a função de reprodução automática | Observação |
+
 
 <figcaption>Tabela 2: Requisitos não funcionais.</figcaption>
 
@@ -85,6 +84,7 @@
 
 ## 4. Histórico de versão
 
-| Versão | Data       | Descrição                                           | Autor        |
-| ------ | ---------- | --------------------------------------------------- | ------------ |
-| 0.1    | 28/11/2022 | Associação dos requisitos levantados com as técnicas utilizadas, concebendo o resultado da elicitação  | João Pedro de Camargo Vaz e Abdul Hannan |
+| Versão | Data       | Descrição                                           | Autor        | Revisor      |
+| ------ | ---------- | --------------------------------------------------- | ------------ | ------------ |
+| 0.1    | 28/11/2022 | Associação dos requisitos levantados com as técnicas utilizadas, concebendo o resultado da elicitação  | [João Pedro de Camargo Vaz](https://github.com/JoaoPedro0803)  | [Abdul Hannan](https://github.com/hannanhunny01)
+| 0.1    | 29/11/2022 | Atualização e revisão do documento | [João Pedro de Camargo Vaz](https://github.com/JoaoPedro0803) e [Abdul Hannan](https://github.com/hannanhunny01) | [Vinicius](https://github.com/viniman27), [Josué](https://github.com/zjosuez), [Gabriel](https://github.com/GabrielRoger07) e [Thiago](https://github.com/thiago-vivan)
