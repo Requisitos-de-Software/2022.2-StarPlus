@@ -19,7 +19,6 @@
       - [Introspecção](docs/Elicitacao/Tecnicas/introspeccao.md)
       - [Questionário](docs/Elicitacao/Tecnicas/Questionário.md)
    - Priorização
-      - [MoSCoW](docs/Elicitacao/Priorizacao/MoSCoW.md)
       - [In or Out](docs/Elicitacao/Priorizacao/InOrOut.md)
       - [Scale](docs/Elicitacao/Priorizacao/Scale.md)
     - [Resultado da Elicitação](/docs/Elicitacao/Resultado.md)
