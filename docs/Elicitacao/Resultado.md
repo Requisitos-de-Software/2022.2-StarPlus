@@ -22,9 +22,9 @@
 | RF3 | O usuário deve conseguir Cancelar assinatura | Brainstorm |
 | RF4 | O usuário deve poder alterar dados da conta | Brainstorm |
 | RF5 | O usuário deve conseguir visualizar os termos e aviso de privacidade | Brainstorm |
-| RF6 | O usuário deve poder adicionar novos perfis à sua conta | Brainstorm |
+| RF6 | O usuário deve poder adicionar novos perfis à sua conta | Brainstorm, Questionário|
 | RF7 | O usuário deve conseguir realizar logout | Brainstorm |
-| RF8 | O usuário deve poder remover títulos da sua lista | Brainstorm |
+| RF8 | O usuário deve poder remover títulos da sua lista | Brainstorm, Questionário |
 | RF9 | O usuário deve ser capaz de registrar seu feedback sobre titulo | Brainstorm |
 | RF10 | O usuário deve poder acessar a página de ajuda da plataforma | Brainstorm |
 | RF11 | O usuário deve ser capaz de passar para o proximo episódio ainda na reprodução do atual | Observação |
@@ -36,28 +36,28 @@
 | RF17 | O usuário deve poder escolher qual temporada assistir de um título | Brainstorm |
 | RF18 | O usuário deve poder alterar sua foto de perfil | Brainstorm |
 | RF19 | O usuario deve conseguir ver quais filmes/series ele assistiu anteriormente |
-| RF20 | O usuário deve poder adicionar títulos à sua lista | Observação |
-| RF21 | O usuário deve ter a opção de realizar uma busca | Brainstorm |
-| RF22 | O usuário deve poder filtrar a sua busca | Brainstorm |
+| RF20 | O usuário deve poder adicionar títulos à sua lista | Observação, Questionário|
+| RF21 | O usuário deve ter a opção de realizar uma busca | Brainstorm, Questionário |
+| RF22 | O usuário deve poder filtrar a sua busca | Brainstorm, Questionário |
 | RF23 | O usuário deve ter a opção de alterar os meios de pagamento | Instrospeção e questionário |
 | RF24 | O usuário deve ser capaz de baixar os títulos | Instrospeção e questionário |
-| RF25 | O usuário deve ser capaz de escolher o idioma de áudio | Brainstorm |
-| RF26 | O usuário deve ser capaz de escolher o idioma da legenda | Brainstorm |
-| RF27 | O usuário deve ser capaz de escolher o idioma do aplicativo | Brainstorm |
-| RF28 | O usuário deve ser capaz de retirar a legenda | Observação |
-| RF29 | O usuário deve poder escolher a qualidade do vídeo | Observação |
-| RF30 | O usuário deve poder usar a opção de tela cheia | Observação |
-| RF31 | O usuário pode excluir perfis | Observação |
-| RF32 | O usuário pode usar o Watch party | Observação |
+| RF25 | O usuário deve ser capaz de escolher o idioma de áudio | Brainstorm, Questionário|
+| RF26 | O usuário deve ser capaz de escolher o idioma da legenda | Brainstorm, Questionário |
+| RF27 | O usuário deve ser capaz de escolher o idioma do aplicativo | Brainstorm, Questionário |
+| RF28 | O usuário deve ser capaz de retirar a legenda | Observação, Questionário |
+| RF29 | O usuário deve poder escolher a qualidade do vídeo | Observação , Questionário|
+| RF30 | O usuário deve poder usar a opção de tela cheia | Observação, Questionário |
+| RF31 | O usuário pode excluir perfis | Observação, Questionário |
+| RF32 | O usuário pode usar o Watch party | Observação, Questionário |
 | RF33 | O usuário pode pode ocultar vídeos | Observação |
 | RF34 | O usuário pode desvincular os dispositivos | Observação |
 | RF35 | O usuário pode excluir historico de navegação | Observação |
 | RF36 | O usuário pode ver informações dos atores | Observação |
 | RF37 | O usuário pode ver informações da conta | Observação |
 | RF38 | O usuário pode diminuir o consumo de dados de celular | Observação |
-| RF39 | O usuário deve conseguir acessar um título pelo nome completo ou apenas parte dele | Observação |
+| RF39 | O usuário deve conseguir acessar um título pelo nome completo ou apenas parte dele | Observação, Questionário |
 | RF40 | O usuário deve poder criar um perfil infantil | Observação |
-| RF41 | O usuário pode receber recomendações de conteúdo | Observação |
+| RF41 | O usuário pode receber recomendações de conteúdo | Observação, Questionário |
 
 <figcaption>Tabela 1: Requisitos funcionais.</figcaption>
 
@@ -72,10 +72,10 @@
 | RNF1 | O sistema deve restringir alguns títulos para perfis infantis | Brainstorm |
 | RNF2 | O sistema deve oferecer a opção de impedir downloads usando dados móveis | Brainstorm, instrospeção e questionário |
 | RNF3 | O sistema deve manter o tempo de filme ou série já assistido para que o usuário possa continuar assistindo posteriormente | Brainstorm |
-| RNF4 | O sistema deve ser responsivo | Brainstorm |
+| RNF4 | O sistema deve ser responsivo | Brainstorm, Questionário |
 | RNF5 | O sistema deve ser multiplataforma | Questionário |
 | RNF6 | O sistema deve possuir uma boa conexão com o servidor | Observação, Brainstorm |
-| RNF7 | O sistema deve proporcionar uma aba com sugestões para o usuário logado | Observação |
+| RNF7 | O sistema deve proporcionar uma aba com sugestões para o usuário logado | Observação, Questionário |
 
 
 <figcaption>Tabela 2: Requisitos não funcionais.</figcaption>
