@@ -69,4 +69,4 @@ Tabela 2: Requisitos Não Funcionais.
 
 | Versão | Data | Descrição | Autor | Revisor |
 |--------|------|-----------|-------|---------|
-| 1.0 | 27/11/22 | Documento inicial | Gabriel Roger | Josué Teixeira | 
+| 1.0 | 27/11/22 | Documento inicial | [Gabriel Roger](https://github.com/GabrielRoger07) | [Josué Teixeira](https://github.com/zjosuez) | 
