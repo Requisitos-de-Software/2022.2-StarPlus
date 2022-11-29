@@ -72,9 +72,9 @@ Tabela 1 : Requisitos Funcionais com Níveis de prioridade
 ### 3.2 Requisitos Não-Funcionais
 | ID  | Requisito | Técnica | Prioridade |
 | :-: | :-------- | :-----: | :--------: |
-|RNF1| O sistema deve oferecer a opção de impedir downloads usando dados móveis |   | in  |
+|RNF1| O sistema deve oferecer a opção de impedir downloads usando dados móveis | Brainstorm<br/> | in  |
 |RNF2| O sistema deve ser responsivo | Brainstorm<br/>Introspecção<br/>Questionário<br/>   | in  |
-|RNF3| O sistema deve ser multiplataforma |   | in  |
+|RNF3| O sistema deve ser multiplataforma | Brainstorm<br/> | in  |
 |RNF4| O sistema deve possuir uma boa conexão com o servidor | Brainstorm<br/> Introspecção<br/> | in  |
 |RNF5| O sistema deve oferecer ao usuário transmissão ao vivo sem atraso | Introspecção<br/>  | in  |
 |RNF6| O sistema deve suportar o acesso simultâneo de mais de um perfil do mesmo usuário | Introspecção<br/>  | in  |
