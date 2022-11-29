@@ -5,12 +5,13 @@
 ## 2. Perfil de Usuário - YouTube
   Podem ser definidos dois tipos de perfis de usuário para o aplicativo do projeto (YouTube), soomente um para espectadores/consumidores dos diversos produtos audiovisuais disponíveis na plataforma. É importante notar o enfoque da plataforma em conteúdos para pessoas com pelo menos 12 anos
 
-## 2.1 Espectadores:
-Cargo: Indefinido (variado);
-Função: Indefinido (variado);
-Experiência: A experiência com tecnologias mobile é básica.
-Nível de Alfabetização: É necessário que o usuário tenha, pelo menos, a capacidade de ler.
-Faixa Etária: 12-65 anos (de pré-adolescente até terceira idade).
+### 2.1 Espectadores:
+1. Cargo : Indefinido (variado);
+2. Função : Indefinido (variado);
+3. Experiência : A experiência com tecnologias mobile é básica.
+4. Nível de Alfabetização : É necessário que o usuário tenha, pelo menos, a capacidade de ler.
+5. Faixa Etária : 12-65 anos (de pré-adolescente até terceira idade).
+ 
 
 
 ## 3. Referências
