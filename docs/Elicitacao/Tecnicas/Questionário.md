@@ -1,6 +1,6 @@
 # Questionário
 ## 1. Definição
-  A técnica de elicitação através de questionário é baseada em realizar uma pesquisa com um conjunto de pessoas de forma a entender a opinião, visão e demais problemas relacionados a algum tema. No caso doprojeto Star+, esse questionário será realizado de forma online, pela sua particidade e facilidade de engajamento.
+  A técnica de elicitação através de questionário é baseada em realizar uma pesquisa com um conjunto de pessoas de forma a entender a opinião, visão e demais problemas relacionados a algum tema. No caso do projeto Star+, esse questionário será realizado de forma online, pela sua particidade e facilidade de engajamento.
 
 ## 2. Metodologia
   Para conseguirmos analisar os dados com precisão e diminuirmos a quantidade de respostas incoerentes com a realidade dos usuários da Star+, decidimos iniciar com a verificação de se o usuário é ativo na plataforma ou se já a utilizou alguma vez. Caso o usuário informe que nunca utilizou o Star+, redirecionamos o mesmo para a finalização do questionário. Caso contrário, seguimos com as perguntas que o grupo discerniu abranger de forma mais ampla a plataforma de streaming do projeto.

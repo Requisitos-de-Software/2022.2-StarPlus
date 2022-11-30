@@ -25,7 +25,7 @@ A partir da definição da técnica, os dois participantes da etapa realizaram a
 |05 | O usuário deve poder usar a opção de tela cheia |
 |06 | O usuário pode excluir perfis |
 |07 | O usuário pode usar o Watch party |
-|08 | O usuário pode excluir perfis |
+|08 |O usuário pode receber recomendações de conteúdo |
 |09 | O usuário pode pode ocultar vídeos |
 |10 | O usuário pode desvincular os dispositivos |
 |11 | O usuário pode excluir historico de navegação |
