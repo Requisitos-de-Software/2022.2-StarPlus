@@ -6,7 +6,8 @@
   - [Apresentação 1](/docs/apresentacao/apresentacao.md)
   - [Apresentação 2]
 - Planejamento
-  - [Cronograma das Atividades](/docs/planejamento/cronograma.md)
+  - [Cronograma das Atividades](/docs/planejamento/cronogramaAtividade.md)
+  - [Cronograma Realizado](/docs/planejamento/cronogramaRealizado.md)
   - [Ferramentas](/docs/planejamento/ferramentas.md)
   - [Metodologia](/docs/planejamento/metodologia.md)
 -  Pré-rastreabilidade
