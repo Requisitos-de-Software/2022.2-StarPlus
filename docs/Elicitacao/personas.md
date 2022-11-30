@@ -56,7 +56,7 @@
 | **Foto** | ![persona](../assets/maria.jpg) <figcaption style="font-size: 13px">Figura 4: Maria Alice da Luz</figcaption> |
 | **Nome** | Maria Alice da Luz |
 | **Ocupação** | Médica Veterinária |
-| **Dados Demográficos** | 66 anos.<br/>Viúva.<br/>Sexo Feminino.<br/>Mora com seu marido em Vicente Pires. |
+| **Dados Demográficos** | 66 anos.<br/>Viúva.<br/>Sexo Feminino.<br/>Mora sozinha em Vicente Pires. |
 | **Status** | Antipersona |
 | **Habilidades e Tarefas** | Maria Alice é médica veterinária especialista no tratamento de animais silvestres, e trabalha no Centro de Triagem de Animais Silvestres (Cetas) do Ibama. Maria adora assistir jornais e novelas, principalmente no horário do almoço e à noite, quando chega em casa. Adora visitar seus filhos que moram em São Paulo e passar um tempo com seus 2 netos.<br/><br/>Principais tarefas:<br/>- Realiza pesquisas diariamente sobre os animáis silvestres que estão no território brasileiro.<br/>- Assiste novela todos os dias.<br>- Passa um tempo com seus filhos e netos quando consegue.</br> |
 | **Ambiente** | Maria passa grande parte do dia com seus colegas de trabalho, é acostumada a viajar à trabalho para examinar animais e está sempre em contato com novas pessoas. Tem costuma de viajar para São Paulo para visitar seus filhos e ver seus netos. |
