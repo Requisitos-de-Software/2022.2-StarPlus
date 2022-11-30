@@ -82,12 +82,12 @@ Entrega do vídeo | 10/12/2022 | Todos | Todos | 03/01/2023
 
 Atividade(s) | Data  | Responsável | Revisor | Data de revisão
 ------------ | ------- | ----------| ------- | ---------------
- | Validação  | 04/01/2023 | Abdul Hannan, João Pedro de Camargo | Thiago Vivan | 10/01/2023 |
- | Verificação NFR e Personas | 04/01/2023 | Josué Teixeira, Gabriel Roger | Vinicius Assumpção | 10/01/2023 |
- | Verificação Léxicos e Cenários | 04/01/2023 | Vinicius Assumpção, Thiago Vivan | Gabriel Roger | 10/01/2023
- | Verificação Priorização e Brainstorming, Introspecção | 04/01/2023| Abdul Hannan, João Pedro de Camargo | Josué Teixeira | 10/01/2023
- | Verificação Backlog e RichPicture | 04/01/2023 | Josué Teixeira, Gabriel Roger | João Pedro de Camargo | 10/01/2023
- | Verificação Casos de Uso e Perfil do Usuário | 04/01/2023|  Vinicius Assumpção, Thiago Vivan | Abdul Hannan | 10/01/2023
+Validação  | 04/01/2023 | Abdul Hannan, João Pedro de Camargo | Thiago Vivan | 10/01/2023 |
+Verificação NFR e Personas | 04/01/2023 | Josué Teixeira, Gabriel Roger | Vinicius Assumpção | 10/01/2023 |
+Verificação Léxicos e Cenários | 04/01/2023 | Vinicius Assumpção, Thiago Vivan | Gabriel Roger | 10/01/2023
+Verificação Priorização e Brainstorming, Introspecção | 04/01/2023| Abdul Hannan, João Pedro de Camargo | Josué Teixeira | 10/01/2023
+Verificação Backlog e RichPicture | 04/01/2023 | Josué Teixeira, Gabriel Roger | João Pedro de Camargo | 10/01/2023
+Verificação Casos de Uso e Perfil do Usuário | 04/01/2023|  Vinicius Assumpção, Thiago Vivan | Abdul Hannan | 10/01/2023
 <br>
 
 
@@ -121,8 +121,8 @@ Gravação do vídeo | 17/01/2023 | Todos | Todos | 24/01/2023
 
 Atividade(s) | Data  | Responsável | Revisor | Data de revisão
 ------------ | ------- | ----------| ------- | ---------------
-  | Correções do projeto final | 25/01/2023 | Todos | Todos |01/02/2023 |
-  | Complemento das ferramentas: onde foram utilizadas no projeto | 25/01/2023 | Todos | Todos |01/02/2023 |
+Correções do projeto final | 25/01/2023 | Todos | Todos |01/02/2023 |
+Complemento das ferramentas: onde foram utilizadas no projeto | 25/01/2023 | Todos | Todos |01/02/2023 |
 Complemento: técnicas e métodos utilizadas no projeto | 25/01/2023 | Todos | Todos | 01/02/2023
 Entrega do arquivo | 25/01/2023 | Todos | Todos | 01/02/2023
 <br>
@@ -132,8 +132,9 @@ Entrega do arquivo | 25/01/2023 | Todos | Todos | 01/02/2023
 
 | Versão | Data | Descrição | Autor | Revisor
 |--------|------|-----------|-------| -------
-| 0.1 | 15/11/22 | Documento Inicial | [Gabriel](https://github.com/GabrielRoger07) | [Josué](https://github.com/zjosuez)
+| 0.1 | 15/11/2022 | Documento Inicial | [Gabriel](https://github.com/GabrielRoger07) | [Josué](https://github.com/zjosuez)
 | 0.2 | 29/11/2022 | Adicionado novas informações as tabelas | [Josué](https://github.com/GabrielRoger07) | [Gabriel](https://github.com/zjosuez)
+| 0.3 | 30/11/2022 | correção de erro na tabela | [Josué](https://github.com/GabrielRoger07) | [Gabriel](https://github.com/zjosuez)
 
  
 
