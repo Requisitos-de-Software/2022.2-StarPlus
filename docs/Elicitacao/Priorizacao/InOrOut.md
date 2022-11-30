@@ -8,7 +8,7 @@
 ## 2. Metodologia
 <p align="justify">&emsp;&emsp;Essa técnica pode ser considerada uma das mais simples, uma vez que consiste em fazer uma escolha binária para cada um dos requisitos In (dentro) ou Out (fora), representando se ele deveria ser implementado na release atual do cronograma do projeto ou não. Dessarte, ao percorrer do desenvolvimento do projeto, pode-se voltar na lista e trabalhar com os requisitos que inicialmente foram escolhidos como Out, a fim de decidir se devem ser implementados na próxima etapa.</p>
 
-<p align="justify">&emsp;&emsp;Nesse interim, o integrante do grupo Vinicius se reuniu com um usuário do YouTube não integrante da equipe e pediu/guiou a realização da técnica. O nome desse usuário externo é Davi Borges.</p>
+<p align="justify">&emsp;&emsp;Nesse interim, o integrante do grupo Vinicius se reuniu com um usuário do StarPlus não integrante da equipe e pediu/guiou a realização da técnica. O nome desse usuário externo é Davi Borges.</p>
 
 | Nome | Idade | Gênero| Ocupação | Cidade/Estado |
 | :-: | :-------- | :-----: | :--------: | :--------: |
