@@ -28,14 +28,14 @@
 | RF9 | O usuário deve ser capaz de registrar seu feedback sobre titulo | Brainstorm |
 | RF10 | O usuário deve poder acessar a página de ajuda da plataforma | Brainstorm |
 | RF11 | O usuário deve ser capaz de passar para o proximo episódio ainda na reprodução do atual | Observação |
-| RF12 | O usuário deve poder escolher qual episódio assistir ao pesquisar um título |
+| RF12 | O usuário deve poder escolher qual episódio assistir ao pesquisar um título | Observação |
 | RF13 | O usuário deve ser capaz de assistir ao trailer dos títulos | Brainstorm |
-| RF14 | O usuário deve ser capaz de desabilitar a reprodução automática |
-| RF15 | O usuário deve ser capaz de visualizar títulos recomendados |
-| RF16 | O usuário deve ser capaz de pular a abertura dos titulos |Must| |
+| RF14 | O usuário deve ser capaz de desabilitar a reprodução automática | Observação, Questionário|
+| RF15 | O usuário deve ser capaz de visualizar títulos recomendados | Observação, Questionário|
+| RF16 | O usuário deve ser capaz de pular a abertura dos titulos | Observação, Questionário| |
 | RF17 | O usuário deve poder escolher qual temporada assistir de um título | Brainstorm |
 | RF18 | O usuário deve poder alterar sua foto de perfil | Brainstorm |
-| RF19 | O usuario deve conseguir ver quais filmes/series ele assistiu anteriormente |
+| RF19 | O usuario deve conseguir ver quais filmes/series ele assistiu anteriormente | Brainstorm |
 | RF20 | O usuário deve poder adicionar títulos à sua lista | Observação, Questionário|
 | RF21 | O usuário deve ter a opção de realizar uma busca | Brainstorm, Questionário |
 | RF22 | O usuário deve poder filtrar a sua busca | Brainstorm, Questionário |
