@@ -56,10 +56,10 @@
 | **Foto** | ![persona](../assets/maria.jpg) <figcaption style="font-size: 13px">Figura 4: Maria Alice da Luz</figcaption> |
 | **Nome** | Maria Alice da Luz |
 | **Ocupação** | Médica Veterinária |
-| **Dados Demográficos** | 66 anos.<br/>Casada.<br/>Sexo Feminino.<br/>Mora com seu marido em Vicente Pires. |
+| **Dados Demográficos** | 66 anos.<br/>Viúva.<br/>Sexo Feminino.<br/>Mora com seu marido em Vicente Pires. |
 | **Status** | Antipersona |
 | **Habilidades e Tarefas** | Maria Alice é médica veterinária especialista no tratamento de animais silvestres, e trabalha no Centro de Triagem de Animais Silvestres (Cetas) do Ibama. Maria adora assistir jornais e novelas, principalmente no horário do almoço e à noite, quando chega em casa. Adora visitar seus filhos que moram em São Paulo e passar um tempo com seus 2 netos.<br/><br/>Principais tarefas:<br/>- Realiza pesquisas diariamente sobre os animáis silvestres que estão no território brasileiro.<br/>- Assiste novela todos os dias.<br>- Passa um tempo com seus filhos e netos quando consegue.</br> |
-| **Ambiente** | Na maior parte do tempo, em home office, possibilitando que tenha mais tempo para suas atividades fora do trabalho. Busca sempre terminar seu trabalho rápido para que possa pesquisar e realizar anotações para seus projetos. |
+| **Ambiente** | Maria passa grande parte do dia com seus colegas de trabalho, é acostumada a viajar à trabalho para examinar animais e está sempre em contato com novas pessoas. Tem costuma de viajar para São Paulo para visitar seus filhos e ver seus netos. |
 | **Expectativas** | Maria não tem expectativas em relação ao aplicativo porque não costuma assistir filmes/séries/documentarios. |
 
 ## 4. Referências
@@ -73,5 +73,5 @@
 |Versão|Data|Descrição|Autor|Revisor|
 | ------ | ---------- | ----------------------------------------- | ------------ | --------- |
 | 1.0 | 28/11/2022 | Adicionando Personas e Antipersona | [Josué](https://github.com/zjosuez) | [Gabriel Roger](https://github.com/GabrielRoger07)
-| 1.1 | 29/11/2022 | alterado: dimensão das imagens; adicionado: referências.  | [Josué](https://github.com/zjosuez) | [Gabriel Roger](https://github.com/GabrielRoger07)
-| 1.2 | 29/11/2022 | Adicionando topico 2 | [Gabriel Roger](https://github.com/GabrielRoger07) | [Josué](https://github.com/zjosuez)
+| 1.1 | 29/11/2022 | alterado: dimensão das imagens; adicionado: referências e conteudo do tópico 2  | [Josué](https://github.com/zjosuez) | [Gabriel Roger](https://github.com/GabrielRoger07)
+| 1.2 | 30/11/2022 | ajustando informação da persona | [Gabriel Roger](https://github.com/GabrielRoger07) | [Josué](https://github.com/zjosuez)
