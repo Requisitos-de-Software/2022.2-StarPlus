@@ -4,7 +4,7 @@ Nesta pagina podemos visualizar as atividades que foram realizadas em cada entre
 ### Primeira entrega - 21/11/2022
 ### Planejamento do projeto
 
-<p> Tabela 2 - Cronograma detalhado para primeira entrega</p>
+<p> Tabela 1 - Cronograma detalhado para primeira entrega</p>
 
 Atividade(s) | Data de Início | Responsável | Revisor | Data de Revisão |
 ------------ | ---------- | --------- | --------- | ---------- |
@@ -18,7 +18,7 @@ Detalhamento das Metodologias | 17/11/2022 | Abdul Hannan, Gabriel Roger | Vinic
 
 ### Segunda entrega - 30/11/2022
 ### Elicitação de requisitos - técnicas e priorização
-<p> Tabela 3 - Cronograma detalhado para segunda entrega</p>
+<p> Tabela 2 - Cronograma detalhado para segunda entrega</p>
 
 Atividade(s) | Data de Início | Responsável | Revisor | Data de Revisão |
 ------------ | ------- | ---------- | --------------- | ------------ |
@@ -37,4 +37,4 @@ Apresentação do projeto na aula | 22/11/2022 | Todos | Todos |---------
 
 | Versão | Data | Descrição | Autor | Revisor
 |--------|------|-----------|-------| -------
-| 0.1 | 30/11/22 | Documento com as datas e quem realizou a atividade | [Josué](https://github.com/zjosuez) | [Gabriel](https://github.com/GabrielRoger07) 
+| 0.1 | 30/11/22 | Documento com as datas e quem realizou a atividade; correção ortografica; | [Josué](https://github.com/zjosuez) | [Gabriel](https://github.com/GabrielRoger07) 
