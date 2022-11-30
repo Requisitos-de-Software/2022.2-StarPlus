@@ -94,5 +94,5 @@
 
 | Versão | Data       | Descrição                                           | Autor        | Revisor      |
 | ------ | ---------- | --------------------------------------------------- | ------------ | ------------ |
-| 0.1    | 28/11/2022 | Associação dos requisitos levantados com as técnicas utilizadas, concebendo o resultado da elicitação  | [João Pedro de Camargo Vaz](https://github.com/JoaoPedro0803)  | [Abdul Hannan](https://github.com/hannanhunny01)
-| 0.1    | 29/11/2022 | Atualização e revisão do documento | [João Pedro de Camargo Vaz](https://github.com/JoaoPedro0803) e [Abdul Hannan](https://github.com/hannanhunny01) | [Vinicius](https://github.com/viniman27), [Josué](https://github.com/zjosuez), [Gabriel](https://github.com/GabrielRoger07) e [Thiago](https://github.com/thiago-vivan)
+| 1.0    | 28/11/2022 | Associação dos requisitos levantados com as técnicas utilizadas, concebendo o resultado da elicitação  | [João Pedro de Camargo Vaz](https://github.com/JoaoPedro0803)  | [Abdul Hannan](https://github.com/hannanhunny01)
+| 1.1    | 29/11/2022 | Atualização e revisão do documento | [João Pedro de Camargo Vaz](https://github.com/JoaoPedro0803) e [Abdul Hannan](https://github.com/hannanhunny01) | [Vinicius](https://github.com/viniman27), [Josué](https://github.com/zjosuez), [Gabriel](https://github.com/GabrielRoger07) e [Thiago](https://github.com/thiago-vivan)

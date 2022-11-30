@@ -37,4 +37,4 @@ Apresentação do projeto na aula | 22/11/2022 | Todos | Todos |---------
 
 | Versão | Data | Descrição | Autor | Revisor
 |--------|------|-----------|-------| -------
-| 0.1 | 30/11/22 | Documento com as datas e quem realizou a atividade; correção ortografica; | [Josué](https://github.com/zjosuez) | [Gabriel](https://github.com/GabrielRoger07) 
+| 1.0 | 30/11/22 | Documento com as datas e quem realizou a atividade; correção ortografica; | [Josué](https://github.com/zjosuez) | [Gabriel](https://github.com/GabrielRoger07) 
