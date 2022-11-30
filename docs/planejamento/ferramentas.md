@@ -49,5 +49,5 @@ A ferramenta Google forms auxiliará na elaboração de questionários com fins 
 
 | Versão | Data | Descrição | Autor | Revisor
 |--------|------|-----------|-------| -------
-| 0.1 | 15/11/22 | Documento Inicial | [Abdul Hannan](https://github.com/hannanhunny01) | [Josué](https://github.com/zjosuez)
-| 0.2 | 22/11/22 | Adição de mais uma ferramenta | [Vinicius](https://github.com/viniman27) | [Thiago](https://github.com/thiago-vivan)
+| 1.0 | 15/11/22 | Documento Inicial | [Abdul Hannan](https://github.com/hannanhunny01) | [Josué](https://github.com/zjosuez)
+| 1.1 | 22/11/22 | Adição de mais uma ferramenta | [Vinicius](https://github.com/viniman27) | [Thiago](https://github.com/thiago-vivan)

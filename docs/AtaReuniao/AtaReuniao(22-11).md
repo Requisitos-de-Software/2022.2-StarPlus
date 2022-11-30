@@ -29,4 +29,4 @@ Documentação e cronograma revisado e acordado por todos com sucesso
 ## Histórico de versão
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
-| 0.1 | 22/11/2022 | Criação da ata de reunião | [Vinicius](https://github.com/viniman27) | [Joao Pedro Vaz](https://github.com/JoaoPedro0803) |
+| 1.0 | 22/11/2022 | Criação da ata de reunião | [Vinicius](https://github.com/viniman27) | [Joao Pedro Vaz](https://github.com/JoaoPedro0803) |

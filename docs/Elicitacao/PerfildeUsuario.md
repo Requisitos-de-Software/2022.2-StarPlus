@@ -22,4 +22,4 @@ Star+. Acesso em: 22 de nov. de 2022. Disponível em: https://help.disneyplus.co
 ## Histórico de versão
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
-| 0.1 | 22/11/2022 | Criação da pagina de perfil de usuário | [Vinicius](https://github.com/viniman27)  | [Thiago](https://github.com/thiago-vivan)  |
+| 1.0 | 22/11/2022 | Criação da pagina de perfil de usuário | [Vinicius](https://github.com/viniman27)  | [Thiago](https://github.com/thiago-vivan)  |

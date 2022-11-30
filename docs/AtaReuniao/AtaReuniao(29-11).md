@@ -28,7 +28,7 @@ Tabela 1: Atividades a serem feitas
 
 ## Gravação da reunião
 
-
+Link da reunião [clique aqui](https://unbbr.sharepoint.com/:v:/s/RequisitosdeSoftware-Time6/EZPvOF36wM9ArOlsQ7OGwfoBbe9KF8MNqEHnHteOrAarkQ?e=msdHlE)
 
 ## Conclusão
 
@@ -37,4 +37,5 @@ Revisão e gravação realizadas com sucesso
 ## Histórico de versão
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
-| 0.1 | 22/11/2022 | Criação da ata de reunião | [Josué](https://github.com/zjosuez)  | [João Pedro de Camargo Vaz](https://github.com/JoaoPedro0803) e [Abdul Hannan](https://github.com/hannanhunny01) |
+| 1.0 | 22/11/2022 | Criação da ata de reunião | [João Pedro de Camargo Vaz](https://github.com/JoaoPedro0803)  | [Josué Teixeira](https://github.com/zjosuez) e [Abdul Hannan](https://github.com/hannanhunny01) |
+| 1.1 |29/11/2022 | Adicionado gravação da reunião | [Josué Teixeira](https://github.com/zjosuez)  | [João Pedro de Camargo](https://github.com/JoaoPedro0803) e [Abdul Hannan](https://github.com/hannanhunny01) |

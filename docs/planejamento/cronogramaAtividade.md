@@ -132,9 +132,9 @@ Entrega do arquivo | 25/01/2023 | Todos | Todos | 01/02/2023
 
 | Versão | Data | Descrição | Autor | Revisor
 |--------|------|-----------|-------| -------
-| 0.1 | 15/11/2022 | Documento Inicial | [Gabriel](https://github.com/GabrielRoger07) | [Josué](https://github.com/zjosuez)
-| 0.2 | 29/11/2022 | Adicionado novas informações as tabelas | [Josué](https://github.com/GabrielRoger07) | [Gabriel](https://github.com/zjosuez)
-| 0.3 | 30/11/2022 | correção de erro na tabela | [Josué](https://github.com/GabrielRoger07) | [Gabriel](https://github.com/zjosuez)
+| 1.0 | 15/11/2022 | Documento Inicial | [Gabriel](https://github.com/GabrielRoger07) | [Josué](https://github.com/zjosuez)
+| 1.1 | 29/11/2022 | Adicionado novas informações as tabelas | [Josué](https://github.com/GabrielRoger07) | [Gabriel](https://github.com/zjosuez)
+| 1.2 | 30/11/2022 | correção de erro na tabela | [Josué](https://github.com/GabrielRoger07) | [Gabriel](https://github.com/zjosuez)
 
  
 
