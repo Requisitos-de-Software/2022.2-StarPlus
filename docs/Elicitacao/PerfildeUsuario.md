@@ -3,7 +3,7 @@
   Perfil de usuário é uma descrição detalhada das características dos usuários cujos objetivos devem ser apoiados pelo sistema sendo projetado.(Barbosa e Silva, Livro IHC, página 174).
 
 ## 2. Perfil de Usuário - Star+
-  Podem ser definidos dois tipos de perfis de usuário para o aplicativo do projeto (Star+), soomente um para espectadores/consumidores dos diversos produtos audiovisuais disponíveis na plataforma. É importante notar o enfoque da plataforma em conteúdos para pessoas com pelo menos 12 anos
+  Pode ser definido um tipo de perfil de usuário para o aplicativo do projeto (Star+), somente um para espectadores/consumidores dos diversos produtos audiovisuais disponíveis na plataforma. É importante notar o enfoque da plataforma em conteúdos para pessoas com pelo menos 12 anos
 
 ### 2.1 Espectadores:
 1. Cargo : Indefinido (variado);
