@@ -4,7 +4,7 @@
   - [Reunião 2](docs/AtaReuniao/AtaReuniao(29-11).md)
 - Apresentações
   - [Apresentação 1](/docs/apresentacao/apresentacao.md)
-  - [Apresentação 2]
+  - [Apresentação 2](/docs/apresentacao/apresentacao2.md)
 - Planejamento
   - [Cronograma das Atividades](/docs/planejamento/cronogramaAtividade.md)
   - [Cronograma Realizado](/docs/planejamento/cronogramaRealizado.md)
