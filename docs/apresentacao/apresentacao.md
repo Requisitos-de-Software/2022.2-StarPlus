@@ -8,5 +8,5 @@
 
 | Versão | Data | Descrição | Autor | Revisor
 |--------|------|-----------|-------| -------
-| 0.1 | 15/11/22 | Adição do vídeo | [Josué](https://github.com/zjosuez) | [João Pedro de Camargo Vaz](https://github.com/JoaoPedro0803)
+| 1.0 | 15/11/22 | Adição do vídeo | [Josué](https://github.com/zjosuez) | [João Pedro de Camargo Vaz](https://github.com/JoaoPedro0803)
 
