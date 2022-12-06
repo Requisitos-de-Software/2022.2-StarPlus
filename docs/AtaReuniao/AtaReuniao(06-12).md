@@ -18,7 +18,9 @@ Revisar os artefatos desenvolvidos para no segundo ponto de controle e definir t
 | Revisar cronograma(incluir cronograma executado) e desenvolver NFR(Abdul),cenários(Thiago) | Thiago  e Abdul
 | Revisar Perfil de usuário, desenvolver casos de uso(Vinicius) e especificação suplementar(João)|  Vinicius e João
 | Revisar personas(definir primárias e secundárias), e desenvover agil e léxicos | Gabriel(Agil) e Josué(léxicos)
+
 Tabela 1: Atividades a serem feitas
+
 ## Gravação da reunião
 Link da reunião [clique aqui]()
 ## Conclusão
