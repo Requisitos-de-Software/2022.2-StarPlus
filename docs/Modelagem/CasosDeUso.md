@@ -9,9 +9,9 @@
 &emsp;&emsp;Na notação UML, o diagrama de casos de uso é o principal diagrama para modelar requisitos, com foco em requisitos funcionais.
 
 <center>
-![elements](../../assets/casos_de_uso/elementos.png)
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.2-StarPlus/gh-pages/docs/assets/casos de uso/elementos.png" alt="drawing" width="400"/>
 
-<figcaption>Imagem 1: Elementos do Diagrama de Casos de Uso.</figcaption>
+<figcaption>Imagem 1: Elementos do Diagrama de Casos de Uso. Fonte: Andrey Ricardo </figcaption>
 
 </center>
 
@@ -40,9 +40,9 @@
 
 <center>
 
-![relationship](../../assets/casos_de_uso/include.png)
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.2-StarPlus/gh-pages/docs/assets/casos de uso/include.png" alt="drawing" width="400"/>
 
-<figcaption>Imagem 2: Relacionamento include.</figcaption>
+<figcaption>Imagem 2: Relacionamento include. Fonte: UML Use Case Diagrams</figcaption>
 
 </center>
 
@@ -52,9 +52,9 @@
 
 <center>
 
-![relationship](../../assets/casos_de_uso/extend.png)
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.2-StarPlus/gh-pages/docs/assets/casos de uso/extend.png" alt="drawing" width="400"/>
 
-<figcaption>Imagem 3: Relacionamento extend.</figcaption>
+<figcaption>Imagem 3: Relacionamento extend. Fonte: UML Use Case Diagrams</figcaption>
 
 </center>
 
@@ -63,22 +63,20 @@
 
 <center>
 
-![generalization](../../assets/casos_de_uso/generalization.png)
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.2-StarPlus/gh-pages/docs/assets/casos de uso/generalization.png" alt="drawing" width="400"/>
 
-<figcaption>Imagem 4: Generalização.</figcaption>
+<figcaption>Imagem 4: Generalização. Fonte: UML Use Case Diagrams</figcaption>
 
 </center>
-
-
 
 ## 3. Diagramas
 
 ### 3.1 Fluxo de conta
 
 <center>
-![diagram](../../assets/casos_de_uso/diagrama1.png)
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.2-StarPlus/gh-pages/docs/assets/casos de uso/diagrama1.png" alt="drawing" width="400"/>
 
-<figcaption>Imagem 5: Diagrama do fluxo de conta.</figcaption>
+<figcaption>Imagem 5: Diagrama do fluxo de conta. Fonte: Grupo 6</figcaption>
 
 | UC01 | Informações | 
 | :----: | :------:|
@@ -95,9 +93,9 @@
 ### 3.2 Fluxo de título
 
 <center>
-![diagram](../../assets/casos_de_uso/diagrama2.png)
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.2-StarPlus/gh-pages/docs/assets/casos de uso/diagrama2.png" alt="drawing" width="400"/>
 
-<figcaption>Imagem 6: Diagrama do fluxo de título.</figcaption>
+<figcaption>Imagem 6: Diagrama do fluxo de título. Fonte: Grupo 6</figcaption>
 
 | UC02 | Informações | 
 | :----: | :------:|
@@ -114,9 +112,9 @@
 ### 3.3 Fluxo de conteúdo
 
 <center>
-![diagram](../../assets/casos_de_uso/diagrama3.png)
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.2-StarPlus/gh-pages/docs/assets/casos de uso/diagrama3.png" alt="drawing" width="400"/>
 
-<figcaption>Imagem 7: Diagrama do fluxo de conteúdo.</figcaption>
+<figcaption>Imagem 7: Diagrama do fluxo de conteúdo. Fonte: Grupo 6</figcaption>
 
 | UC03 | Informações | 
 | :----: | :------:|
