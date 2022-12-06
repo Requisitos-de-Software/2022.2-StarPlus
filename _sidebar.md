@@ -2,6 +2,7 @@
 - Atas das Reuniões
   - [Reunião 1](/docs/AtaReuniao/AtaReuniao(22-11).md)
   - [Reunião 2](docs/AtaReuniao/AtaReuniao(29-11).md)
+  - [Reunião 3](docs/AtaReuniao/AtaReuniao(06-12).md)
 - Apresentações
   - [Apresentação 1](/docs/apresentacao/apresentacao.md)
   - [Apresentação 2](/docs/apresentacao/apresentacao2.md)
