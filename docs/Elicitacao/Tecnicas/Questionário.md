@@ -5,8 +5,7 @@
 ## 2. Metodologia
   Para conseguirmos analisar os dados com precisão e diminuirmos a quantidade de respostas incoerentes com a realidade dos usuários da Star+, decidimos iniciar com a verificação de se o usuário é ativo na plataforma ou se já a utilizou alguma vez. Caso o usuário informe que nunca utilizou o Star+, redirecionamos o mesmo para a finalização do questionário. Caso contrário, seguimos com as perguntas que o grupo discerniu abranger de forma mais ampla a plataforma de streaming do projeto.
 
-
-  Foi decidido montar o questionário utilizando a plataforma Google Forms. Após um período de preparação, finalizamos a montagem do questionário com um total de 10 perguntas, tentando abordar todos os aspectos que o grupo discerniu serem mais importantes em relação ao projeto e tomamos cuidado com o tamanho do questionário para evitar desgastes por parte de quem fosse responder.
+  Foi decidido montar o questionário utilizando a plataforma Google Forms. Após um período de preparação, finalizamos a montagem do questionário com um total de 10 perguntas, tentando abordar todos os aspectos que o grupo discerniu serem mais importantes em relação ao projeto, inicialmente somente para a elicitação, mas ficou claro que a contribuição para os artefatos de perfil de usuário e priorização também se beneficiaram da pesquisa, e tomamos cuidado com o tamanho do questionário para evitar desgastes por parte de quem fosse responder.
 
 
 ## 3. Questões
@@ -102,5 +101,6 @@ Engenharia de Requisitos. Carlos R. Valquez, Guilherme S. Sinões. Disponível e
 ## Histórico de versão
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
-| 0.1 | 22/11/2022 | Criação da página de questionário |  [Vinicius](https://github.com/viniman27) | [Thiago](https://github.com/thiago-vivan)  e [João Pedro Vaz](https://github.com/JoaoPedro0803) |
-| 0.2 | 28/11/2022 | Atualização com dados |  [Vinicius](https://github.com/viniman27) | [Thiago](https://github.com/thiago-vivan)   |
+| 1.0 | 22/11/2022 | Criação da página de questionário |  [Vinicius](https://github.com/viniman27) | [Thiago](https://github.com/thiago-vivan)  e [João Pedro Vaz](https://github.com/JoaoPedro0803) |
+| 2.0 | 28/11/2022 | Atualização com dados |  [Vinicius](https://github.com/viniman27) | [Thiago](https://github.com/thiago-vivan)   |
+| 3.0 | 06/12/2022 | Atualização com objetivos mais claros|  [Vinicius](https://github.com/viniman27) | [Thiago](https://github.com/thiago-vivan)   |
