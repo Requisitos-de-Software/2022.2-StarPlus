@@ -71,6 +71,10 @@
 
 ## 3. Diagramas
 
+### OBS: É importante notar que no caso do Star+, os usuários de bom domínio tecnológico também estão incluídos nos casos dos usuários de baixo domínio tecnológico, mas não o contrário
+
+### Casos de uso para perfil com baixo dominio tecnológico
+
 ### 3.1 Fluxo de conta
 
 <center>
@@ -80,9 +84,9 @@
 
 | UC01 | Informações | 
 | :----: | :------:|
-| Descrição | O usuário deve ser capaz de criar uma conta |
+| Descrição | O usuário deve ser capaz de criar um perfil |
 | Pré-condições | Acesso à internet e um dispositivo válido |
-| Ator | Usuário |
+| Ator | Usuário com baixo dominio tecnológico |
 | Ação | O usuário cria uma conta utilizando seus dados |
 | Fluxo principal | <ul><li>O usuário acessa a aplicação</li><li>O usuário seleciona a opção de criar uma conta</li><li>O usuário fornece seus dados</li></ul> |
 | Pós-condições | O usuário poderá realizar login |
@@ -101,7 +105,7 @@
 | :----: | :------:|
 | Descrição | O usuário deve ser capaz de assistir um título |
 | Pré-condições | Uma conta válida e um título |
-| Ator | Usuário |
+| Ator | Usuário com baixo dominio tecnológico |
 | Ação | O usuário assiste um título |
 | Fluxo principal | <ul><li>O usuário acessa a aplicação</li><li>O usuário seleciona um título</li></ul> |
 | Pós-condições | O usuário poderá realizar operações no título |
@@ -120,12 +124,17 @@
 | :----: | :------:|
 | Descrição | O usuário deve ser capaz de navegar pelo conteúdo |
 | Pré-condições | Uma conta válida |
-| Ator | Usuário |
+| Ator | Usuário com baixo dominio tecnológico |
 | Ação | O usuário cria navega pelo conteúdo |
 | Fluxo principal | <ul><li>O usuário acessa a aplicação</li><li>O usuário seleciona um perfil</li></ul> |
 | Pós-condições | O usuário poderá navegar pelo conteúdo |
 
+
 </center>
+
+### Casos de uso para perfil com bom dominio tecnológico
+
+
 
 ## 4. Bibliografia
 
