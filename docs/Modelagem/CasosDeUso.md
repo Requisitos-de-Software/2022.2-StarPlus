@@ -75,12 +75,13 @@
 
 ### Casos de uso para perfil com baixo dominio tecnológico
 
-### 3.1 Fluxo de conta
+
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.2-StarPlus/gh-pages/docs/assets/casos de uso/diagramaperfil1.png" alt="drawing" width="400"/>
+<figcaption>Imagem 5: Casos de uso do usuário com baixo dominio tecnológico. Fonte: Grupo 6</figcaption>
+
+### 3.1 Fluxo de perfil
 
 <center>
-<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.2-StarPlus/gh-pages/docs/assets/casos de uso/diagrama1.png" alt="drawing" width="400"/>
-
-<figcaption>Imagem 5: Diagrama do fluxo de conta. Fonte: Grupo 6</figcaption>
 
 | UC01 | Informações | 
 | :----: | :------:|
@@ -97,9 +98,6 @@
 ### 3.2 Fluxo de título
 
 <center>
-<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.2-StarPlus/gh-pages/docs/assets/casos de uso/diagrama2.png" alt="drawing" width="400"/>
-
-<figcaption>Imagem 6: Diagrama do fluxo de título. Fonte: Grupo 6</figcaption>
 
 | UC02 | Informações | 
 | :----: | :------:|
@@ -116,9 +114,6 @@
 ### 3.3 Fluxo de conteúdo
 
 <center>
-<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.2-StarPlus/gh-pages/docs/assets/casos de uso/diagrama3.png" alt="drawing" width="400"/>
-
-<figcaption>Imagem 7: Diagrama do fluxo de conteúdo. Fonte: Grupo 6</figcaption>
 
 | UC03 | Informações | 
 | :----: | :------:|
@@ -134,6 +129,22 @@
 
 ### Casos de uso para perfil com bom dominio tecnológico
 
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.2-StarPlus/gh-pages/docs/assets/casos de uso/diagramaperfil2.png" alt="drawing" width="400"/>
+<figcaption>Imagem 6: Casos de uso do usuário com bom dominio tecnológico. Fonte: Grupo 6</figcaption>
+
+
+### 3.1 Fluxo de reprodução em segundo plano
+
+<center>
+
+| UC04 | Informações | 
+| :----: | :------:|
+| Descrição | O usuário deve ser capaz de alterar a configuração de reprodução em segundo plano|
+| Pré-condições | Acesso à internet e um dispositivo válido |
+| Ator | Usuário com bom dominio tecnológico |
+| Ação | O usuário altera para permitido a reprodução de um título em segundo plano |
+| Fluxo principal | <ul><li>O usuário acessa a aplicação</li><li>O usuário seleciona a opção de configurações</li><li>O usuário permite a reprodução de um título em segundo plano</li></ul> |
+| Pós-condições | O usuário poderá reproduzir um título em segundo plano |
 
 
 ## 4. Bibliografia
