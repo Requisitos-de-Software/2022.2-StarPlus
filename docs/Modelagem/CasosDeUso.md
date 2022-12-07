@@ -266,4 +266,5 @@
 
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
-| 1.0 | 06/12/2022 | Criação da ata de reunião | [Vinícius Assumpção](https://github.com/viniman27)  | [João Pedro de Camargo Vaz](https://github.com/JoaoPedro0803) |
+| 1.0 | 06/12/2022 | Criação da página de casos de uso | [Vinícius Assumpção](https://github.com/viniman27)  | [João Pedro de Camargo Vaz](https://github.com/JoaoPedro0803) |
+| 2.0 | 07/12/2022 | Atualização das imagens e adição de mais casos de uso  | [Vinícius Assumpção](https://github.com/viniman27)  | [João Pedro de Camargo Vaz](https://github.com/JoaoPedro0803) |
