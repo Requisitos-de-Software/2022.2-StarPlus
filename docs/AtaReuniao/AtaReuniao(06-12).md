@@ -1,6 +1,6 @@
 # Ata reunião 06/12/2022
 
-Remoto
+Presencial - Reunião realizada na UnB
 # Participantes - 
 João Pedro de Camargo
 Vinicius Assumpcao
@@ -22,10 +22,11 @@ Revisar os artefatos desenvolvidos para no segundo ponto de controle e definir t
 Tabela 1: Atividades a serem feitas
 
 ## Gravação da reunião
-Link da reunião [clique aqui]()
+Reunião presencial
 ## Conclusão
-Revisão e gravação realizadas com sucesso
+As tarefas foram separadas entre os integrantes, tanto a revisão dos artefatos do ponto de controle 2, quanto a elaboração dos artefatos do ponto de controle 3.
 ## Histórico de versão
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
 | 1.0 | 06/12/2022 | Criação da ata de reunião | [João Pedro de Camargo Vaz](https://github.com/JoaoPedro0803)  | [Josué Teixeira](https://github.com/zjosuez) e [Abdul Hannan](https://github.com/hannanhunny01) |
+| 2.0 | 07/12/2022 | Ajuste dos dados da reunião | [Josué Teixeira](https://github.com/zjosuez)  | [João Pedro de Camargo Vaz](https://github.com/JoaoPedro0803) e [Abdul Hannan](https://github.com/hannanhunny01) |
