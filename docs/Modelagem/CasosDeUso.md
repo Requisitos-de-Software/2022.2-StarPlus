@@ -90,7 +90,7 @@
 | Ator | Usuário com baixo dominio tecnológico |
 | Ação | O usuário cria uma conta utilizando seus dados |
 | Fluxo principal | <ul><li>O usuário acessa a aplicação</li><li>O usuário seleciona a opção de criar uma conta</li><li>O usuário fornece seus dados</li></ul> |
-| Pós-condições | O usuário poderá realizar login |
+| Pós-condições | O usuário poderá acessar um perfil específico |
 
 </center>
 
@@ -106,7 +106,7 @@
 | Ator | Usuário com baixo dominio tecnológico |
 | Ação | O usuário assiste um título |
 | Fluxo principal | <ul><li>O usuário acessa a aplicação</li><li>O usuário seleciona um título</li></ul> |
-| Pós-condições | O usuário poderá realizar operações no título |
+| Pós-condições | O usuário poderá assisitir a um título |
 
 </center>
 
@@ -123,21 +123,54 @@
 | Ação | O usuário cria navega pelo conteúdo |
 | Fluxo principal | <ul><li>O usuário acessa a aplicação</li><li>O usuário seleciona um perfil</li></ul> |
 | Pós-condições | O usuário poderá navegar pelo conteúdo |
+  
+  
+ ### 3.4 Fluxo de lista
+  
+| UC04 | Informações | 
+| :----: | :------:|
+| Descrição | O usuário deve ser capaz de criar uma lista de favoritos |
+| Pré-condições | Uma conta válida |
+| Ator | Usuário com baixo dominio tecnológico |
+| Ação | O usuário cria uma lista de favoritos |
+| Fluxo principal | <ul><li>O usuário acessa a aplicação</li><li>O usuário seleciona um perfil</li><li>O usuário seleciona um titulo</li><li>O usuário adiciona à lista</li></ul> |
+| Pós-condições | O usuário poderá acessar uma lista de favoritos |
+  
+  
+### 3.5 Fluxo de busca
+  
+| UC05 | Informações | 
+| :----: | :------:|
+| Descrição | O usuário deve ser capaz de buscar um título |
+| Pré-condições | Uma conta válida |
+| Ator | Usuário com baixo dominio tecnológico |
+| Ação | O usuário busca um título de interesse |
+| Fluxo principal | <ul><li>O usuário acessa a aplicação</li><li>O usuário seleciona a barra de pesquisa</li></ul><li>O usuário busca pelo título de interesse, com ou sem o uso de filtros</li> |
+| Pós-condições | O usuário poderá buscar pelo conteúdo |
+  
+### 3.6 Fluxo de alteração do idioma
+  
+| UC06 | Informações | 
+| :----: | :------:|
+| Descrição | O usuário deve ser capaz de alterrar o idioma da dublagem e/ou legenda do título |
+| Pré-condições | Uma conta válida |
+| Ator | Usuário com baixo dominio tecnológico |
+| Ação | O usuário muda o idioma da dublagem e/ou legenda do título|
+| Fluxo principal | <ul><li>O usuário acessa a aplicação</li><li>O usuário seleciona um título</li></ul><li>O usuário muda o idioma da dublagem e/ou legenda do título</li> |
+| Pós-condições | O usuário poderá navegar pelo conteúdo |
 
 
 </center>
 
 ### Casos de uso para perfil com bom dominio tecnológico
 
-<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.2-StarPlus/gh-pages/docs/assets/casos de uso/diagramaperfil2.png" alt="drawing" width="400"/>
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.2-StarPlus/gh-pages/docs/assets/casos de uso/diagramaperfil3.png" alt="drawing" width="400"/>
 <figcaption>Imagem 6: Casos de uso do usuário com bom dominio tecnológico. Fonte: Grupo 6</figcaption>
 
 
-### 3.1 Fluxo de reprodução em segundo plano
+### 3.7 Fluxo de reprodução em segundo plano
 
-<center>
-
-| UC04 | Informações | 
+| UC07 | Informações | 
 | :----: | :------:|
 | Descrição | O usuário deve ser capaz de alterar a configuração de reprodução em segundo plano|
 | Pré-condições | Acesso à internet e um dispositivo válido |
@@ -145,6 +178,83 @@
 | Ação | O usuário altera para permitido a reprodução de um título em segundo plano |
 | Fluxo principal | <ul><li>O usuário acessa a aplicação</li><li>O usuário seleciona a opção de configurações</li><li>O usuário permite a reprodução de um título em segundo plano</li></ul> |
 | Pós-condições | O usuário poderá reproduzir um título em segundo plano |
+
+### 3.8 Fluxo de compartilhamento do título
+
+| UC08 | Informações | 
+| :----: | :------:|
+| Descrição | O usuário deve ser capaz de compartilhar um título em diversas redes sociais|
+| Pré-condições | Acesso à internet e um dispositivo válido |
+| Ator | Usuário com bom dominio tecnológico |
+| Ação | O usuário compartilha um título em suas redes sociais|
+| Fluxo principal | <ul><li>O usuário acessa a aplicação</li><li>O usuário seleciona um título</li><li>O usuário seleciona a opção de compartilhar o título</li><li>O usuário seleciona  alguma das diversas redes sociais disponíveis</li></ul> |
+| Pós-condições | O usuário poderá compartilhar um título|
+
+### 3.9 Fluxo de detalhamento do título
+
+| UC09 | Informações | 
+| :----: | :------:|
+| Descrição | O usuário deve ver com mais detalhes as informações do título|
+| Pré-condições | Acesso à internet e um dispositivo válido |
+| Ator | Usuário com bom dominio tecnológico |
+| Ação | O usuário observa o título de forma mais detalhada|
+| Fluxo principal | <ul><li>O usuário acessa a aplicação</li><li>O usuário seleciona um título</li><li>O usuário seleciona a opção de detalhar o título</li></ul> |
+| Pós-condições | O usuário poderá conhecer em detalhes o título |
+
+### 3.10 Fluxo de configurações da legenda
+
+| UC10 | Informações | 
+| :----: | :------:|
+| Descrição | O usuário deve alterar as configuraçoes da legenda|
+| Pré-condições | Acesso à internet e um dispositivo válido |
+| Ator | Usuário com bom dominio tecnológico |
+| Ação | O usuário muda as configurações da legenda|
+| Fluxo principal | <ul><li>O usuário acessa a aplicação</li><li>O usuário seleciona um título</li><li>O usuário seleciona a opção de configuração da legenda</li></ul> |
+| Pós-condições | O usuário poderá alterar diversos aspectos da legenda |
+
+### 3.11 Fluxo de configurações da velocidade de reprodução
+
+| UC11 | Informações | 
+| :----: | :------:|
+| Descrição | O usuário deve alterar as configuraçoes da velocidade da reprodução|
+| Pré-condições | Acesso à internet e um dispositivo válido |
+| Ator | Usuário com bom dominio tecnológico |
+| Ação | O usuário muda as da velocidade da reprodução|
+| Fluxo principal | <ul><li>O usuário acessa a aplicação</li><li>O usuário seleciona um título</li><li>O usuário seleciona a opção de configuração da velocidade</li></ul> |
+| Pós-condições | O usuário poderá alterar a velocidade de reprodução do título |
+
+### 3.12 Fluxo de configurações da velocidade de reprodução
+
+| UC12 | Informações | 
+| :----: | :------:|
+| Descrição | O usuário deve alterar as configuraçoes da velocidade da reprodução|
+| Pré-condições | Acesso à internet e um dispositivo válido |
+| Ator | Usuário com bom dominio tecnológico |
+| Ação | O usuário muda as da velocidade da reprodução|
+| Fluxo principal | <ul><li>O usuário acessa a aplicação</li><li>O usuário seleciona um título</li><li>O usuário seleciona a opção de configuração da velocidade</li></ul> |
+| Pós-condições | O usuário poderá alterar a velocidade de reprodução do título |
+
+### 3.13 Fluxo de download
+
+| UC13 | Informações | 
+| :----: | :------:|
+| Descrição | O usuário deve baixar um título|
+| Pré-condições | Acesso à internet e um dispositivo válido |
+| Ator | Usuário com bom dominio tecnológico |
+| Ação | O usuário baixa um título|
+| Fluxo principal | <ul><li>O usuário acessa a aplicação</li><li>O usuário seleciona um título</li><li>O usuário seleciona a opção de baixar o título</li></ul> |
+| Pós-condições | O usuário poderá acessar o títlo mesmo offline |
+
+### 3.14 Fluxo de configuração de rede móvel
+
+| UC14 | Informações | 
+| :----: | :------:|
+| Descrição | O usuário deve alterar as configurações de funcionamneto com base em redes móveis|
+| Pré-condições | Acesso à internet e um dispositivo válido |
+| Ator | Usuário com bom dominio tecnológico |
+| Ação | O usuário altera as configurações de funcionamneto com base em redes móveis|
+| Fluxo principal | <ul><li>O usuário acessa a aplicação</li><li>O usuário seleciona as configurações do app</li><li>O usuário seleciona a opção de alterar o limite de funcionamento com base em redes móveis</li></ul> |
+| Pós-condições | O usuário poderá alterar o limite de funcionamneto do app com base em redes móveis |
 
 
 ## 4. Bibliografia
