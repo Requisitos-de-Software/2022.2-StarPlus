@@ -27,7 +27,7 @@
     - [Resultado da Elicitação](/docs/Elicitacao/Resultado.md)
  - Modelagem
     - Cenários
-    - Léxicos
+    - [Léxicos](docs/Modelagem/lexicos.md)
     - [Casos de uso](docs/Modelagem/CasosDeUso.md)
     - [Especificação Suplementar](docs/Modelagem/especificacao_suplementar/especificacao.md)
     - NFR framework
