@@ -29,6 +29,6 @@
     - Cenários
     - Léxicos
     - [Casos de uso](docs/Modelagem/CasosDeUso.md)
-    - Especificação Suplementar
+    - [Especificação Suplementar](docs/Modelagem/especificacao_suplementar/especificacao.md)
     - NFR framework
     - Ágil 
