@@ -73,7 +73,7 @@
 
 ### OBS: É importante notar que no caso do Star+, os usuários de bom domínio tecnológico também estão incluídos nos casos dos usuários de baixo domínio tecnológico, mas não o contrário
 
-### Casos de uso para perfil com baixo dominio tecnológico
+## Casos de uso para perfil com baixo dominio tecnológico
 
 
 <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.2-StarPlus/gh-pages/docs/assets/casos de uso/diagramaperfil1.png" alt="drawing" width="400"/>
@@ -162,7 +162,7 @@
 
 </center>
 
-### Casos de uso para perfil com bom dominio tecnológico
+## Casos de uso para perfil com bom dominio tecnológico
 
 <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.2-StarPlus/gh-pages/docs/assets/casos de uso/diagramaperfil3.png" alt="drawing" width="400"/>
 <figcaption>Imagem 6: Casos de uso do usuário com bom dominio tecnológico. Fonte: Grupo 6</figcaption>
