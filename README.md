@@ -19,12 +19,6 @@ O serviço também tem uma programação original exclusiva do Star (o serviço 
 <table>
     <tr style="text-align: center">
         <td>
-            <a href="https://github.com/zjosuez">
-                <img style="border-radius: 50%;" src="https://github.com/zjosuez.png" width="100px;"/><br/>
-                Josué Teixeira
-            </a>
-        </td>
-        <td>
             <a href="https://github.com/hannanhunny01">
                 <img style="border-radius: 50%;" src="https://github.com/hannanhunny01.png" width="100px;"/><br />         
                 Abdul Hannan
@@ -43,15 +37,21 @@ O serviço também tem uma programação original exclusiva do Star (o serviço 
             </a>
         </td>
         <td>
-            <a href="https://github.com/viniman27">
-                <img style="border-radius: 50%;" src="https://github.com/viniman27.png" width="100px;"/><br />         
-                Vinicius Assumpcao
+            <a href="https://github.com/zjosuez">
+                <img style="border-radius: 50%;" src="https://github.com/zjosuez.png" width="100px;"/><br/>
+                Josué Teixeira
             </a>
         </td>
         <td>
             <a href="https://github.com/thiago-vivan">
                 <img style="border-radius: 50%;" src="https://github.com/thiago-vivan.png" width="100px;"/><br />         
                 Thiago Vivan
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/viniman27">
+                <img style="border-radius: 50%;" src="https://github.com/viniman27.png" width="100px;"/><br />         
+                Vinicius Assumpcao
             </a>
         </td>
     </tr>
@@ -61,6 +61,7 @@ O serviço também tem uma programação original exclusiva do Star (o serviço 
 ## Histórico de versão
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
-| 1.0 | 15/11/2022 | Criação do documento | Josué | Joao Pedro Vaz |
+| 1.0 | 15/11/2022 | Criação do documento | [Josué Teixeira](https://github.com/zjosuez) | [João Pedro de Camargo Vaz](https://github.com/JoaoPedro0803) |
+| 2.0 | 07/12/2022 | Equipe em ordem alfabética | [Josué Teixeira](https://github.com/zjosuez) | [João Pedro de Camargo Vaz](https://github.com/JoaoPedro0803) |
  
       
