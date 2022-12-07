@@ -103,6 +103,6 @@
 
 ## 5. Histórico de versão
 
-| Versão | Data       | Descrição                      | Autor        |
-| ------ | ---------- | ------------------------------ | ------------ |
-| 0.1    | 06/12/2022 | Criação do documento | João Pedro de Camargo Vaz |
+| Versão | Data       | Descrição                      | Autor        |Revisor        |
+| ------ | ---------- | ------------------------------ | ------------ |------------ |
+| 0.1    | 06/12/2022 | Criação do documento | João Pedro de Camargo Vaz | Vinicius  |
