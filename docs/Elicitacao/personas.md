@@ -6,7 +6,7 @@
 
 ## 2. Formação do Elenco de Persona e Anti-Persona
 
-&emsp;&emsp;O Elenco das personas foi construido de forma que todos os perfis de usuários fossem devidamente representados, resultando em três personas e uma anti-persona. Foi utilizado como referência para a criação das personas o formato encontrado no site usability.gov. As imagens utilizadas foram obtidas no site ThisPersonDoesNotExist.
+&emsp;&emsp;O Elenco das personas foi construido de forma que todos os perfis de usuários fossem devidamente representados, tanto jovens, quanto pessoas mais experiêntes, com muito ou pouco conhecimento em tecnologia. Resultando em três personas e uma anti-persona. As imagens utilizadas foram obtidas no site ThisPersonDoesNotExist.
 
 ## 3. Personas
 ### 3.1 Pedro Miguel Santos
@@ -36,7 +36,7 @@
 | **Habilidades e Tarefas** | Ana Júlia é focada e gosta de estudar. Faz estágio em uma emissora de TV, produzindo conteúdo sobre os principais times de futebol do mundo. Adora praticar atividade física em uma academia perto do trabalho, e sempre que pode, passa o tempo com sua família assistindo filmes de romance.<br/><br/>Principais tarefas:<br/>- Estudar um pouco todo dia para realizar as atividades e provas da faculdade.<br/>- Fazer atividade física diariamente para exercitar o corpo.<br>- Assistir filmes com sua família.<br/>|
 | **Ambiente** | Ana Júlia mora com seus pais e adora passar o tempo livre com sua família. Ela não é muito de sair de casa, mas as vezes se encontra com sua amiga que mora na casa ao lado. |
 | **Expectativas** | Ana Júlia espera conseguir assistir filmes de romance. |
-### 3.3 Pedro Miguel Santos
+### 3.3 João Guilherme Santos
 
 |     |    |
 | :-: | :- |
@@ -58,7 +58,7 @@
 | **Ocupação** | Médica Veterinária |
 | **Dados Demográficos** | 66 anos.<br/>Viúva.<br/>Sexo Feminino.<br/>Mora sozinha em Vicente Pires. |
 | **Status** | Antipersona |
-| **Habilidades e Tarefas** | Maria Alice é médica veterinária especialista no tratamento de animais silvestres, e trabalha no Centro de Triagem de Animais Silvestres (Cetas) do Ibama. Maria adora assistir jornais e novelas, principalmente no horário do almoço e à noite, quando chega em casa. Adora visitar seus filhos que moram em São Paulo e passar um tempo com seus 2 netos.<br/><br/>Principais tarefas:<br/>- Realiza pesquisas diariamente sobre os animáis silvestres que estão no território brasileiro.<br/>- Assiste novela todos os dias.<br>- Passa um tempo com seus filhos e netos quando consegue.</br> |
+| **Habilidades e Tarefas** | Maria Alice é médica veterinária especialista no tratamento de animais silvestres, e trabalha no Centro de Triagem de Animais Silvestres (Cetas) do Ibama. Maria adora assistir jornais e novelas, principalmente no horário do almoço e à noite, quando chega em casa. Ela não tem muita afinidade com tecnologia e usa um celular do modelo mais antigo, porque é mais simples de usar.  Adora visitar seus filhos que moram em São Paulo e passar um tempo com seus 2 netos.<br/><br/>Principais tarefas:<br/>- Realiza pesquisas diariamente sobre os animáis silvestres que estão no território brasileiro.<br/>- Assiste novela todos os dias.<br>- Passa um tempo com seus filhos e netos quando consegue.</br> |
 | **Ambiente** | Maria passa grande parte do dia com seus colegas de trabalho, é acostumada a viajar à trabalho para examinar animais e está sempre em contato com novas pessoas. Tem costuma de viajar para São Paulo para visitar seus filhos e ver seus netos. |
 | **Expectativas** | Maria não tem expectativas em relação ao aplicativo porque não costuma assistir filmes/séries/documentarios. |
 
@@ -75,3 +75,4 @@
 | 1.0 | 28/11/2022 | Adicionando Personas e Antipersona | [Josué](https://github.com/zjosuez) | [Gabriel Roger](https://github.com/GabrielRoger07)
 | 1.1 | 29/11/2022 | alterado: dimensão das imagens; adicionado: referências e conteudo do tópico 2  | [Josué](https://github.com/zjosuez) | [Gabriel Roger](https://github.com/GabrielRoger07)
 | 1.2 | 30/11/2022 | ajustando informação da persona | [Gabriel Roger](https://github.com/GabrielRoger07) | [Josué](https://github.com/zjosuez)
+| 1.3 | 07/12/2022 | alterado: Incrementado alguns dados sobre a formação do elenco; Atualizado atividades da persona  | [Josué](https://github.com/zjosuez) | [Gabriel Roger](https://github.com/GabrielRoger07)
