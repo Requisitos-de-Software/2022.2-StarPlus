@@ -30,5 +30,4 @@
     - [Léxicos](docs/Modelagem/lexicos.md)
     - [Casos de uso](docs/Modelagem/CasosDeUso.md)
     - [Especificação Suplementar](docs/Modelagem/especificacao_suplementar/especificacao.md)
-    - NFR framework
-    - Ágil 
+
