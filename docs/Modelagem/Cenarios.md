@@ -6,7 +6,7 @@
 ## Metodologia                               
 
    Ele descreve uma situação de uso do sistema. Utilizaremos a tabela 1 a seguir como modelo para os cenários. Inclui informações como Nome do Cenário, Ator(es), Pré-condição, Fluxo normal, Fluxos alternativos e Pós-condição. Também é o espaço real ou virtual.
-<br>
+
 | Modelo |Cenários |
 | --------- | -----------|
 | Título | Título do Cenário |
@@ -17,9 +17,10 @@
 | Episódios |	Detalhes do cenários |
 | Restrições |	Descrição da retrição |
 | Exceção |    	Descrição da exceção |
-<br>
+
+
 Tabela 1: Estrutura de um Cenário. Fonte: Thiago Vivan, Abdul Hannan
-<br>
+
 
 ## Cenários:
 
