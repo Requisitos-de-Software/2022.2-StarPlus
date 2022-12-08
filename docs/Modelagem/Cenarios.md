@@ -7,7 +7,7 @@
 
    Ele descreve uma situação de uso do sistema. Utilizaremos a tabela 1 a seguir como modelo para os cenários. Inclui informações como Nome do Cenário, Ator(es), Pré-condição, Fluxo normal, Fluxos alternativos e Pós-condição. Também é o espaço real ou virtual.
 
-| Tabela Modelo Cenários |
+| Teste | Tabela |
 | --------- | -----------|
 | Título | Título do Cenário |
 | Objetivo |	  Objetivo/meta do cenarios |
