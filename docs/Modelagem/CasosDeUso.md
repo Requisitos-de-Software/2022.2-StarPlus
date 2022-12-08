@@ -113,8 +113,6 @@
 
 ### 3.3 Fluxo de conteúdo
 
-<center>
-
 | UC03 | Informações | 
 | :----: | :------:|
 | Descrição | O usuário deve ser capaz de navegar pelo conteúdo |
@@ -159,8 +157,6 @@
 | Fluxo principal | <ul><li>O usuário acessa a aplicação</li><li>O usuário seleciona um título</li></ul><li>O usuário muda o idioma da dublagem e/ou legenda do título</li> |
 | Pós-condições | O usuário poderá navegar pelo conteúdo |
 
-
-</center>
 
 ## Casos de uso para perfil com bom dominio tecnológico
 
