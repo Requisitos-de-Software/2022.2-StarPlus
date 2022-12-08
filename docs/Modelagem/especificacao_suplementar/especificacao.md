@@ -84,10 +84,10 @@
 
 | Sigla | Categoria | Requisitos                                      |
 |:------: | :------: | :--------------------------------------------------: |
-| F | Funcionalidade   | RNF1 (técnica: brainstorm), RNF3 (técnica: brainstorm), RNF5 (técnica: brainstorm), RNF8 (técnica: introspecção), RNF9 (técnica: introspecção)|
+| F | Funcionalidade   | RNF1 (técnica: brainstorm), RNF3 (técnica: brainstorm), RNF5 (técnica: brainstorm), RNF9 (técnica: introspecção)|
 | U | Usabilidade | RNF4 (técnicas: brainstorm, questionário) 
 | R | Confiabilidade | - |
-| P | Performance | RNF6 (técnicas: observação e brainstorm), RNF8|
+| P | Performance | RNF6 (técnicas: observação e brainstorm), RNF8 (técnica: introspecção)|
 | S | Suportabilidade | RNF2 (técnicas: brainstorm, introspecção e questionário) |
 | + | Outros | RNF7 (técnicas: observação e questionário) |
 
