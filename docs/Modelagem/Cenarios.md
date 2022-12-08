@@ -7,7 +7,8 @@
 
    Ele descreve uma situação de uso do sistema. Utilizaremos a tabela 1 a seguir como modelo para os cenários. Inclui informações como Nome do Cenário, Ator(es), Pré-condição, Fluxo normal, Fluxos alternativos e Pós-condição. Também é o espaço real ou virtual.
 
-
+| Tabela Modelo Cenários |
+| --------- | -----------|
 | Título |      Título do Cenário |
 | Objetivo |	  Objetivo/meta do cenarios |
 | Contexto |      Local, Tempo, Pré-Condição |
@@ -16,6 +17,9 @@
 | Episódios |	Detalhes do cenários |
 | Restrições |	Descrição da retrição |
 | Exceção |    	Descrição da exceção |
+
+Tabela 1: Estrutura de um Cenário. Fonte: Thiago Vivan, Abdul Hannan
+
 
 ## 3. Cenários:
 
@@ -37,6 +41,8 @@ Preencher os dados necessários
 Confirmar e-mail |
 | Rastreabilidade | RF1 |
 
+Tabela 2: Cenario 1. Fonte: Thiago Vivan, Abdul Hannan
+
 
 ### Cenário 2: Realizar Login
 
@@ -52,6 +58,8 @@ Clicar em apagar Conta
 Selecionar motivo
 Clicar em "tenho certeza" |
 | Rastreabilidade |RF3|
+
+Tabela 3: Cenario 2. Fonte: Thiago Vivan, Abdul Hannan
 
 
 ### Cenário 3: Cancelar Assinatura
@@ -69,6 +77,7 @@ Selecionar motivo
 Clicar em "tenho certeza" |
 | Rastreabilidade |RF3|
 
+Tabela 4: Cenario 3. Fonte: Thiago Vivan, Abdul Hannan
 
 ### Cenário 4: Remover titulo
 
@@ -84,6 +93,7 @@ clique em Minha lista e selecione um título
 E em seguida, selecione a marca de seleção |
 | Rastreabilidade |RF8|
 
+Tabela 5: Cenario 4. Fonte: Thiago Vivan, Abdul Hannan
 
 ### Cenário 5: Buscar ajuda
 
@@ -97,6 +107,8 @@ Pré-Condição: estar logado |
 | Episódios | Acessar Configurações
 Clicar em Ajuda |
 | Rastreabilidade | RF10 |
+
+Tabela 6: Cenario 5. Fonte: Thiago Vivan, Abdul Hannan
 
 ### Cenário 6: Passar para o proximo episódio
 
@@ -112,6 +124,8 @@ Conta Star+ Ativa |
 | Episódios | Clicar em botão de Próximo episodio |
 | Rastreabilidade | RF11 |
 
+Tabela 7: Cenario 6. Fonte: Thiago Vivan, Abdul Hannan
+
 ### Cenário 7: Escolher temporada
 
 | Objetivo | Poder escolher a qual temporada de um titulo assistir |
@@ -125,6 +139,8 @@ Conta Star+ Ativa |
 | Episódios | Clicar no titulo a qual quer assistir |
 | Rastreabilidade | RF17 |
 
+Tabela 8: Cenario 7. Fonte: Thiago Vivan, Abdul Hannan
+
 ### Cenário 8: Acessar histórico
 
 | Objetivo | Assinante Star+ deseja saber quais títulos já foram assistidos |
@@ -137,6 +153,8 @@ Conta Star+ Ativa |
 Histórico está vazio |
 | Episódios | Clicar em Histórico de Reprodução |
 | Rastreabilidade | RF19 |
+
+Tabela 9: Cenario 8. Fonte: Thiago Vivan, Abdul Hannan
 
 ### Cenário 9: Realiza busca
 
@@ -152,6 +170,8 @@ o usuário escolhe a opção de digitação ou comando pelo microfone,
 o usuário clica no botão de pesquisa |
 | Rastreabilidade | RF21 |
 
+Tabela 10: Cenario 9. Fonte: Thiago Vivan, Abdul Hannan
+
 ### Cenário 10: Adicionar filtro de busca
 
 | Objetivo | Assinante Star+ deseja buscar um título utilizando Filtros |
@@ -166,6 +186,8 @@ O usuário clica em Filtros
 O usuário seleciona os Filtros desejados
 O usuário clica em Aplicar filtros |
 | Rastreabilidade | RF22 |
+
+Tabela 11: Cenario 10. Fonte: Thiago Vivan, Abdul Hannan
 
 ### Cenário 11: Alterar meios de pagamento
 
@@ -185,6 +207,8 @@ Inserir novos dados
 Clicar em Salvar |
 | Rastreabilidade | RF23 |
 
+Tabela 12: Cenario 11. Fonte: Thiago Vivan, Abdul Hannan
+
 ### Cenário 12: Baixar Título
 
 | Objetivo | Assinante Star+ deseja baixar um titulo para reprodução offline |
@@ -198,6 +222,9 @@ Conta Star+ Ativa |
 | Episódios | Clicar em Baixar titulo/episodio |
 | Rastreabilidade | RF24 |
 
+Tabela 13: Cenario 12. Fonte: Thiago Vivan, Abdul Hannan
+
+
 ### Cenário 13: Mudar idioma, audio,Retirar legenda    
 
 | Objetivo | Mudar idioma, audio,Retirar legenda de um titulo  |
@@ -205,7 +232,8 @@ Conta Star+ Ativa |
 Tempo: 1 minuto
 Pré-Condição:Assistindo título  |
 | Atores | assinante |
-| Recursos |  |
+| Recursos | Dispositivo com acesso a internet e compatível com Star+
+Conta Star+ Ativa |
 | Exceção |  título sem legendas ou sem dublagem idioma  |
 | Episódios | Abra o StarPlus.
 Selecione um programa de TV ou filme.
@@ -213,6 +241,9 @@ Comece a jogar e execute a ação listada para o seu dispositivo:
 Na parte superior ou inferior da tela, selecione Áudio e legendas . Nas TVs, as opções de idioma podem aparecer na parte inferior sem o ícone. Você pode escolher entre os idiomas mostrados ou selecionar Outros para ver todas as opções de idioma.
 Faça alterações nas seleções de áudio ou legenda. |
 | Rastreabilidade | RF25,RF28 |
+
+Tabela 14: Cenario 13. Fonte: Thiago Vivan, Abdul Hannan
+
 
 ## 4. Bibliografia
 
