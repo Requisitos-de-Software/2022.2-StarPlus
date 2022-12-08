@@ -81,7 +81,6 @@
 
 ### 3.1 Fluxo de perfil
 
-<center>
 
 | UC01 | Informações | 
 | :----: | :------:|
@@ -92,12 +91,9 @@
 | Fluxo principal | <ul><li>O usuário acessa a aplicação</li><li>O usuário seleciona a opção de criar uma conta</li><li>O usuário fornece seus dados</li></ul> |
 | Pós-condições | O usuário poderá acessar um perfil específico |
 
-</center>
-
-
 ### 3.2 Fluxo de título
 
-<center>
+
 
 | UC02 | Informações | 
 | :----: | :------:|
@@ -108,12 +104,9 @@
 | Fluxo principal | <ul><li>O usuário acessa a aplicação</li><li>O usuário seleciona um título</li></ul> |
 | Pós-condições | O usuário poderá assisitir a um título |
 
-</center>
 
 
 ### 3.3 Fluxo de conteúdo
-
-<center>
 
 | UC03 | Informações | 
 | :----: | :------:|
@@ -159,8 +152,6 @@
 | Fluxo principal | <ul><li>O usuário acessa a aplicação</li><li>O usuário seleciona um título</li></ul><li>O usuário muda o idioma da dublagem e/ou legenda do título</li> |
 | Pós-condições | O usuário poderá navegar pelo conteúdo |
 
-
-</center>
 
 ## Casos de uso para perfil com bom dominio tecnológico
 

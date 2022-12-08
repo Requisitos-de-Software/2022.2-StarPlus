@@ -26,7 +26,7 @@
       - [Scale](docs/Elicitacao/Priorizacao/Scale.md)
     - [Resultado da Elicitação](/docs/Elicitacao/Resultado.md)
  - Modelagem
-    - Cenários
+    - [Cenários](docs/Modelagem/Cenarios.md)
     - [Léxicos](docs/Modelagem/lexicos.md)
     - [Casos de uso](docs/Modelagem/CasosDeUso.md)
     - [Especificação Suplementar](docs/Modelagem/especificacao_suplementar/especificacao.md)
