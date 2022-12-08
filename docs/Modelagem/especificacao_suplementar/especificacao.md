@@ -84,12 +84,12 @@
 
 | Sigla | Categoria | Requisitos                                      |
 |:------: | :------: | :--------------------------------------------------: |
-| F | Funcionalidade   | RNF1, RNF3, RNF5, RNF8, RNF9|
-| U | Usabilidade | RNF4 |
+| F | Funcionalidade   | RNF1 (técnica: brainstorm), RNF3 (técnica: brainstorm), RNF5 (técnica: brainstorm), RNF8 (técnica: introspecção), RNF9 (técnica: introspecção)|
+| U | Usabilidade | RNF4 (técnicas: brainstorm, questionário) 
 | R | Confiabilidade | - |
-| P | Performance | RNF6, RNF8|
-| S | Suportabilidade | RNF2 |
-| + | Outros | RNF7 |
+| P | Performance | RNF6 (técnicas: observação e brainstorm), RNF8|
+| S | Suportabilidade | RNF2 (técnicas: brainstorm, introspecção e questionário) |
+| + | Outros | RNF7 (técnicas: observação e questionário) |
 
 <figcaption>Tabela 1: Categorização dos requisitos não funcionais pelo modelo FURPS+</figcaption>
 
