@@ -1,0 +1,225 @@
+# Cenários
+
+## 1. Introdução
+  Um cenário nada mais é do que uma história curta ou uma descrição de como um evento (ou eventos futuros) pode impactar as operações de uma empresa. Cenários são criados tanto para o ambiente interno quanto para o externo (ou seja, para todos os riscos corporativos que impactam uma organização). Os cenários são exemplos da vida real em que o sistema é ou será utilizado. Sendo assim, os cenários podem ser úteis para adicionar detalhes a uma descrição geral de requisito. Trata-se de descrições de iterações do usuário com o sistema. Portanto, cada cenário cobre um pequeno número de interações possíveis e, além disso, diferentes cenários são desenvolvidos, evidenciando diversos tipos de informação em variados níveis de detalhamento sobre o sistema. O objetivo desse artefato é registrar todos os cenários observados.
+
+## 2. Metodologia                               
+
+   Ele descreve uma situação de uso do sistema. Utilizaremos a tabela 1 a seguir como modelo para os cenários. Inclui informações como Nome do Cenário, Ator(es), Pré-condição, Fluxo normal, Fluxos alternativos e Pós-condição. Também é o espaço real ou virtual.
+
+
+| Título |      Título do Cenário |
+| Objetivo |	  Objetivo/meta do cenarios |
+| Contexto |      Local, Tempo, Pré-Condição |
+| Ator/Atores |      envolvidos |
+| Recursos |	 Recursos envolvidos |
+| Episódios |	Detalhes do cenários |
+| Restrições |	Descrição da retrição |
+| Exceção |    	Descrição da exceção |
+
+## 3. Cenários:
+
+### Cenário 1: Criar Conta
+
+| Objetivo | Assinante Star+ poder usar a plataforma |
+| Contexto | Local: Página inicial
+Tempo: 5-10 minutos
+Pré-Condição: |
+| Atores | Assinante Star+ |
+| Recursos | Dispositivo com acesso a internet
+Forma de pagamento válida
+Email válido |
+| Exceção | Perda da conexão com a internet
+Dados fornecidos inválidos |
+| Episódios | Acessar site ou aplicativo Star 
+Clicar em Criar conta
+Preencher os dados necessários
+Confirmar e-mail |
+| Rastreabilidade | RF1 |
+
+
+### Cenário 2: Realizar Login
+
+| Objetivo | Assinante Star+ poder fazer login no Star+|
+| Contexto |  Local: Tela inicial 
+Tempo: 1-5 minutos
+ Pré Condição: Ter conta ativa no Star |
+| Atores |   Assinante Star+  |
+| Recursos | Computador ou SmartPhone com Internet , Acesso a StarPlus |
+| Exceção | Sem Internet, Sem Assinatura |
+| Episódios | Clicar em Configurações de conta
+Clicar em apagar Conta
+Selecionar motivo
+Clicar em "tenho certeza" |
+| Rastreabilidade |RF3|
+
+
+### Cenário 3: Cancelar Assinatura
+
+| Objetivo | Não ser mais cliente do serviço|
+| Contexto |  Local: Tela de Configurações da Star 
+Tempo: 1-5 minutos
+Pré Condição: Ter conta ativa no Star , Estar logado  |
+| Atores |   Assinante Star+  |
+| Recursos | Computador ou SmartPhone com Internet ,Acesso a StarPlus |
+| Exceção | ssinante desistir de cancelar a assinatura, Assinante esquecer a senha |
+| Episódios |    Clicar em Configurações de conta
+Clicar em apagar Conta
+Selecionar motivo
+Clicar em "tenho certeza" |
+| Rastreabilidade |RF3|
+
+
+### Cenário 4: Remover titulo
+
+| Objetivo | Remover titulo da Lista |
+| Contexto |  Local: página
+Tempo:30segundos
+Pré-Condição: estar logado  |
+| Atores |   Assinante Star+  |
+| Recursos | Computador ou SmartPhone com Internet ,Acesso a StarPlus |
+| Exceção | Perda de conexão com a internet |
+| Episódios |          Na página principal apos login
+clique em Minha lista e selecione um título 
+E em seguida, selecione a marca de seleção |
+| Rastreabilidade |RF8|
+
+
+### Cenário 5: Buscar ajuda
+
+| Objetivo | Acessar página de ajuda |
+| Contexto |  Local:   Página principal
+Tempo: 10-30 segundos
+Pré-Condição: estar logado |
+| Atores | Assinante Star+ |
+| Recursos | Dispositivo com acesso a internet e compatível com Star+ |
+| Exceção | Perda de conexão com a internet |
+| Episódios | Acessar Configurações
+Clicar em Ajuda |
+| Rastreabilidade | RF10 |
+
+### Cenário 6: Passar para o proximo episódio
+
+| Objetivo | Passar para o próximo episódio ainda na reprodução do atual  |
+| Contexto | Local: Tela de Reprodução
+Tempo: 1-10 segundos
+Pré-Condição: Estar logado
+Estar assistindo a um título |
+| Atores | Assinante Star+ |
+| Recursos | Dispositivo com acesso a internet e compatível com Star+
+Conta Star+ Ativa |
+| Exceção | Perda de conexão com a internet |
+| Episódios | Clicar em botão de Próximo episodio |
+| Rastreabilidade | RF11 |
+
+### Cenário 7: Escolher temporada
+
+| Objetivo | Poder escolher a qual temporada de um titulo assistir |
+| Contexto | Local: Página Principal
+Tempo: 1-2 minutos
+Pré-Condição: Estar Logado |
+| Atores | Assinante Star+ |
+| Recursos | Dispositivo com acesso a internet e compatível com Star+
+Conta Star+ Ativa |
+| Exceção | Perda de conexão com a internet |
+| Episódios | Clicar no titulo a qual quer assistir |
+| Rastreabilidade | RF17 |
+
+### Cenário 8: Acessar histórico
+
+| Objetivo | Assinante Star+ deseja saber quais títulos já foram assistidos |
+| Contexto | Local: Página de Configurações Star+
+Tempo: 10-30 segundos |
+| Atores | Assinante Star+ |
+| Recursos | Dispositivo com acesso a internet e compatível com Star+
+Conta Star+ Ativa |
+| Exceção | Perda de conexão com a internet 
+Histórico está vazio |
+| Episódios | Clicar em Histórico de Reprodução |
+| Rastreabilidade | RF19 |
+
+### Cenário 9: Realiza busca
+
+| Objetivo | realize a busca pelo filme/série ou programa no star+ |
+| Contexto | Local: Barra de pesquisa na tela principal 
+Tempo:30segundos
+Pré-Condição: estar logado  |
+| Atores | Assinantes |
+| Recursos | Dispositivo com acesso a internet e compatível com Star+ |
+| Exceção | Perda de conexão com a internet |
+| Episódios | o usuário clica na barra de pesquisa na página principal,
+o usuário escolhe a opção de digitação ou comando pelo microfone,
+o usuário clica no botão de pesquisa |
+| Rastreabilidade | RF21 |
+
+### Cenário 10: Adicionar filtro de busca
+
+| Objetivo | Assinante Star+ deseja buscar um título utilizando Filtros |
+| Contexto | Local: Barra de pesquisa na tela principal
+Tempo: 1-3 minutos |
+| Atores | Assinante Star+ |
+| Recursos | Dispositivo com acesso a internet e compatível com Star+
+Conta Star+ Ativa |
+| Exceção | Perda de conexão com a internet  |
+| Episódios |O usuário Clica na barra de pesquisa na página principal
+O usuário clica em Filtros
+O usuário seleciona os Filtros desejados
+O usuário clica em Aplicar filtros |
+| Rastreabilidade | RF22 |
+
+### Cenário 11: Alterar meios de pagamento
+
+| Objetivo | Assinante Star+ Alterar Forma de pagamento cadastrada |
+| Contexto | Local: Tela de configurações Star+ 
+Tempo: 3-10 minutos 
+Pré-condição: Usuário ter uma conta na Star+ |
+| Atores | Assinante Star+ |
+| Recursos | Dispositivo com acesso a internet e compatível com Star+
+Conta Star+ Ativa |
+| Exceção | Perda de conexão com a internet
+Nova forma de pagamento inválida  |
+| Episódios | Clicar no botão Conta Star+
+Clicar em Assinatura
+Clicar em Detalhes de Assinatura
+Inserir novos dados
+Clicar em Salvar |
+| Rastreabilidade | RF23 |
+
+### Cenário 12: Baixar Título
+
+| Objetivo | Assinante Star+ deseja baixar um titulo para reprodução offline |
+| Contexto | Local: Página de informações do Titulo
+Tempo: 1-30 minutos
+Pré-Condição: Conta Star+ ativa |
+| Atores | Assinante Star+  |
+| Recursos |Dispositivo móvel com acesso a internet e compatível com Star+
+Conta Star+ Ativa |
+| Exceção | Perda da conexão com a internet durante o download |
+| Episódios | Clicar em Baixar titulo/episodio |
+| Rastreabilidade | RF24 |
+
+### Cenário 13: Mudar idioma, audio,Retirar legenda    
+
+| Objetivo | Mudar idioma, audio,Retirar legenda de um titulo  |
+| Contexto | Local:   Durante Assistindo o título
+Tempo: 1 minuto
+Pré-Condição:Assistindo título  |
+| Atores | assinante |
+| Recursos |  |
+| Exceção |  título sem legendas ou sem dublagem idioma  |
+| Episódios | Abra o StarPlus.
+Selecione um programa de TV ou filme.
+Comece a jogar e execute a ação listada para o seu dispositivo:
+Na parte superior ou inferior da tela, selecione Áudio e legendas . Nas TVs, as opções de idioma podem aparecer na parte inferior sem o ícone. Você pode escolher entre os idiomas mostrados ou selecionar Outros para ver todas as opções de idioma.
+Faça alterações nas seleções de áudio ou legenda. |
+| Rastreabilidade | RF25,RF28 |
+
+## 4. Bibliografia
+
+SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 10. 1º/2019. 35 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
+
+## 5. Histórico de versão
+
+| Versão | Data | Descrição | Autor | Revisor |
+| :----: | :--: | :-------: | :---: | :-----: |
+| 1.0 | 08/12/2022 | Criação dos cenários | [Thiago Vivan Bastos](https://github.com/thiago-vivan)  | [Abdul Hannan](https://github.com/hannanhunny01) |
