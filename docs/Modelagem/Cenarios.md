@@ -9,7 +9,7 @@
 
 | Tabela Modelo Cenários |
 | --------- | -----------|
-| Título |      Título do Cenário |
+| Título | Título do Cenário |
 | Objetivo |	  Objetivo/meta do cenarios |
 | Contexto |      Local, Tempo, Pré-Condição |
 | Ator/Atores |      envolvidos |
@@ -20,25 +20,16 @@
 
 Tabela 1: Estrutura de um Cenário. Fonte: Thiago Vivan, Abdul Hannan
 
-
 ## 3. Cenários:
 
 ### Cenário 1: Criar Conta
 
 | Objetivo | Assinante Star+ poder usar a plataforma |
-| Contexto | Local: Página inicial
-Tempo: 5-10 minutos
-Pré-Condição: |
+| Contexto | Local: Página inicial</br>Tempo: 5-10 minutos</br>Pré-Condição: |
 | Atores | Assinante Star+ |
-| Recursos | Dispositivo com acesso a internet
-Forma de pagamento válida
-Email válido |
-| Exceção | Perda da conexão com a internet
-Dados fornecidos inválidos |
-| Episódios | Acessar site ou aplicativo Star 
-Clicar em Criar conta
-Preencher os dados necessários
-Confirmar e-mail |
+| Recursos | Dispositivo com acesso a internet</br>Forma de pagamento válida</br>Email válido |
+| Exceção | Perda da conexão com a internet</br>Dados fornecidos inválidos |
+| Episódios | Acessar site ou aplicativo Star </br>Clicar em Criar conta</br>Preencher os dados necessários</br>Confirmar e-mail |
 | Rastreabilidade | RF1 |
 
 Tabela 2: Cenario 1. Fonte: Thiago Vivan, Abdul Hannan
@@ -47,16 +38,11 @@ Tabela 2: Cenario 1. Fonte: Thiago Vivan, Abdul Hannan
 ### Cenário 2: Realizar Login
 
 | Objetivo | Assinante Star+ poder fazer login no Star+|
-| Contexto |  Local: Tela inicial 
-Tempo: 1-5 minutos
- Pré Condição: Ter conta ativa no Star |
+| Contexto |  Local: Tela inicial </br>Tempo: 1-5 minutos</br>Pré Condição: Ter conta ativa no Star |
 | Atores |   Assinante Star+  |
 | Recursos | Computador ou SmartPhone com Internet , Acesso a StarPlus |
 | Exceção | Sem Internet, Sem Assinatura |
-| Episódios | Clicar em Configurações de conta
-Clicar em apagar Conta
-Selecionar motivo
-Clicar em "tenho certeza" |
+| Episódios | Clicar em Configurações de conta</br>Clicar em apagar Conta</br>Selecionar motivo</br>Clicar em "tenho certeza" |
 | Rastreabilidade |RF3|
 
 Tabela 3: Cenario 2. Fonte: Thiago Vivan, Abdul Hannan
@@ -65,16 +51,11 @@ Tabela 3: Cenario 2. Fonte: Thiago Vivan, Abdul Hannan
 ### Cenário 3: Cancelar Assinatura
 
 | Objetivo | Não ser mais cliente do serviço|
-| Contexto |  Local: Tela de Configurações da Star 
-Tempo: 1-5 minutos
-Pré Condição: Ter conta ativa no Star , Estar logado  |
+| Contexto |  Local: Tela de Configurações da Star </br>Tempo: 1-5 minutos</br>Pré Condição: Ter conta ativa no Star , Estar logado  |
 | Atores |   Assinante Star+  |
 | Recursos | Computador ou SmartPhone com Internet ,Acesso a StarPlus |
 | Exceção | ssinante desistir de cancelar a assinatura, Assinante esquecer a senha |
-| Episódios |    Clicar em Configurações de conta
-Clicar em apagar Conta
-Selecionar motivo
-Clicar em "tenho certeza" |
+| Episódios |    Clicar em Configurações de conta</br>Clicar em apagar Conta</br>Selecionar motivo</br>Clicar em "tenho certeza" |
 | Rastreabilidade |RF3|
 
 Tabela 4: Cenario 3. Fonte: Thiago Vivan, Abdul Hannan
@@ -82,15 +63,11 @@ Tabela 4: Cenario 3. Fonte: Thiago Vivan, Abdul Hannan
 ### Cenário 4: Remover titulo
 
 | Objetivo | Remover titulo da Lista |
-| Contexto |  Local: página
-Tempo:30segundos
-Pré-Condição: estar logado  |
+| Contexto |  Local: página</br>Tempo:30segundos</br>Pré-Condição: estar logado  |
 | Atores |   Assinante Star+  |
 | Recursos | Computador ou SmartPhone com Internet ,Acesso a StarPlus |
 | Exceção | Perda de conexão com a internet |
-| Episódios |          Na página principal apos login
-clique em Minha lista e selecione um título 
-E em seguida, selecione a marca de seleção |
+| Episódios | Na página principal apos login</br>clique em Minha lista e selecione um título </br>E em seguida, selecione a marca de seleção |
 | Rastreabilidade |RF8|
 
 Tabela 5: Cenario 4. Fonte: Thiago Vivan, Abdul Hannan
@@ -98,14 +75,11 @@ Tabela 5: Cenario 4. Fonte: Thiago Vivan, Abdul Hannan
 ### Cenário 5: Buscar ajuda
 
 | Objetivo | Acessar página de ajuda |
-| Contexto |  Local:   Página principal
-Tempo: 10-30 segundos
-Pré-Condição: estar logado |
+| Contexto |  Local:   Página principal</br>Tempo: 10-30 segundos</br>Pré-Condição: estar logado |
 | Atores | Assinante Star+ |
 | Recursos | Dispositivo com acesso a internet e compatível com Star+ |
 | Exceção | Perda de conexão com a internet |
-| Episódios | Acessar Configurações
-Clicar em Ajuda |
+| Episódios | Acessar Configurações</br>Clicar em Ajuda |
 | Rastreabilidade | RF10 |
 
 Tabela 6: Cenario 5. Fonte: Thiago Vivan, Abdul Hannan
@@ -113,13 +87,9 @@ Tabela 6: Cenario 5. Fonte: Thiago Vivan, Abdul Hannan
 ### Cenário 6: Passar para o proximo episódio
 
 | Objetivo | Passar para o próximo episódio ainda na reprodução do atual  |
-| Contexto | Local: Tela de Reprodução
-Tempo: 1-10 segundos
-Pré-Condição: Estar logado
-Estar assistindo a um título |
+| Contexto | Local: Tela de Reprodução</br>Tempo: 1-10 segundos</br>Pré-Condição: Estar logado</br>Estar assistindo a um título |
 | Atores | Assinante Star+ |
-| Recursos | Dispositivo com acesso a internet e compatível com Star+
-Conta Star+ Ativa |
+| Recursos | Dispositivo com acesso a internet e compatível com Star+</br>Conta Star+ Ativa |
 | Exceção | Perda de conexão com a internet |
 | Episódios | Clicar em botão de Próximo episodio |
 | Rastreabilidade | RF11 |
@@ -129,12 +99,9 @@ Tabela 7: Cenario 6. Fonte: Thiago Vivan, Abdul Hannan
 ### Cenário 7: Escolher temporada
 
 | Objetivo | Poder escolher a qual temporada de um titulo assistir |
-| Contexto | Local: Página Principal
-Tempo: 1-2 minutos
-Pré-Condição: Estar Logado |
+| Contexto | Local: Página Principal</br>Tempo: 1-2 minutos</br>Pré-Condição: Estar Logado |
 | Atores | Assinante Star+ |
-| Recursos | Dispositivo com acesso a internet e compatível com Star+
-Conta Star+ Ativa |
+| Recursos | Dispositivo com acesso a internet e compatível com Star+</br>Conta Star+ Ativa |
 | Exceção | Perda de conexão com a internet |
 | Episódios | Clicar no titulo a qual quer assistir |
 | Rastreabilidade | RF17 |
@@ -144,13 +111,10 @@ Tabela 8: Cenario 7. Fonte: Thiago Vivan, Abdul Hannan
 ### Cenário 8: Acessar histórico
 
 | Objetivo | Assinante Star+ deseja saber quais títulos já foram assistidos |
-| Contexto | Local: Página de Configurações Star+
-Tempo: 10-30 segundos |
+| Contexto | Local: Página de Configurações Star+</br>Tempo: 10-30 segundos |
 | Atores | Assinante Star+ |
-| Recursos | Dispositivo com acesso a internet e compatível com Star+
-Conta Star+ Ativa |
-| Exceção | Perda de conexão com a internet 
-Histórico está vazio |
+| Recursos | Dispositivo com acesso a internet e compatível com Star+</br>Conta Star+ Ativa |
+| Exceção | Perda de conexão com a internet </br>Histórico está vazio |
 | Episódios | Clicar em Histórico de Reprodução |
 | Rastreabilidade | RF19 |
 
@@ -159,15 +123,11 @@ Tabela 9: Cenario 8. Fonte: Thiago Vivan, Abdul Hannan
 ### Cenário 9: Realiza busca
 
 | Objetivo | realize a busca pelo filme/série ou programa no star+ |
-| Contexto | Local: Barra de pesquisa na tela principal 
-Tempo:30segundos
-Pré-Condição: estar logado  |
+| Contexto | Local: Barra de pesquisa na tela principal </br>Tempo:30segundos</br>Pré-Condição: estar logado  |
 | Atores | Assinantes |
 | Recursos | Dispositivo com acesso a internet e compatível com Star+ |
 | Exceção | Perda de conexão com a internet |
-| Episódios | o usuário clica na barra de pesquisa na página principal,
-o usuário escolhe a opção de digitação ou comando pelo microfone,
-o usuário clica no botão de pesquisa |
+| Episódios | o usuário clica na barra de pesquisa na página principal,</br>o usuário escolhe a opção de digitação ou comando pelo microfone,</br>o usuário clica no botão de pesquisa |
 | Rastreabilidade | RF21 |
 
 Tabela 10: Cenario 9. Fonte: Thiago Vivan, Abdul Hannan
@@ -175,16 +135,11 @@ Tabela 10: Cenario 9. Fonte: Thiago Vivan, Abdul Hannan
 ### Cenário 10: Adicionar filtro de busca
 
 | Objetivo | Assinante Star+ deseja buscar um título utilizando Filtros |
-| Contexto | Local: Barra de pesquisa na tela principal
-Tempo: 1-3 minutos |
+| Contexto | Local: Barra de pesquisa na tela principal</br>Tempo: 1-3 minutos |
 | Atores | Assinante Star+ |
-| Recursos | Dispositivo com acesso a internet e compatível com Star+
-Conta Star+ Ativa |
+| Recursos | Dispositivo com acesso a internet e compatível com Star+</br>Conta Star+ Ativa |
 | Exceção | Perda de conexão com a internet  |
-| Episódios |O usuário Clica na barra de pesquisa na página principal
-O usuário clica em Filtros
-O usuário seleciona os Filtros desejados
-O usuário clica em Aplicar filtros |
+| Episódios |O usuário Clica na barra de pesquisa na página principal</br>O usuário clica em Filtros</br>O usuário seleciona os Filtros desejados</br>O usuário clica em Aplicar filtros |
 | Rastreabilidade | RF22 |
 
 Tabela 11: Cenario 10. Fonte: Thiago Vivan, Abdul Hannan
@@ -192,19 +147,11 @@ Tabela 11: Cenario 10. Fonte: Thiago Vivan, Abdul Hannan
 ### Cenário 11: Alterar meios de pagamento
 
 | Objetivo | Assinante Star+ Alterar Forma de pagamento cadastrada |
-| Contexto | Local: Tela de configurações Star+ 
-Tempo: 3-10 minutos 
-Pré-condição: Usuário ter uma conta na Star+ |
+| Contexto | Local: Tela de configurações Star+ </br>Tempo: 3-10 minutos </br>Pré-condição: Usuário ter uma conta na Star+ |
 | Atores | Assinante Star+ |
-| Recursos | Dispositivo com acesso a internet e compatível com Star+
-Conta Star+ Ativa |
-| Exceção | Perda de conexão com a internet
-Nova forma de pagamento inválida  |
-| Episódios | Clicar no botão Conta Star+
-Clicar em Assinatura
-Clicar em Detalhes de Assinatura
-Inserir novos dados
-Clicar em Salvar |
+| Recursos | Dispositivo com acesso a internet e compatível com Star+</br>Conta Star+ Ativa |
+| Exceção | Perda de conexão com a internet</br>Nova forma de pagamento inválida  |
+| Episódios | Clicar no botão Conta Star+</br>Clicar em Assinatura</br>Clicar em Detalhes de Assinatura</br>Inserir novos dados</br>Clicar em Salvar |
 | Rastreabilidade | RF23 |
 
 Tabela 12: Cenario 11. Fonte: Thiago Vivan, Abdul Hannan
@@ -212,12 +159,9 @@ Tabela 12: Cenario 11. Fonte: Thiago Vivan, Abdul Hannan
 ### Cenário 12: Baixar Título
 
 | Objetivo | Assinante Star+ deseja baixar um titulo para reprodução offline |
-| Contexto | Local: Página de informações do Titulo
-Tempo: 1-30 minutos
-Pré-Condição: Conta Star+ ativa |
+| Contexto | Local: Página de informações do Titulo</br>Tempo: 1-30 minutos</br>Pré-Condição: Conta Star+ ativa |
 | Atores | Assinante Star+  |
-| Recursos |Dispositivo móvel com acesso a internet e compatível com Star+
-Conta Star+ Ativa |
+| Recursos |Dispositivo móvel com acesso a internet e compatível com Star+</br>Conta Star+ Ativa |
 | Exceção | Perda da conexão com a internet durante o download |
 | Episódios | Clicar em Baixar titulo/episodio |
 | Rastreabilidade | RF24 |
@@ -228,18 +172,11 @@ Tabela 13: Cenario 12. Fonte: Thiago Vivan, Abdul Hannan
 ### Cenário 13: Mudar idioma, audio,Retirar legenda    
 
 | Objetivo | Mudar idioma, audio,Retirar legenda de um titulo  |
-| Contexto | Local:   Durante Assistindo o título
-Tempo: 1 minuto
-Pré-Condição:Assistindo título  |
+| Contexto | Local:   Durante Assistindo o título</br>Tempo: 1 minuto</br>Pré-Condição:Assistindo título  |
 | Atores | assinante |
-| Recursos | Dispositivo com acesso a internet e compatível com Star+
-Conta Star+ Ativa |
+| Recursos | Dispositivo com acesso a internet e compatível com Star+</br>Conta Star+ Ativa |
 | Exceção |  título sem legendas ou sem dublagem idioma  |
-| Episódios | Abra o StarPlus.
-Selecione um programa de TV ou filme.
-Comece a jogar e execute a ação listada para o seu dispositivo:
-Na parte superior ou inferior da tela, selecione Áudio e legendas . Nas TVs, as opções de idioma podem aparecer na parte inferior sem o ícone. Você pode escolher entre os idiomas mostrados ou selecionar Outros para ver todas as opções de idioma.
-Faça alterações nas seleções de áudio ou legenda. |
+| Episódios | Abra o StarPlus.</br>Selecione um programa de TV ou filme.</br>Comece a jogar e execute a ação listada para o seu dispositivo:</br>Na parte superior ou inferior da tela, selecione Áudio e legendas . Nas TVs, as opções de idioma podem aparecer na parte inferior sem o ícone. Você pode escolher entre os idiomas mostrados ou selecionar Outros para ver todas as opções de idioma.</br>Faça alterações nas seleções de áudio ou legenda. |
 | Rastreabilidade | RF25,RF28 |
 
 Tabela 14: Cenario 13. Fonte: Thiago Vivan, Abdul Hannan
