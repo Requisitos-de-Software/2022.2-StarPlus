@@ -9,7 +9,7 @@ O léxico é a base para o entendimento entre clientes, usuários e profissionai
 
 ## 2. Metodologia
 
-Os léxicos possuem passei dentro do sistema, podendo estes serem do tipo: Verbo, Objeto ou Estado. A tabela a seguir apresenta os tipos e suas definições.
+Os léxicos possuem classificações em sua técnica, podendo estes serem do tipo: Verbo, Objeto ou Estado. A tabela a seguir apresenta os tipos e suas definições.
 
 | Verbo | Noção | Impacto |
 |-------|-------|---------|
