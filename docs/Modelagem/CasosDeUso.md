@@ -71,9 +71,14 @@
 
 ## 3. Diagramas
 
-### OBS: É importante notar que no caso do Star+, os usuários de bom domínio tecnológico também estão incluídos nos casos dos usuários de baixo domínio tecnológico, mas não o contrário
+### OBS: É importante notar que no caso do Star+, os usuários de bom domínio tecnológico também estão incluídos nos casos dos usuários de baixo domínio tecnológico, mas não o contrário. Cada caso foi verificado com as personas documentadas abaixo.
 
-## Casos de uso para perfil com baixo dominio tecnológico
+| Nome | Idade | Gênero| Ocupação | Cidade/Estado |
+| :-: | :-------- | :-----: | :--------: | :--------: |
+|Pedro Miguel Santos| 17 anos| Masculino  | Estudante  | Brasília/DF |
+|João Guilherme Santos| 45 anos| Masculino  | Engenheiro Civil  | Brasília/DF |
+
+## Casos de uso para, pelo menos, perfil com baixo dominio tecnológico
 
 
 <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.2-StarPlus/gh-pages/docs/assets/casos de uso/diagramaperfil1.png" alt="drawing" width="400"/>
@@ -86,7 +91,7 @@
 | :----: | :------:|
 | Descrição | O usuário deve ser capaz de criar um perfil |
 | Pré-condições | Acesso à internet e um dispositivo válido |
-| Ator | Usuário com baixo dominio tecnológico |
+| Ator | Usuário com baixo e/ou alto dominio tecnológico |
 | Ação | O usuário cria uma conta utilizando seus dados |
 | Fluxo principal | <ul><li>O usuário acessa a aplicação</li><li>O usuário seleciona a opção de criar uma conta</li><li>O usuário fornece seus dados</li></ul> |
 | Pós-condições | O usuário poderá acessar um perfil específico |
@@ -99,7 +104,7 @@
 | :----: | :------:|
 | Descrição | O usuário deve ser capaz de assistir um título |
 | Pré-condições | Uma conta válida e um título |
-| Ator | Usuário com baixo dominio tecnológico |
+| Ator | Usuário com baixo e/ou alto dominio tecnológico |
 | Ação | O usuário assiste um título |
 | Fluxo principal | <ul><li>O usuário acessa a aplicação</li><li>O usuário seleciona um título</li></ul> |
 | Pós-condições | O usuário poderá assisitir a um título |
@@ -112,7 +117,7 @@
 | :----: | :------:|
 | Descrição | O usuário deve ser capaz de navegar pelo conteúdo |
 | Pré-condições | Uma conta válida |
-| Ator | Usuário com baixo dominio tecnológico |
+| Ator | Usuário com baixo e/ou alto dominio tecnológico |
 | Ação | O usuário cria navega pelo conteúdo |
 | Fluxo principal | <ul><li>O usuário acessa a aplicação</li><li>O usuário seleciona um perfil</li></ul> |
 | Pós-condições | O usuário poderá navegar pelo conteúdo |
@@ -124,7 +129,7 @@
 | :----: | :------:|
 | Descrição | O usuário deve ser capaz de criar uma lista de favoritos |
 | Pré-condições | Uma conta válida |
-| Ator | Usuário com baixo dominio tecnológico |
+| Ator | Usuário com baixo e/ou alto dominio tecnológico |
 | Ação | O usuário cria uma lista de favoritos |
 | Fluxo principal | <ul><li>O usuário acessa a aplicação</li><li>O usuário seleciona um perfil</li><li>O usuário seleciona um titulo</li><li>O usuário adiciona à lista</li></ul> |
 | Pós-condições | O usuário poderá acessar uma lista de favoritos |
@@ -136,7 +141,7 @@
 | :----: | :------:|
 | Descrição | O usuário deve ser capaz de buscar um título |
 | Pré-condições | Uma conta válida |
-| Ator | Usuário com baixo dominio tecnológico |
+| Ator | Usuário com baixo e/ou alto dominio tecnológico |
 | Ação | O usuário busca um título de interesse |
 | Fluxo principal | <ul><li>O usuário acessa a aplicação</li><li>O usuário seleciona a barra de pesquisa</li></ul><li>O usuário busca pelo título de interesse, com ou sem o uso de filtros</li> |
 | Pós-condições | O usuário poderá buscar pelo conteúdo |
@@ -147,13 +152,13 @@
 | :----: | :------:|
 | Descrição | O usuário deve ser capaz de alterrar o idioma da dublagem e/ou legenda do título |
 | Pré-condições | Uma conta válida |
-| Ator | Usuário com baixo dominio tecnológico |
+| Ator | Usuário com baixo e/ou alto dominio tecnológico |
 | Ação | O usuário muda o idioma da dublagem e/ou legenda do título|
 | Fluxo principal | <ul><li>O usuário acessa a aplicação</li><li>O usuário seleciona um título</li></ul><li>O usuário muda o idioma da dublagem e/ou legenda do título</li> |
 | Pós-condições | O usuário poderá navegar pelo conteúdo |
 
 
-## Casos de uso para perfil com bom dominio tecnológico
+## Casos de uso exclusivos para perfil com bom dominio tecnológico
 
 <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.2-StarPlus/gh-pages/docs/assets/casos de uso/diagramaperfil3.png" alt="drawing" width="400"/>
 <figcaption>Imagem 6: Casos de uso do usuário com bom dominio tecnológico. Fonte: Grupo 6</figcaption>
