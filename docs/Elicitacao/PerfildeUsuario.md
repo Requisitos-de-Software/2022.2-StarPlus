@@ -10,14 +10,14 @@
 2. Função : Indefinido (variado);
 3. Experiência : A experiência com tecnologias mobile é básica.
 4. Nível de Alfabetização : É necessário que o usuário tenha, pelo menos, a capacidade de ler.
-5. Faixa Etária : 12-65 anos (de pré-adolescente até terceira idade).
+5. Faixa Etária : 45-65 anos (de pré-adolescente até terceira idade).
 
 ### 2.2 Espectadores com bom domínio tecnológico:
 1. Cargo : Indefinido (variado);
 2. Função : Indefinido (variado);
 3. Experiência : A experiência com tecnologias mobile é de moderada a alta.
 4. Nível de Alfabetização : É necessário que o usuário tenha, pelo menos, a capacidade de ler.
-5. Faixa Etária : 12-65 anos (de pré-adolescente até terceira idade).
+5. Faixa Etária : 12-65 anos, mas preferencialmente a partir dos 20 ate os 24 segundo o questionário. (de pré-adolescente até terceira idade).
  
 
 ## 3. Referências
