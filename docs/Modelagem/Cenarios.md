@@ -5,7 +5,7 @@
 
 ## Metodologia                               
 
-   Ele descreve uma situação de uso do sistema. Utilizaremos a tabela 1 a seguir como modelo para os cenários. Inclui informações como Nome do Cenário, Ator(es), Pré-condição, Fluxo normal, Fluxos alternativos e Pós-condição. Também é o espaço real ou virtual.
+   Ele descreve uma situação de uso do sistema. Utilizaremos a tabela 1 a seguir como modelo para os cenários representados pelas tabelas 2 a 14. Inclui informações como Nome do Cenário, Ator(es), Pré-condição, Fluxo normal, Fluxos alternativos e Pós-condição. Também é o espaço real ou virtual.
 
 | Modelo |Cenários |
 | --------- | -----------|
@@ -29,11 +29,11 @@ Tabela 1: Estrutura de um Cenário. Fonte: Thiago Vivan, Abdul Hannan
 |Elementos|Respostas|
 |--|--|
 | Objetivo | Assinante Star+ poder usar a plataforma |
-| Contexto | Local: Página inicial<br>Tempo: 5-10 minutos<br>Pré-Condição: |
+| Contexto | Local: Página inicial<br>Tempo: 5-10 minutos<br>Pré-Condição: - |
 | Atores | Assinante Star+ |
 | Recursos | Dispositivo com acesso a internet<br>Forma de pagamento válida<br>Email válido |
 | Exceção | Perda da conexão com a internet<br>Dados fornecidos inválidos |
-| Episódios | Acessar site ou aplicativo Star<br>Clicar em Criar conta<br>Preencher os dados necessários<br>Confirmar e-mail |
+| Episódios | Acessar site ou aplicativo Star+<br>Clicar em Criar conta<br>Preencher os dados necessários<br>Confirmar e-mail |
 | Rastreabilidade | RF1 |
 
 Tabela 2: Cenario 1. Fonte: Thiago Vivan, Abdul Hannan
@@ -43,11 +43,11 @@ Tabela 2: Cenario 1. Fonte: Thiago Vivan, Abdul Hannan
 |Elementos|Respostas|
 |--|--|
 | Objetivo | Assinante Star+ poder fazer login no Star+|
-| Contexto |  Local: Tela inicial </br>Tempo: 1-5 minutos</br>Pré Condição: Ter conta ativa no Star |
+| Contexto |  Local: Tela inicial </br>Tempo: 1-5 minutos</br>Pré Condição: Ter conta ativa no Star+ |
 | Atores |   Assinante Star+  |
-| Recursos | Computador ou SmartPhone com Internet , Acesso a StarPlus |
+| Recursos | Computador ou SmartPhone com Internet , Acesso a Star+ |
 | Exceção | Sem Internet, Sem Assinatura |
-| Episódios | Clicar em Configurações de conta</br>Clicar em apagar Conta</br>Selecionar motivo</br>Clicar em "tenho certeza" |
+| Episódios | Acessar site ou aplicativo Star+</br>Clicar em Criar conta</br>Preencher os dados necessários</br>Confirmar e-mail |
 | Rastreabilidade |RF3|
 
 Tabela 3: Cenario 2. Fonte: Thiago Vivan, Abdul Hannan
@@ -60,7 +60,7 @@ Tabela 3: Cenario 2. Fonte: Thiago Vivan, Abdul Hannan
 | Contexto |  Local: Tela de Configurações da Star </br>Tempo: 1-5 minutos</br>Pré Condição: Ter conta ativa no Star , Estar logado  |
 | Atores |   Assinante Star+  |
 | Recursos | Computador ou SmartPhone com Internet ,Acesso a StarPlus |
-| Exceção | ssinante desistir de cancelar a assinatura, Assinante esquecer a senha |
+| Exceção | Assinante desistir de cancelar a assinatura, Assinante esquecer a senha |
 | Episódios |    Clicar em Configurações de conta</br>Clicar em apagar Conta</br>Selecionar motivo</br>Clicar em "tenho certeza" |
 | Rastreabilidade |RF3|
 
@@ -100,7 +100,7 @@ Tabela 6: Cenario 5. Fonte: Thiago Vivan, Abdul Hannan
 | Atores | Assinante Star+ |
 | Recursos | Dispositivo com acesso a internet e compatível com Star+</br>Conta Star+ Ativa |
 | Exceção | Perda de conexão com a internet |
-| Episódios | Clicar em botão de Próximo episodio |
+| Episódios | Clicar em botão de próximo episodio |
 | Rastreabilidade | RF11 |
 
 Tabela 7: Cenario 6. Fonte: Thiago Vivan, Abdul Hannan
@@ -134,9 +134,9 @@ Tabela 9: Cenario 8. Fonte: Thiago Vivan, Abdul Hannan
 ### Cenário 9: Realiza busca
 |Elementos|Respostas|
 |--|--|
-| Objetivo | realize a busca pelo filme/série ou programa no star+ |
+| Objetivo | Realizar busca pelo filme/série ou programa no star+ |
 | Contexto | Local: Barra de pesquisa na tela principal </br>Tempo:30segundos</br>Pré-Condição: estar logado  |
-| Atores | Assinantes |
+| Atores | Assinantes Star+ |
 | Recursos | Dispositivo com acesso a internet e compatível com Star+ |
 | Exceção | Perda de conexão com a internet |
 | Episódios | o usuário clica na barra de pesquisa na página principal,</br>o usuário escolhe a opção de digitação ou comando pelo microfone,</br>o usuário clica no botão de pesquisa |
@@ -207,3 +207,6 @@ SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 10. 1º/2019. 35 slides. 
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
 | 1.0 | 08/12/2022 | Criação dos cenários | [Thiago Vivan Bastos](https://github.com/thiago-vivan)  | [Abdul Hannan](https://github.com/hannanhunny01) |
+
+
+ Acessar site ou aplicativo Star</br>Clicar em Criar conta</br>Preencher os dados necessários</br>Confirmar e-mail
