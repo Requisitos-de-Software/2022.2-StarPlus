@@ -40,49 +40,49 @@ Os léxicos foram divididos em ordem alfabética seguindo a tabela abaixo:
 
 | Léxico | Noção | Impacto | Sinônimo          | Classificação |
 | ------ | ----- | ------- | --------          | ------------- |
-|Usuário |Pessoa(s) que utiliza a plataforma da Star+.|Pessoa(s) que poderá usufrir das funcionalidades da Disne+.|Utilizador, cliente| Objeto        |
+|Usuário |Pessoa(s) que utiliza a plataforma da Star+.|Pessoa(s) que poderá usufrir das funcionalidades do Star+.|Utilizador, cliente| Objeto        |
 <figcaption style="font-size: 15px" align="center">Tabela 4: Léxico 02 (Fonte: Autores, 2022)</figcaption>
 
 ### L03 - Criar Conta
 
 | Léxico | Noção | Impacto | Sinônimo      | Classificação |
 | ------ | ----- | ------- | --------      | ------------- |
-|Criar   |É possível criar uma conta, perfis e listas. na Star+.|O usuário poderá criar uma conta na Star+.</br> Dentro de uma conta, o usuário poderá criar perfis na Disne+.</br>Dentro de um perfil, o usuário poderá criar listas com os títulos presentes na plataforma.|Gerar, produzir| Verbo         |
+|Criar Conta  |É possível criar uma conta, perfis e listas no Star+.|O usuário poderá criar uma conta no Star+.</br> Dentro de uma conta, o usuário poderá criar perfis.</br>Dentro de um perfil, o usuário poderá criar listas com os títulos presentes na plataforma.|Gerar, produzir| Verbo         |
 <figcaption style="font-size: 15px" align="center">Tabela 5: Léxico 03  (Fonte: Autores, 2022)</figcaption>
 
 ### L04 - Login
 
 | Léxico | Noção | Impacto | Sinônimo      | Classificação |
 | ------ | ----- | ------- | --------      | ------------- |
-|Login   |Entrar na conta|O usuário precisará fazer login para acessar os conteúdos presentes na plataforma da Star+.|Entrar, acessar| Verbo         |
+|Login   |Entrar na conta|O usuário precisará fazer login para acessar os conteúdos presentes na plataforma do Star+.|Entrar, acessar| Verbo         |
 <figcaption style="font-size: 15px" align="center">Tabela 6: Léxico 04  (Fonte: Autores, 2022)</figcaption>
 
 ### L05 - Logout
 
 | Léxico | Noção | Impacto | Sinônimo | Classificação |
 | ------ | ----- | ------- | -------- | ------------- |
-|Logout  |Sair da conta|O usuário precisará fazer logout para siar de uma conta da Star+.|Sair      | Verbo         |
+|Logout  |Sair da conta|O usuário precisará fazer logout para sair de uma conta Star+.|Sair      | Verbo         |
 <figcaption style="font-size: 15px" align="center">Tabela 7: Léxico 05  (Fonte: Autores, 2022)</figcaption>
 
 ### L06 - Conta
 
 | Léxico | Noção | Impacto | Sinônimo | Classificação |
 | ------ | ----- | ------- | -------- | ------------- |
-|Conta   |Local onde o usuário tem acesso as funcionalidades da Star+ e perfis daquela conta.|O usuário entra na conta para ter acesso aos recursos da Star+.</br> O usuário pode alterar o email e a senha vinculados aquela conta.</br>O usuário pode visualizar e alterar a sua assinatura.</br>O usuário pode restringir a criação de perfis.|-         | Objeto        |
+|Conta   |Local onde o usuário tem acesso as funcionalidades do Star+ e perfis daquela conta.|O usuário entra na conta para ter acesso aos recursos do Star+.</br> O usuário pode alterar o email e a senha vinculados aquela conta.</br>O usuário pode visualizar e alterar a sua assinatura.</br>O usuário pode restringir a criação de perfis.|-         | Objeto        |
 <figcaption style="font-size: 15px" align="center">Tabela 8: Léxico 06 (Fonte: Autores, 2022)</figcaption>
 
 ### L07 - Assinatura
 
 | Léxico   | Noção | Impacto | Sinônimo | Classificação |
 | ------   | ----- | ------- | -------- | ------------- |
-|Assinatura|Contrato de assinatura com a Star+ para usufruir dos conteúdos presentes na plataforma.|O usuário escolhe qual plano de assinatura ele deseja. <br />O usuário poderá usufrir os recursos presentes na plataforma da Star+ após a assinatura.|Contrato  |Objeto|
+|Assinatura|Contrato de assinatura com o Star+ para usufruir dos conteúdos presentes na plataforma.|O usuário escolhe qual plano de assinatura ele deseja. <br />O usuário poderá usufrir os recursos presentes na plataforma do Star+ após a assinatura.|Contrato  |Objeto|
 <figcaption style="font-size: 15px" align="center">Tabela 9: Léxico 07. (Fonte: Autores, 2022)</figcaption>
 
 ### L08 - Perfil
 
 | Léxico | Noção | Impacto | Sinônimo | Classificação |
 | ------ | ----- | ------- | -------- | ------------- |
-|Perfil  |Local onde o usuário poderá assistir conteúdos da Star+. A Star+ permite criação de até 7 perfis diferentes. Os perfis podem ser editados ou excluídos. |Após selecionar um perfil, o usuário poderá assitir conteúdos da plataforma e as recomendações baseadas na preferência daquele perfil.|-         | Objeto        |
+|Perfil  |Local onde o usuário poderá assistir conteúdos do Star+. O Star+ permite criação de até 7 perfis diferentes. Os perfis podem ser editados ou excluídos. |Após selecionar um perfil, o usuário poderá assitir conteúdos da plataforma e as recomendações baseadas na preferência daquele perfil.|-         | Objeto        |
 <figcaption style="font-size: 15px" align="center">Tabela 10: Léxico 08. (Fonte: Autores, 2022)</figcaption>
 
 ### L09 - Selecionar perfil
@@ -96,35 +96,35 @@ Os léxicos foram divididos em ordem alfabética seguindo a tabela abaixo:
 
 | Léxico | Noção | Impacto | Sinônimo          | Classificação |
 | ------ | ----- | ------- | --------          | ------------- |
-|Editar Perfil  |Os perfis da Star+ podem ser editados alterando o ícone ou nome.|O usuário poderá escolher qual avatar ele deseja escolher e também o nome que deseja colocar no perfil.|Personalizar, mudar perfil| Verbo         |
+|Editar Perfil  |Os perfis do Star+ podem ser editados alterando o ícone ou nome.|O usuário poderá escolher qual avatar ele deseja escolher e também o nome que deseja colocar no perfil.|Personalizar, mudar perfil| Verbo         |
 <figcaption style="font-size: 15px" align="center">Tabela 12: Léxico 10. (Fonte: Autores, 2022)</figcaption>
 
 ### L11 - Títulos
 
 | Léxico | Noção | Impacto | Sinônimo                    | Classificação |
 | ------ | ----- | ------- | --------                    | ------------- |
-|Título  |Conteúdo presente na Star+.|O usuário pode assistir títulos.</br>O usuário pode buscar títulos.</br>O usuário pode adicionar títulos a sua lista.|Filmes, séries, documentários| Objeto        |
+|Título  |Conteúdo presente no Star+.|O usuário pode assistir títulos.</br>O usuário pode buscar títulos.</br>O usuário pode adicionar títulos a sua lista.|Filmes, séries, documentários| Objeto        |
 <figcaption style="font-size: 15px" align="center">Tabela 13: Léxico 11. (Fonte: Autores, 2022)</figcaption>
 
 ### L12 - Filme
 
 | Léxico | Noção | Impacto | Sinônimo                            | Classificação |
 | ------ | ----- | ------- | --------                            | ------------- |
-|Filme   |Sequência de cenas projetadas.|O usuário poderá assistir os filmes presentes na Star+.|Vídeo, longa-metragem, curta-metragem| Objeto        |
+|Filme   |Sequência de cenas projetadas.|O usuário poderá assistir os filmes presentes no Star+.|Vídeo, longa-metragem, curta-metragem| Objeto        |
 <figcaption style="font-size: 15px" align="center">Tabela 14: Léxico 12  (Fonte: Autores, 2022)</figcaption>
 
 ### L13 - Série
 
 | Léxico | Noção | Impacto | Sinônimo | Classificação |
 | ------ | ----- | ------- | -------- | ------------- |
-|Série   |Obra televisiva ou cinematográfica dividida em episódios.|O usuário poderá assistir séries presentes na Star+.|Seriado   | Objeto        |
+|Série   |Obra televisiva ou cinematográfica dividida em episódios.|O usuário poderá assistir séries presentes no Star+.|Seriado   | Objeto        |
 <figcaption style="font-size: 15px" align="center">Tabela 15: Léxico 13  (Fonte: Autores, 2022)</figcaption>
 
 ### L14 - Documentário
 
 | Léxico     | Noção | Impacto | Sinônimo | Classificação |
 | ---------- | ----- | ------- | -------- | ------------- |
-|Documentário|Gênero de título que tem como objetivo a apresentação de uma visão da realidade por meio da tela|O usuário poderá assistir documentários presentes na Star+.|-         | Objeto        |
+|Documentário|Gênero de título que tem como objetivo a apresentação de uma visão da realidade por meio da tela|O usuário poderá assistir documentários presentes no Star+.|-         | Objeto        |
 <figcaption style="font-size: 15px" align="center">Tabela 16: Léxico 14  (Fonte: Autores, 2022)</figcaption>
 
 
@@ -146,14 +146,14 @@ Os léxicos foram divididos em ordem alfabética seguindo a tabela abaixo:
 
 | Léxico | Noção | Impacto | Sinônimo | Classificação |
 | ------ | ----- | ------- | -------- | ------------- |
-|Episódio|Um episódio é uma parte de uma sequência de um corpo de trabalho cinematográfico.|O usuário poderá assistir um episódio de série da Star+. </br>O usuário poderá assistir um episódio de documentário da Star+.|Capítulo  | Objeto        |
+|Episódio|Um episódio é uma parte de uma sequência de um corpo de trabalho cinematográfico.|O usuário poderá assistir um episódio de série do Star+. </br>O usuário poderá assistir um episódio de documentário do Star+.|Capítulo  | Objeto        |
 <figcaption style="font-size: 15px" align="center">Tabela 19: Léxico 17. (Fonte: Autores, 2022)</figcaption>
 
 ### L18 - Assistir
 
 | Léxico | Noção | Impacto | Sinônimo | Classificação |
 | ------ | ----- | ------- | -------- | ------------- |
-|Assistir|Assistir títulos na Star+.|Com uma assinatura ativa, dispositivo compatível, acesso a internet ou título baixado, o usuário poderá assistir um título da Star+.</br>O usuário pode assistir filmes, séries ou documentários.|Ver       | Verbo         |
+|Assistir|Assistir títulos na Star+.|Com uma assinatura ativa, dispositivo compatível, acesso a internet ou título baixado, o usuário poderá assistir um título do Star+.</br>O usuário pode assistir filmes, séries ou documentários.|Ver       | Verbo         |
 <figcaption style="font-size: 15px" align="center">Tabela 20: Léxico 18. (Fonte: Autores, 2022)</figcaption>
 
 ### L19 - Controlar
@@ -231,3 +231,4 @@ HABITICA - Gamify your Life. Disponível em: https://requisitos-habitica.netlify
 | :----: | :--: | :-------: | :---: | :-----: |
 | 1.0 | 07/12/2022 | Criação dos léxicos | [Josué Teixeira](https://github.com/zjosuez)  | [Gabriel Roger](https://github.com/GabrielRoger07) |
 | 1.1 | 08/12/2022 | adiciona novos léxicos; corrige legenda de tabelas; | [Josué Teixeira](https://github.com/zjosuez)  | [Gabriel Roger](https://github.com/GabrielRoger07) |
+| 1.2 | 09/12/2022 | correção ortográfica | [Josué Teixeira](https://github.com/zjosuez)  | [Gabriel Roger](https://github.com/GabrielRoger07) |
