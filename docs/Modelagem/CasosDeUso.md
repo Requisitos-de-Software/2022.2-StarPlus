@@ -118,7 +118,7 @@
 | Descrição | O usuário deve ser capaz de navegar pelo conteúdo |
 | Pré-condições | Uma conta válida |
 | Ator | Usuário com baixo e/ou alto dominio tecnológico |
-| Ação | O usuário cria navega pelo conteúdo |
+| Ação | O usuário navega pelo conteúdo |
 | Fluxo principal | <ul><li>O usuário acessa a aplicação</li><li>O usuário seleciona um perfil</li></ul> |
 | Pós-condições | O usuário poderá navegar pelo conteúdo |
   
@@ -150,7 +150,7 @@
   
 | UC06 | Informações | 
 | :----: | :------:|
-| Descrição | O usuário deve ser capaz de alterrar o idioma da dublagem e/ou legenda do título |
+| Descrição | O usuário deve ser capaz de alterar o idioma da dublagem e/ou legenda do título |
 | Pré-condições | Uma conta válida |
 | Ator | Usuário com baixo e/ou alto dominio tecnológico |
 | Ação | O usuário muda o idioma da dublagem e/ou legenda do título|
@@ -219,20 +219,9 @@
 | Fluxo principal | <ul><li>O usuário acessa a aplicação</li><li>O usuário seleciona um título</li><li>O usuário seleciona a opção de configuração da velocidade</li></ul> |
 | Pós-condições | O usuário poderá alterar a velocidade de reprodução do título |
 
-### 3.12 Fluxo de configurações da velocidade de reprodução
+### 3.12 Fluxo de download
 
 | UC12 | Informações | 
-| :----: | :------:|
-| Descrição | O usuário deve alterar as configuraçoes da velocidade da reprodução|
-| Pré-condições | Acesso à internet e um dispositivo válido |
-| Ator | Usuário com bom dominio tecnológico |
-| Ação | O usuário muda as da velocidade da reprodução|
-| Fluxo principal | <ul><li>O usuário acessa a aplicação</li><li>O usuário seleciona um título</li><li>O usuário seleciona a opção de configuração da velocidade</li></ul> |
-| Pós-condições | O usuário poderá alterar a velocidade de reprodução do título |
-
-### 3.13 Fluxo de download
-
-| UC13 | Informações | 
 | :----: | :------:|
 | Descrição | O usuário deve baixar um título|
 | Pré-condições | Acesso à internet e um dispositivo válido |
@@ -241,9 +230,9 @@
 | Fluxo principal | <ul><li>O usuário acessa a aplicação</li><li>O usuário seleciona um título</li><li>O usuário seleciona a opção de baixar o título</li></ul> |
 | Pós-condições | O usuário poderá acessar o títlo mesmo offline |
 
-### 3.14 Fluxo de configuração de rede móvel
+### 3.13 Fluxo de configuração de rede móvel
 
-| UC14 | Informações | 
+| UC13 | Informações | 
 | :----: | :------:|
 | Descrição | O usuário deve alterar as configurações de funcionamneto com base em redes móveis|
 | Pré-condições | Acesso à internet e um dispositivo válido |
