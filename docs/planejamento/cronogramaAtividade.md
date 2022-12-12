@@ -54,12 +54,12 @@ Apresentação do projeto na aula | 22/11/2022 | Todos | Todos |---------
 
 Atividade(s) | Data de Início | Responsável | Revisor | Data de revisão
 ------------ | ------- | ----------| ------- | ---------------
-Desenvolvimento de casos de uso | 02/12/2022 | Thiago Vivan, Vinicius Assumpção | Abdul Hannan | 09/12/2022 |
-Cenários   | 02/12/2022 | Abdul Hannan, João Pedro de Camargo | Thiago Vivan | 09/12/2022
-Léxicos | 02/12/2022 | Josué Teixeira, Gabriel Roger | Vinicius Assumpção | 09/12/2022
-Especificação suplementar | 02/12/2022 | Vinicius Assumpção, Thiago Vivan | Josué Teixeira | 09/12/2022
-Gravação do vídeo | 02/12/2022 | Todos | Todos | 09/12/2022
-Entrega do vídeo | 02/12/2022 | Todos | Todos | 09/12/2022
+Desenvolvimento de casos de uso | 06/12/2022 | Gabriel Roger, Vinicius Assumpção | João Pedro de Camargo Vaz | 07/12/2022 |
+Cenários   | 08/12/2022 |Thiago Vivan | Abdul Hannan | 09/12/2022
+Léxicos | 07/12/2022 | Josué Teixeira | Gabriel Roger | 09/12/2022
+Especificação suplementar | 06/12/2022 | João Pedro de Camargo Vaz |  Vinicius Assumpção | 09/12/2022
+Gravação do vídeo | 10/12/2022 | Todos | Todos | 10/12/2022
+Entrega do vídeo | 11/12/2022 | Todos | Todos | 11/12/2022
 
 
 ### Quarta Entrega - 04/01/2023
@@ -135,6 +135,5 @@ Entrega do arquivo | 25/01/2023 | Todos | Todos | 01/02/2023
 | 1.0 | 15/11/2022 | Documento Inicial | [Gabriel](https://github.com/GabrielRoger07) | [Josué](https://github.com/zjosuez)
 | 1.1 | 29/11/2022 | Adicionado novas informações as tabelas | [Josué](https://github.com/GabrielRoger07) | [Gabriel](https://github.com/zjosuez)
 | 1.2 | 30/11/2022 | correção de erro na tabela | [Josué](https://github.com/GabrielRoger07) | [Gabriel](https://github.com/zjosuez)
-
- 
+|1.3|11/12/2022|atualização para terceira entrega|Abdul hannan|Thiago Vivan |
 
