@@ -27,13 +27,13 @@
  
     - [Personas](/docs/Elicitacao/personas.md)
     - [Perfis de usuário](/docs/Elicitacao/PerfildeUsuario.md)
-    - <h5>Técnicas</h5>
+    - <h4>Técnicas</h4>
     
       - [BrainStorm](docs/Elicitacao/BrainStorming.md)
       - [Introspecção](docs/Elicitacao/Tecnicas/introspeccao.md)
       - [Questionário](docs/Elicitacao/Tecnicas/Questionário.md)
       - [Observação](docs/Elicitacao/Tecnicas/Observacao.md)
-   - <h5>Priorização</h5>
+   - <h4>Priorização</h4>
    
       - [In or Out](docs/Elicitacao/Priorizacao/InOrOut.md)
       - [Scale](docs/Elicitacao/Priorizacao/Scale.md)
