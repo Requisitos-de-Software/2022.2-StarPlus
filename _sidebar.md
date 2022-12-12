@@ -1,18 +1,24 @@
-- [Sobre](./README.md)
+- [**Sobre**](./README.md)
+---
 - Atas das Reuniões
   - [Reunião 1](/docs/AtaReuniao/AtaReuniao(22-11).md)
   - [Reunião 2](docs/AtaReuniao/AtaReuniao(29-11).md)
   - [Reunião 3](docs/AtaReuniao/AtaReuniao(06-12).md)
+---
 - Apresentações
   - [Apresentação 1](/docs/apresentacao/apresentacao.md)
   - [Apresentação 2](/docs/apresentacao/apresentacao2.md)
+---
 - Planejamento
   - [Cronograma das Atividades](/docs/planejamento/cronogramaAtividade.md)
   - [Cronograma Realizado](/docs/planejamento/cronogramaRealizado.md)
   - [Ferramentas](/docs/planejamento/ferramentas.md)
   - [Metodologia](/docs/planejamento/metodologia.md)
--  Pré-rastreabilidade
+---
+
+- Pré-rastreabilidade
   - [Rich Picture](/docs/planejamento/richPicture.md)
+---
  - Elicitação
     - [Personas](/docs/Elicitacao/personas.md)
     - [Perfis de usuário](/docs/Elicitacao/PerfildeUsuario.md)
@@ -25,6 +31,7 @@
       - [In or Out](docs/Elicitacao/Priorizacao/InOrOut.md)
       - [Scale](docs/Elicitacao/Priorizacao/Scale.md)
     - [Resultado da Elicitação](/docs/Elicitacao/Resultado.md)
+ ---
  - Modelagem
     - [Cenários](docs/Modelagem/Cenarios.md)
     - [Léxicos](docs/Modelagem/lexicos.md)
