@@ -1,38 +1,46 @@
-- [**Sobre**](./README.md)
+- [<h1 >Sobre</h1>](./README.md)
 ---
-- Atas das Reuniões
+- <h3>Atas das Reuniões</h3>
+
   - [Reunião 1](/docs/AtaReuniao/AtaReuniao(22-11).md)
   - [Reunião 2](docs/AtaReuniao/AtaReuniao(29-11).md)
   - [Reunião 3](docs/AtaReuniao/AtaReuniao(06-12).md)
 ---
-- Apresentações
+- <h3>Apresentações</h3>
+
   - [Apresentação 1](/docs/apresentacao/apresentacao.md)
   - [Apresentação 2](/docs/apresentacao/apresentacao2.md)
 ---
-- Planejamento
+- <h3>Planejamento</h3>
+
   - [Cronograma das Atividades](/docs/planejamento/cronogramaAtividade.md)
   - [Cronograma Realizado](/docs/planejamento/cronogramaRealizado.md)
   - [Ferramentas](/docs/planejamento/ferramentas.md)
   - [Metodologia](/docs/planejamento/metodologia.md)
 ---
 
-- Pré-rastreabilidade
+- <h3>Pré-rastreabilidade</h3>
+
   - [Rich Picture](/docs/planejamento/richPicture.md)
 ---
- - Elicitação
+ - <h3>Elicitação</h3>
+ 
     - [Personas](/docs/Elicitacao/personas.md)
     - [Perfis de usuário](/docs/Elicitacao/PerfildeUsuario.md)
-    - Técnicas
+    - <h5>Técnicas</h5>
+    
       - [BrainStorm](docs/Elicitacao/BrainStorming.md)
       - [Introspecção](docs/Elicitacao/Tecnicas/introspeccao.md)
       - [Questionário](docs/Elicitacao/Tecnicas/Questionário.md)
       - [Observação](docs/Elicitacao/Tecnicas/Observacao.md)
-   - Priorização
+   - <h5>Priorização</h5>
+   
       - [In or Out](docs/Elicitacao/Priorizacao/InOrOut.md)
       - [Scale](docs/Elicitacao/Priorizacao/Scale.md)
-    - [Resultado da Elicitação](/docs/Elicitacao/Resultado.md)
+    - [**Resultado da Elicitação**](/docs/Elicitacao/Resultado.md)
  ---
- - Modelagem
+ - <h3> Modelagem</h3>
+ 
     - [Cenários](docs/Modelagem/Cenarios.md)
     - [Léxicos](docs/Modelagem/lexicos.md)
     - [Casos de uso](docs/Modelagem/CasosDeUso.md)
