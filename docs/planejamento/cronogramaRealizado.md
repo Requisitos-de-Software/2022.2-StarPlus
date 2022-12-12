@@ -41,12 +41,12 @@ Apresentação do projeto na aula | 22/11/2022 | Todos | Todos |---------
 
 Atividade(s) | Data de Início | Responsável | Revisor | Data de Revisão |
 ------------ | ------- | ---------- | --------------- | ------------ |
-Desenvolvimento de casos de uso | 06/12/2022 | Vinícius Assumpção |João Pedro de Camargo Vaz | 07/12/2022 |
+Desenvolvimento de casos de uso | 06/12/2022 |Vinícius Assumpção e Gabriel Roger |João Pedro de Camargo Vaz | 07/12/2022 |
 Cenários   | 08/12/2022 |Thiago Vivan |Abdul Hannan| 08/12/2022
 Léxicos | 06/12/2022 | Josué Teixeira | Gabriel Roger | 07/12/2022
 Especificação suplementar | 05/12/2022 | João Pedro de Camargo Vaz | Vinicius| 06/12/2022
-Gravação do vídeo | 09/12/2022 | Todos | Todos | 09/12/2022
-Entrega do vídeo | 09/12/2022 | Todos | Todos | 09/12/2022
+Gravação do vídeo | 10/12/2022 | Todos | Todos | 10/12/2022
+Entrega do vídeo | 11/12/2022 | Todos | Todos | 11/12/2022
 <br>
 
 ## Histórico de Versão
