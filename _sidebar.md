@@ -10,6 +10,7 @@
 
   - [Apresentação 1](/docs/apresentacao/apresentacao.md)
   - [Apresentação 2](/docs/apresentacao/apresentacao2.md)
+  - [Apresentação 3](/docs/apresentacao/apresentacao3.md)
 ---
 - <h3>Planejamento</h3>
 
