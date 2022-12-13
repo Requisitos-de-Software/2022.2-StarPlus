@@ -51,7 +51,7 @@
 - Uso de recurso
 
 ### 2.5 S - Suportability (Suportabilidade)
-&emsp;&emsp;Os requisitos de suportabilidade podem incluir:
+&emsp;&emsp;Os requisitos de suportabilidade, que pode ser utilizado em sistemas android a partir da versão 5 e ios a partir da versão 14, podem incluir:
 
 - Possibilidade de instalação
 - Possibilidade de localização (internacionalização)
