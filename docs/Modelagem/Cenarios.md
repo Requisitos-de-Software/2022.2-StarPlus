@@ -207,6 +207,4 @@ SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 10. 1º/2019. 35 slides. 
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
 | 1.0 | 08/12/2022 | Criação dos cenários | [Thiago Vivan Bastos](https://github.com/thiago-vivan)  | [Abdul Hannan](https://github.com/hannanhunny01) |
-
-
- Acessar site ou aplicativo Star</br>Clicar em Criar conta</br>Preencher os dados necessários</br>Confirmar e-mail
+| 1.1 | 13/12/2022 | correção ortográfica | [Josué Teixeira](https://github.com/zjosuez) | [Thiago Vivan Bastos](https://github.com/thiago-vivan)
