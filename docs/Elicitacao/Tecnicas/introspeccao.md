@@ -1,6 +1,6 @@
 # Introspecção
 
-## 1. Definição
+## 1. Introdução
 
 A técnica de introspecção consiste na compreensão de quais propriedades o sistema deve possuir, para que assim alcance o sucesso. Sendo assim, é necessário que o engenheiro de requisitos se coloque no lugar de usuário do produto e imagine o que ele gostaria que tivesse no sistema com os equipamentos disponíveis e demais recursos, se ele tivesse que desempenhar uma determinada tarefa, facilitando a compreensão do projeto e a elicitação dos requisitos.
 
