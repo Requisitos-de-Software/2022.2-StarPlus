@@ -59,7 +59,7 @@ Tabela 2: Requisitos funcionais.
 
 Tabela 3: Requisitos Não Funcionais
 
-## Bibliografia
+## Referências
 
 > BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. Interação Humano - Computador. Rio de janeiro: Elsevier, 2010.
 
