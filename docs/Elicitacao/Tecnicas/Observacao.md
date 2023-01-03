@@ -1,6 +1,6 @@
 # Observação
 
-## 1. Definição
+## 1. Introdução
 
 A técnica de observação, ou etnografia, consiste em um meio de elicitar requisitos pela condução de uma avaliação do ambiente de trabalho onde a solução será aplicada tomando notas acerca do que interessa as partes envolvidas.
 
