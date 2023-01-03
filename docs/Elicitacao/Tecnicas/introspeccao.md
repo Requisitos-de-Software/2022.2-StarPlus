@@ -139,7 +139,7 @@ Tabela 5: Requisitos Funcionais.
 
 Tabela 6: Requisitos Não Funcionais.
 
-## Bibliografia
+## Referências
 
 > Milene Serrano e Maurício Serrano, Requisitos - Aula 07. Disponível em: Aprender3.
 
