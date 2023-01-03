@@ -80,6 +80,8 @@
 ## 3. Resultado
 &emsp;&emsp; Tendo como base os requisitos não funcionais levantados na fase de elicitação de requisitos, chegamos nos seguintes resultados:
 
+Fonte: João
+
 <center>
 
 | Sigla | Categoria | Requisitos                                      |
