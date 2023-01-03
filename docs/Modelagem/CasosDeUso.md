@@ -86,6 +86,7 @@
 
 ### 3.1 Fluxo de perfil
 
+Fonte: Vinicius e João
 
 | UC01 | Informações | 
 | :----: | :------:|
@@ -96,9 +97,11 @@
 | Fluxo principal | <ul><li>O usuário acessa a aplicação</li><li>O usuário seleciona a opção de criar uma conta</li><li>O usuário fornece seus dados</li></ul> |
 | Pós-condições | O usuário poderá acessar um perfil específico |
 
+Tabela 1: Fluxo de perfil
+
 ### 3.2 Fluxo de título
 
-
+Fonte: Vinicius e João
 
 | UC02 | Informações | 
 | :----: | :------:|
@@ -109,9 +112,11 @@
 | Fluxo principal | <ul><li>O usuário acessa a aplicação</li><li>O usuário seleciona um título</li></ul> |
 | Pós-condições | O usuário poderá assisitir a um título |
 
-
+Tabela 2: Fluxo de título
 
 ### 3.3 Fluxo de conteúdo
+
+Fonte: Vinicius e João
 
 | UC03 | Informações | 
 | :----: | :------:|
@@ -122,8 +127,11 @@
 | Fluxo principal | <ul><li>O usuário acessa a aplicação</li><li>O usuário seleciona um perfil</li></ul> |
 | Pós-condições | O usuário poderá navegar pelo conteúdo |
   
-  
+ Tabela 3: Fluxo de conteúdo
+ 
  ### 3.4 Fluxo de lista
+ 
+ Fonte: Vinicius e João
   
 | UC04 | Informações | 
 | :----: | :------:|
@@ -133,9 +141,13 @@
 | Ação | O usuário cria uma lista de favoritos |
 | Fluxo principal | <ul><li>O usuário acessa a aplicação</li><li>O usuário seleciona um perfil</li><li>O usuário seleciona um titulo</li><li>O usuário adiciona à lista</li></ul> |
 | Pós-condições | O usuário poderá acessar uma lista de favoritos |
+
+ Tabela 4: Fluxo de lista 
   
   
 ### 3.5 Fluxo de busca
+
+Fonte: Vinicius e João
   
 | UC05 | Informações | 
 | :----: | :------:|
@@ -145,8 +157,12 @@
 | Ação | O usuário busca um título de interesse |
 | Fluxo principal | <ul><li>O usuário acessa a aplicação</li><li>O usuário seleciona a barra de pesquisa</li></ul><li>O usuário busca pelo título de interesse, com ou sem o uso de filtros</li> |
 | Pós-condições | O usuário poderá buscar pelo conteúdo |
+
+Tabela 5: Fluxo de busca
   
 ### 3.6 Fluxo de alteração do idioma
+
+Fonte: Vinicius e João
   
 | UC06 | Informações | 
 | :----: | :------:|
@@ -157,6 +173,8 @@
 | Fluxo principal | <ul><li>O usuário acessa a aplicação</li><li>O usuário seleciona um título</li></ul><li>O usuário muda o idioma da dublagem e/ou legenda do título</li> |
 | Pós-condições | O usuário poderá navegar pelo conteúdo |
 
+Tabela 6: Fluxo de alteração do idioma
+
 
 ## Casos de uso exclusivos para perfil com bom dominio tecnológico
 
@@ -165,6 +183,8 @@
 
 
 ### 3.7 Fluxo de reprodução em segundo plano
+
+Fonte: Vinicius e João
 
 | UC07 | Informações | 
 | :----: | :------:|
@@ -175,7 +195,11 @@
 | Fluxo principal | <ul><li>O usuário acessa a aplicação</li><li>O usuário seleciona a opção de configurações</li><li>O usuário permite a reprodução de um título em segundo plano</li></ul> |
 | Pós-condições | O usuário poderá reproduzir um título em segundo plano |
 
+Tabela 7: Fluxo de reprodução em segundo plano
+
 ### 3.8 Fluxo de compartilhamento do título
+
+Fonte: Vinicius e João
 
 | UC08 | Informações | 
 | :----: | :------:|
@@ -186,7 +210,11 @@
 | Fluxo principal | <ul><li>O usuário acessa a aplicação</li><li>O usuário seleciona um título</li><li>O usuário seleciona a opção de compartilhar o título</li><li>O usuário seleciona  alguma das diversas redes sociais disponíveis</li></ul> |
 | Pós-condições | O usuário poderá compartilhar um título|
 
+Tabela 8: Fluxo de compartilhamento do título
+
 ### 3.9 Fluxo de detalhamento do título
+
+Fonte: Vinicius e João
 
 | UC09 | Informações | 
 | :----: | :------:|
@@ -197,7 +225,11 @@
 | Fluxo principal | <ul><li>O usuário acessa a aplicação</li><li>O usuário seleciona um título</li><li>O usuário seleciona a opção de detalhar o título</li></ul> |
 | Pós-condições | O usuário poderá conhecer em detalhes o título |
 
+Tabela 9: Fluxo de detalhamento do título
+
 ### 3.10 Fluxo de configurações da legenda
+
+Fonte: Vinicius e João
 
 | UC10 | Informações | 
 | :----: | :------:|
@@ -208,7 +240,11 @@
 | Fluxo principal | <ul><li>O usuário acessa a aplicação</li><li>O usuário seleciona um título</li><li>O usuário seleciona a opção de configuração da legenda</li></ul> |
 | Pós-condições | O usuário poderá alterar diversos aspectos da legenda |
 
+Tabela 10: Fluxo de configurações da legenda
+
 ### 3.11 Fluxo de configurações da velocidade de reprodução
+
+Fonte: Vinicius e João
 
 | UC11 | Informações | 
 | :----: | :------:|
@@ -219,7 +255,11 @@
 | Fluxo principal | <ul><li>O usuário acessa a aplicação</li><li>O usuário seleciona um título</li><li>O usuário seleciona a opção de configuração da velocidade</li></ul> |
 | Pós-condições | O usuário poderá alterar a velocidade de reprodução do título |
 
+Tabela 11: Fluxo de configurações da velocidade de reprodução
+
 ### 3.12 Fluxo de download
+
+Fonte: Vinicius e João
 
 | UC12 | Informações | 
 | :----: | :------:|
@@ -230,7 +270,11 @@
 | Fluxo principal | <ul><li>O usuário acessa a aplicação</li><li>O usuário seleciona um título</li><li>O usuário seleciona a opção de baixar o título</li></ul> |
 | Pós-condições | O usuário poderá acessar o títlo mesmo offline |
 
+Tabela 12: Fluxo de download
+
 ### 3.13 Fluxo de configuração de rede móvel
+
+Fonte: Vinicius e João
 
 | UC13 | Informações | 
 | :----: | :------:|
@@ -240,6 +284,8 @@
 | Ação | O usuário altera as configurações de funcionamneto com base em redes móveis|
 | Fluxo principal | <ul><li>O usuário acessa a aplicação</li><li>O usuário seleciona as configurações do app</li><li>O usuário seleciona a opção de alterar o limite de funcionamento com base em redes móveis</li></ul> |
 | Pós-condições | O usuário poderá alterar o limite de funcionamneto do app com base em redes móveis |
+
+Tabela 13: Fluxo de configuração de rede móvel
 
 
 ## 4. Referências
