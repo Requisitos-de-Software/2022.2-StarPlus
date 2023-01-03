@@ -1,7 +1,7 @@
 # Entrevista
 
 ## 1. Introdução
-<p align="justify">&emsp;&emsp;A entrevista é uma das técnicas mais utilizadas para coleta de dados e levantamento de requisitos. Trata-se de uma conversa guiada por um roteiro de perguntas ou tópicos, na qual um entrevistador busca obter informação de um entrevistado (Seidman, 2019).</p>
+<p align="justify">&emsp;&emsp;A entrevista é uma das técnicas mais utilizadas para coleta de dados e levantamento de requisitos. Trata-se de uma conversa guiada por um roteiro de perguntas ou tópicos, na qual um entrevistador busca obter informação de um entrevistado (Seidman, 2019). No contexto desse projeto, seu foco foi dado para a validação dos perfis de usuário.</p>
 
 <p align="justify">&emsp;&emsp;A entrevista tem como vantagens:</p>
 
@@ -10,9 +10,9 @@
 (Simone Diniz, Interação Humano-Computador. - Cáp. 7, páginas 143, 144)
 
 ## 2. Metodologia
-<p align="justify">&emsp;&emsp;A partir de um roteiro de perguntas, um participante do grupo entrevistou um usuário do aplicativo YouTube. O roteiro foi o seguinte:</p>
+<p align="justify">&emsp;&emsp;A partir de um roteiro de perguntas, um participante do grupo entrevistou um usuário do aplicativo StarPlus. O roteiro foi o seguinte:</p>
 
-- Quantos anos voçe tem?
+- Quantos anos você tem?
 - Para o que você usa o StarPlus?
 - O que você gosta no StarPlus?
 - Desde Quando você usa o StarPlus?
