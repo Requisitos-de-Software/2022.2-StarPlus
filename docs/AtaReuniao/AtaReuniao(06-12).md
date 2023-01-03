@@ -23,6 +23,7 @@ Tabela 1: Atividades a serem feitas
 
 ## Gravação da reunião
 Reunião presencial
+https://www.youtube.com/watch?v=JIdIln9lbvo
 ## Conclusão
 As tarefas foram separadas entre os integrantes, tanto a revisão dos artefatos do ponto de controle 2, quanto a elaboração dos artefatos do ponto de controle 3.
 ## Histórico de versão
