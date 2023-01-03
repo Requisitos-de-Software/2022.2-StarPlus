@@ -25,6 +25,9 @@ Tabela 1 : Membros
 
 ## Tabela de Requisitos
 ### Requisitos Funcionais
+
+Fonte: Grupo 6
+
 |Número|Requisitos Funcionais|
 |--|-----------------------------------------------|
 |1 | o usuário deve ser capaz de criar uma conta|
@@ -50,6 +53,9 @@ Tabela 1 : Membros
 Tabela 2: Requisitos funcionais.
 
 ### Requisitos Não Funcionais
+
+Fonte: Grupo 6
+
 |Número|Requisitos Não Funcionais|
 |---|--|
 |1|Não deve haver buffering, ou seja, fornecer aos usuários streaming de vídeo em tempo real sem nenhum atraso.|
