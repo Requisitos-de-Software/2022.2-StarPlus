@@ -13,6 +13,9 @@
 
 ### 3.1 Requisitos funcionais
 
+
+Fonte: João e Abdul
+
 <center>
 
 | Número | Requisito | Técnica        |
@@ -70,6 +73,8 @@
 </center>
 
 ### 3.2 Requisitos não funcionais
+
+Fonte: João e Abdul
 
 <center>
 
