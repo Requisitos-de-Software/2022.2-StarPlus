@@ -242,7 +242,7 @@
 | Pós-condições | O usuário poderá alterar o limite de funcionamneto do app com base em redes móveis |
 
 
-## 4. Bibliografia
+## 4. Referências
 
 > - UML Use Case Diagrams. UML Diagrams. Disponível em: <https://www.uml-diagrams.org/use-case-diagrams.html> 
 > - PIMENTEL, Andrey Ricardo. Projeto de Software Usando a UML. 2007.
