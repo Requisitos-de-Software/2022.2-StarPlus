@@ -34,6 +34,7 @@
       - [Introspecção](docs/Elicitacao/Tecnicas/introspeccao.md)
       - [Questionário](docs/Elicitacao/Tecnicas/Questionário.md)
       - [Observação](docs/Elicitacao/Tecnicas/Observacao.md)
+      - [Entrevista(Validação Perfil de usuário)](docs/Elicitacao/Tecnicas/Entrevista.md)
    - <h4>Priorização</h4>
    
       - [In or Out](docs/Elicitacao/Priorizacao/InOrOut.md)
