@@ -46,7 +46,7 @@ Tabela 1: Requisitos Funcionais. Fonte: Grupo 6
 
 Tabela 2: Requisitos Não Funcionais. Fonte: Grupo 6
 
-## Bibliografia
+## Referências
 
 >  Engenharia de Requisitos - Cap. 7 Elicitação de Requisitos. Disponível em: Aprender3.
 
