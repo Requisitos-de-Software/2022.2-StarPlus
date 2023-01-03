@@ -16,6 +16,9 @@
 
 ## 3. Resultados
 ### 3.1 Requisitos Funcionais
+
+Fonte: João e Abdul
+
 | ID  | Requisito | Técnica | Prioridade |
 | :-: | :-------- | :-----: | :--------: |
 |RF01| O usuário deve conseguir criar conta | Brainstorm<br/>Introspecção <br/>  | Alta  |
@@ -69,7 +72,11 @@
 |RF49| O sistema deve manter o tempo do título já assistido para que o usuário possa continuar assistindo posteriormente | Introspecção<br/>  | Alta | 
 
 Tabela 1 : Requisitos Funcionais com Níveis de prioridade
+
 ### 3.2 Requisitos Não-Funcionais
+
+Fonte: João e Abdul
+
 | ID  | Requisito | Técnica | Prioridade |
 | :-: | :-------- | :-----: | :--------: |
 |RNF1| O sistema deve oferecer a opção de impedir downloads usando dados móveis | Brainstorm<br/> | Alta  |
