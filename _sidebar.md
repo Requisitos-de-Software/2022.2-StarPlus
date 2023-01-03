@@ -48,3 +48,4 @@
     - [Casos de uso](docs/Modelagem/CasosDeUso.md)
     - [Especificação Suplementar](docs/Modelagem/especificacao_suplementar/especificacao.md)
     - [NFR Framework](docs/Modelagem/nfr.md)
+    - [Backlog + Histórias de Usuário](docs/Modelagem/backlog_US.md)
