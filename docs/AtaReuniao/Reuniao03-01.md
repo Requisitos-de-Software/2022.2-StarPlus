@@ -4,10 +4,9 @@ Remota - Reunião realizada pelo Teams
 # Participantes - 
 João Pedro de Camargo
 Vinicius Assumpcao
-Thiago Vivan
 Gabriel Roger
 Abdul Hannan
-Josué Teixeira
+
 ## Início e término
 A reunião foi iniciada às 16:30 e finalizada às 17:20.
 ## Objetivos
@@ -22,7 +21,7 @@ Revisar os artefatos desenvolvidos no terceiro ponto de controle, revisar os art
 Tabela 1: Atividades a serem feitas
 
 ## Gravação da reunião
-
+https://unbbr.sharepoint.com/:v:/s/RequisitosdeSoftware-Time6/ESvH153H9lNMv2pjdmIon8YB_-hOv63KxZFTMN5SXWAQ9g?e=lqb7WT
 ## Conclusão
 As tarefas foram separadas entre os integrantes, tanto a revisão dos artefatos do ponto de controle 3 e 4, quanto a elaboração dos artefatos do ponto de controle 5.
 ## Histórico de versão
