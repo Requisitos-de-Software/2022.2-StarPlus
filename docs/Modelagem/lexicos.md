@@ -219,7 +219,7 @@ Os léxicos foram divididos em ordem alfabética seguindo a tabela abaixo:
 |Tendência|Categoria que exibe quais as tendência do momento.|O usuário poderá visualizar títulos em tendência no momento.</br>O usuário poderá assistir títulos em tendência no momento.|Em alta   |     Verbo       |
 <figcaption style="font-size: 15px" align="center">Tabela 29: Léxico 27. (Fonte: Autores, 2022)</figcaption>
 
-## 4. Bibliografia
+## 4. Referências
 
 SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 10. 1º/2022. 35 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
 
