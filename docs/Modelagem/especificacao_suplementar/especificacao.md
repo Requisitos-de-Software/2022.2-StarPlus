@@ -95,7 +95,7 @@
 
 </center>
 
-## 4. Bibliografia
+## 4. Referências
 
 > - https://www.cin.ufpe.br/~gta/rup-vc/core.base_rup/guidances/concepts/requirements_62E28784.html
 > - SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 13;
