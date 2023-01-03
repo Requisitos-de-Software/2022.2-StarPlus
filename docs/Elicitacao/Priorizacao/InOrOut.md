@@ -20,6 +20,9 @@ Tabela 1: Dados do usuário externo. Fonte: Grupo 6
 ## 3. Resultados
 
 ### 3.1 Requisitos Funcionais
+
+Fonte: Vinícius, João e Gabriel
+
 | ID  | Requisito | Técnica | Prioridade |
 | :-: | :-------- | :-----: | :--------: |
 |RF01| O usuário deve conseguir criar conta | Brainstorm<br/>Introspecção <br/>  | in  |
@@ -75,6 +78,9 @@ Tabela 1: Dados do usuário externo. Fonte: Grupo 6
 Tabela 2: Requisitos Funcionais. Fonte: Grupo 6
 
 ### 3.2 Requisitos Não-Funcionais
+
+Fonte: Vinícius, João e Gabriel
+
 | ID  | Requisito | Técnica | Prioridade |
 | :-: | :-------- | :-----: | :--------: |
 |RNF1| O sistema deve manter o tempo do título já assistido para que o usuário possa continuar assistindo posteriormente | Introspecção<br/>  | in  |
