@@ -10,7 +10,7 @@
 
 ## 3. Personas
 ### 3.1 Pedro Miguel Santos
-<figcaption style="font-size: 15px; text-align: center">Tabela 1: Pedro Miguel Santos</figcaption>
+<figcaption style="font-size: 15px; text-align: center">Fonte: Josué Teixeira</figcaption>
 
 |     |    |
 | :-: | :- |
@@ -24,10 +24,11 @@
 | **Ambiente** | Pedro mora com os pais, mas passa a maior parte do tempo sozinho porque seus pais trabalham o dia todo. As vezes vai na casa dos seus amigos depois que termina a aula para jogar ou realizar as atividades escolares. |
 | **Requisitos** | Pedro Miguel espera conseguir assitir os principais títulos da atualidade em qualidade 4K. |
 | **Expectativas** | Pedro Miguel tem a expectativa de conseguir assistir os filmes/séries favoritos sem problemas na plataforma. |
-<figcaption style="font-size: 15px; text-align: center">Fonte: Josué Teixeira</figcaption>
+
+  <figcaption style="font-size: 15px; text-align: center">Tabela 1: Pedro Miguel Santos</figcaption>
 
 ### 3.2 Ana Júlia Fogaça
-<figcaption style="font-size: 15px; text-align: center">Tabela 2: Ana Júlia Fogaça</figcaption>
+<figcaption style="font-size: 15px; text-align: center">Fonte: Josué Teixeira</figcaption>
 
 |     |    |
 | :-: | :- |
@@ -41,10 +42,12 @@
 | **Ambiente** | Ana Júlia mora com seus pais e adora passar o tempo livre com sua família. Ela não é muito de sair de casa, mas as vezes se encontra com sua amiga que mora na casa ao lado. |
 | **Requisitos** | Ana Júlia adora assistir filmes de romando, então ela espera conseguir assistir os principais títulos de filme do gênero romance. |
 | **Expectativas** | Ana Júlia tem a expectativa de assistir filme com sua família. |
-<figcaption style="font-size: 15px; text-align: center">Fonte: Josué Teixeira</figcaption>
+
+  <figcaption style="font-size: 15px; text-align: center">Tabela 2: Ana Júlia Fogaça</figcaption>
 
 ### 3.3 João Guilherme Santos
-<figcaption style="font-size: 15px; text-align: center">Tabela 3: João Guilherme Santos</figcaption>
+
+  <figcaption style="font-size: 15px; text-align: center">Fonte: Josué Teixeira</figcaption>
 
 |     |    |
 | :-: | :- |
@@ -58,11 +61,11 @@
 | **Ambiente** | João Guilherme passa a maior parte do dia no trabalho com seus colegas, ele conhece muitas pessoas e tem uma rede de amizade muito grande. Sempre dedica um tempo para passar com sua esposa, principalmente aos finais de semana. |
 | **Requisitos** | João espera assistir documentários sobre a vida animal com áudio e vídeo em português. |
 | **Expectativas** | João tem a expectativa de assistir documentários no seu tempo livre. |
-<figcaption style="font-size: 15px; text-align: center">Fonte: Josué Teixeira</figcaption>
+<figcaption style="font-size: 15px; text-align: center">Tabela 3: João Guilherme Santos</figcaption>
 
 ## 4. Antipersona
 ### 4.1 Maria Alice da Luz
-<figcaption style="font-size: 15px; text-align: center ">Tabela 4: Maria Alice da Luz</figcaption>
+<figcaption style="font-size: 15px; text-align: center" >Fonte: Josué Teixeira</figcaption>
 
 |     |    |
 | :-: | :- |
@@ -76,6 +79,7 @@
 | **Requisitos** | Como Maria não utiliza plataformas de streming, não foi definido nenhum requisito baseado nos dados sobre ela. |
 | **Expectativas** | Maria não tem expectativas em relação ao aplicativo porque não costuma assistir filmes/séries/documentarios. |
 <figcaption style="font-size: 15px; text-align: center" >Fonte: Josué Teixeira</figcaption>
+<figcaption style="font-size: 15px; text-align: center ">Tabela 4: Maria Alice da Luz</figcaption>
 
 ## 4. Referências
 
