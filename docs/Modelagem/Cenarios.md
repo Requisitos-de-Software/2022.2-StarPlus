@@ -198,7 +198,7 @@ Tabela 13: Cenario 12. Fonte: Thiago Vivan, Abdul Hannan
 Tabela 14: Cenario 13. Fonte: Thiago Vivan, Abdul Hannan
 
 
-## 4. Bibliografia
+## 4. Referências
 
 SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 10. 1º/2019. 35 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
 
