@@ -23,8 +23,10 @@ Existem três tipos de softgoals, e cada um deles possui uma notação gráfica 
 
 ## 3. Requisitos não funcionais
   Abaixo estão os requisitos não-funcionais levantados através das técnicas de elicitação utilizadas no projeto, sendo os mesmo utilizados para elaboração do NFR Framework.
-|Número|	Requisito|	Técnica|
-|--|--|--|
+<br/>
+
+|Número|Requisito|Técnica|
+|----|----|----|
 |RFN4|O sistema deve ser responsivo	|Brainstorm, Questionário|
 |RNF5|O sistema deve ser multiplataforma|Questionário|
 |RNF6	|O sistema deve possuir uma boa conexão com o servidor	|Observação, Brainstorm|
