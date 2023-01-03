@@ -7,6 +7,8 @@
 
    Ele descreve uma situação de uso do sistema. Utilizaremos a tabela 1 a seguir como modelo para os cenários representados pelas tabelas 2 a 14. Inclui informações como Nome do Cenário, Ator(es), Pré-condição, Fluxo normal, Fluxos alternativos e Pós-condição. Também é o espaço real ou virtual.
 
+Fonte: Thiago Vivan, Abdul Hannan
+
 | Modelo |Cenários |
 | --------- | -----------|
 | Título | Título do Cenário |
@@ -19,12 +21,14 @@
 | Exceção |    	Descrição da exceção |
 
 
-Tabela 1: Estrutura de um Cenário. Fonte: Thiago Vivan, Abdul Hannan
+Tabela 1: Estrutura de um Cenário. 
 
 
 ## Cenários:
 
 ### Cenário 1: Criar Conta
+
+Fonte: Thiago Vivan, Abdul Hannan
 
 |Elementos|Respostas|
 |--|--|
@@ -36,10 +40,13 @@ Tabela 1: Estrutura de um Cenário. Fonte: Thiago Vivan, Abdul Hannan
 | Episódios | Acessar site ou aplicativo Star+<br>Clicar em Criar conta<br>Preencher os dados necessários<br>Confirmar e-mail |
 | Rastreabilidade | RF1 |
 
-Tabela 2: Cenario 1. Fonte: Thiago Vivan, Abdul Hannan
+Tabela 2: Cenario 1. 
 
 
 ### Cenário 2: Realizar Login
+
+Fonte: Thiago Vivan, Abdul Hannan
+
 |Elementos|Respostas|
 |--|--|
 | Objetivo | Assinante Star+ poder fazer login no Star+|
@@ -50,10 +57,13 @@ Tabela 2: Cenario 1. Fonte: Thiago Vivan, Abdul Hannan
 | Episódios | Acessar site ou aplicativo Star+</br>Clicar em Criar conta</br>Preencher os dados necessários</br>Confirmar e-mail |
 | Rastreabilidade |RF3|
 
-Tabela 3: Cenario 2. Fonte: Thiago Vivan, Abdul Hannan
+Tabela 3: Cenario 2. 
 
 
 ### Cenário 3: Cancelar Assinatura
+
+Fonte: Thiago Vivan, Abdul Hannan
+
 |Elementos|Respostas|
 |--|--|
 | Objetivo | Não ser mais cliente do serviço|
@@ -64,9 +74,12 @@ Tabela 3: Cenario 2. Fonte: Thiago Vivan, Abdul Hannan
 | Episódios |    Clicar em Configurações de conta</br>Clicar em apagar Conta</br>Selecionar motivo</br>Clicar em "tenho certeza" |
 | Rastreabilidade |RF3|
 
-Tabela 4: Cenario 3. Fonte: Thiago Vivan, Abdul Hannan
+Tabela 4: Cenario 3. 
 
 ### Cenário 4: Remover titulo
+
+Fonte: Thiago Vivan, Abdul Hannan
+
 |Elementos|Respostas|
 |--|--|
 | Objetivo | Remover titulo da Lista |
@@ -77,9 +90,12 @@ Tabela 4: Cenario 3. Fonte: Thiago Vivan, Abdul Hannan
 | Episódios | Na página principal apos login</br>clique em Minha lista e selecione um título </br>E em seguida, selecione a marca de seleção |
 | Rastreabilidade |RF8|
 
-Tabela 5: Cenario 4. Fonte: Thiago Vivan, Abdul Hannan
+Tabela 5: Cenario 4. 
 
 ### Cenário 5: Buscar ajuda
+
+Fonte: Thiago Vivan, Abdul Hannan
+
 |Elementos|Respostas|
 |--|--|
 | Objetivo | Acessar página de ajuda |
@@ -90,9 +106,12 @@ Tabela 5: Cenario 4. Fonte: Thiago Vivan, Abdul Hannan
 | Episódios | Acessar Configurações</br>Clicar em Ajuda |
 | Rastreabilidade | RF10 |
 
-Tabela 6: Cenario 5. Fonte: Thiago Vivan, Abdul Hannan
+Tabela 6: Cenario 5. 
 
 ### Cenário 6: Passar para o proximo episódio
+
+Fonte: Thiago Vivan, Abdul Hannan
+
 |Elementos|Respostas|
 |--|--|
 | Objetivo | Passar para o próximo episódio ainda na reprodução do atual  |
@@ -103,9 +122,12 @@ Tabela 6: Cenario 5. Fonte: Thiago Vivan, Abdul Hannan
 | Episódios | Clicar em botão de próximo episodio |
 | Rastreabilidade | RF11 |
 
-Tabela 7: Cenario 6. Fonte: Thiago Vivan, Abdul Hannan
+Tabela 7: Cenario 6. 
 
 ### Cenário 7: Escolher temporada
+
+Fonte: Thiago Vivan, Abdul Hannan
+
 |Elementos|Respostas|
 |--|--|
 | Objetivo | Poder escolher a qual temporada de um titulo assistir |
@@ -116,9 +138,12 @@ Tabela 7: Cenario 6. Fonte: Thiago Vivan, Abdul Hannan
 | Episódios | Clicar no titulo a qual quer assistir |
 | Rastreabilidade | RF17 |
 
-Tabela 8: Cenario 7. Fonte: Thiago Vivan, Abdul Hannan
+Tabela 8: Cenario 7. 
 
 ### Cenário 8: Acessar histórico
+
+Fonte: Thiago Vivan, Abdul Hannan
+
 |Elementos|Respostas|
 |--|--|
 | Objetivo | Assinante Star+ deseja saber quais títulos já foram assistidos |
@@ -129,9 +154,12 @@ Tabela 8: Cenario 7. Fonte: Thiago Vivan, Abdul Hannan
 | Episódios | Clicar em Histórico de Reprodução |
 | Rastreabilidade | RF19 |
 
-Tabela 9: Cenario 8. Fonte: Thiago Vivan, Abdul Hannan
+Tabela 9: Cenario 8. 
 
 ### Cenário 9: Realiza busca
+
+Fonte: Thiago Vivan, Abdul Hannan
+
 |Elementos|Respostas|
 |--|--|
 | Objetivo | Realizar busca pelo filme/série ou programa no star+ |
@@ -142,9 +170,12 @@ Tabela 9: Cenario 8. Fonte: Thiago Vivan, Abdul Hannan
 | Episódios | o usuário clica na barra de pesquisa na página principal,</br>o usuário escolhe a opção de digitação ou comando pelo microfone,</br>o usuário clica no botão de pesquisa |
 | Rastreabilidade | RF21 |
 
-Tabela 10: Cenario 9. Fonte: Thiago Vivan, Abdul Hannan
+Tabela 10: Cenario 9. 
 
 ### Cenário 10: Adicionar filtro de busca
+
+Fonte: Thiago Vivan, Abdul Hannan
+
 |Elementos|Respostas|
 |--|--|
 | Objetivo | Assinante Star+ deseja buscar um título utilizando Filtros |
@@ -155,9 +186,12 @@ Tabela 10: Cenario 9. Fonte: Thiago Vivan, Abdul Hannan
 | Episódios |O usuário Clica na barra de pesquisa na página principal</br>O usuário clica em Filtros</br>O usuário seleciona os Filtros desejados</br>O usuário clica em Aplicar filtros |
 | Rastreabilidade | RF22 |
 
-Tabela 11: Cenario 10. Fonte: Thiago Vivan, Abdul Hannan
+Tabela 11: Cenario 10. 
 
 ### Cenário 11: Alterar meios de pagamento
+
+Fonte: Thiago Vivan, Abdul Hannan
+
 |Elementos|Respostas|
 |--|--|
 | Objetivo | Assinante Star+ Alterar Forma de pagamento cadastrada |
@@ -168,9 +202,12 @@ Tabela 11: Cenario 10. Fonte: Thiago Vivan, Abdul Hannan
 | Episódios | Clicar no botão Conta Star+</br>Clicar em Assinatura</br>Clicar em Detalhes de Assinatura</br>Inserir novos dados</br>Clicar em Salvar |
 | Rastreabilidade | RF23 |
 
-Tabela 12: Cenario 11. Fonte: Thiago Vivan, Abdul Hannan
+Tabela 12: Cenario 11. 
 
 ### Cenário 12: Baixar Título
+
+Fonte: Thiago Vivan, Abdul Hannan
+
 |Elementos|Respostas|
 |--|--|
 | Objetivo | Assinante Star+ deseja baixar um titulo para reprodução offline |
@@ -181,10 +218,13 @@ Tabela 12: Cenario 11. Fonte: Thiago Vivan, Abdul Hannan
 | Episódios | Clicar em Baixar titulo/episodio |
 | Rastreabilidade | RF24 |
 
-Tabela 13: Cenario 12. Fonte: Thiago Vivan, Abdul Hannan
+Tabela 13: Cenario 12. 
 
 
-### Cenário 13: Mudar idioma, audio,Retirar legenda    
+### Cenário 13: Mudar idioma, audio,Retirar legenda  
+
+Fonte: Thiago Vivan, Abdul Hannan
+
 |Elementos|Respostas|
 |--|--|
 | Objetivo | Mudar idioma, audio,Retirar legenda de um titulo  |
@@ -195,7 +235,7 @@ Tabela 13: Cenario 12. Fonte: Thiago Vivan, Abdul Hannan
 | Episódios | Abra o StarPlus.</br>Selecione um programa de TV ou filme.</br>Comece a jogar e execute a ação listada para o seu dispositivo:</br>Na parte superior ou inferior da tela, selecione Áudio e legendas . Nas TVs, as opções de idioma podem aparecer na parte inferior sem o ícone. Você pode escolher entre os idiomas mostrados ou selecionar Outros para ver todas as opções de idioma.</br>Faça alterações nas seleções de áudio ou legenda. |
 | Rastreabilidade | RF25,RF28 |
 
-Tabela 14: Cenario 13. Fonte: Thiago Vivan, Abdul Hannan
+Tabela 14: Cenario 13. 
 
 
 ## 4. Referências
