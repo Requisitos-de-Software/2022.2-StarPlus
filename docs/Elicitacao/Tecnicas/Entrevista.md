@@ -24,14 +24,16 @@
 
 <p align="justify">&emsp;&emsp;A partir das respostas do usuário, foram validados v[arios] requisitos que já são implementados no aplicativo e alguns outros que podem vir a serem, além de ter sido feit a validação do perfil de usuário, em especial o perfil com bom domínio tecnológico, com sucesso.
 
-[Áudio(ou video) da Entrevista]()
+[Áudio(ou video) da Entrevista - 1](https://www.youtube.com/watch?v=u3LHzQ2irig)
 
 ## 3. Participantes
 
-
+Gabriel Roger
+Heitor Magalhães  
 
 ## 4. Resultados
 
+ As entrevistas permitiram avaliar a veracidade dos perfis de usuário com sucesso, além de uma validação, mesmo que parcial, de vários requisitos, tanto funcionais quanto não funcionais. 
 
 ## 5. Referências
 > - Simone Diniz, Interação Humano-Computador. São Paulo, 1a Edição, Elsevier, 2010.
