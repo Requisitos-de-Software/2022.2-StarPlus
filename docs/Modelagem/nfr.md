@@ -1,6 +1,6 @@
 # NFR Framework
 ## Introdução
-O NFR Framework é uma abordagem para representar e analisar Requisitos Não-Funcionais. Tem como principal objetivo auxiliar os desenvolvedores no processo de implantação de soluções personalizadas com a perspectiva das características do domínio e do sistema em questão.Essas características incluem os Requisitos Não-Funcionais, Requsitos Funcionais, prioridades e carga de trabalho. Os Requisitos Não-Funcionais são considerados cidadãos de primeira ordem.O Framework trabalha com o conceito de softgoals, e possui um método de análise quantitativa para definir os status dos softgoals.
+O NFR Framework é uma abordagem para representar e analisar Requisitos Não-Funcionais. Tem como principal objetivo auxiliar os desenvolvedores no processo de implantação de soluções personalizadas com a perspectiva das características do domínio e do sistema em questão.Essas características incluem os Requisitos Não-Funcionais, Requsitos Funcionais, prioridades e carga de trabalho. Os Requisitos Não-Funcionais são considerados cidadãos de primeira ordem. O Framework trabalha com o conceito de softgoals, e possui um método de análise quantitativa para definir os status dos softgoals.
 
 ## Softgoals
 Um softgoal é um objetivo que não tem definição clara nem critérios de aceitação precisos. São utilizados para representar Requisitos Não-Funcionais e podem estar inter-relacionados, indicando a influência de um softgoal em outro.
@@ -28,7 +28,7 @@ Existem três tipos de softgoals, e cada um deles possui uma notação gráfica 
 <p style="font-size: 15px"> Fonte: Josué Teixeira <p>
 
 ## 2. Metodologia
-  Através desse documento, buscamos definir as funcionalidades dos requisitos não-funcionais através da implementação de diagramas, representados nas Imagens 3 a 9, utilizando o NFR Framework, criando análises das possíveis situações.
+  Através desse documento, buscamos definir as funcionalidades dos requisitos não-funcionais através da implementação de diagramas, representados nas Imagens 1 a 7, utilizando o NFR Framework, criando análises das possíveis situações.
 
 
 ## 3. Requisitos não funcionais
