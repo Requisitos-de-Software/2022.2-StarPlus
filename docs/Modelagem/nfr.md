@@ -18,11 +18,11 @@ Existem três tipos de softgoals, e cada um deles possui uma notação gráfica 
 <br>
 
 ## 2. Metodologia
-  Através desse documento, buscamos definir as funcionalidades dos requisitos não-funcionais através da implementação de diagramas utilizando o NFR Framework, criando análises das possíveis situações.
+  Através desse documento, buscamos definir as funcionalidades dos requisitos não-funcionais através da implementação de diagramas, representados nas Imagens 3 a 9, utilizando o NFR Framework, criando análises das possíveis situações.
 
 
 ## 3. Requisitos não funcionais
-  Abaixo estão os requisitos não-funcionais levantados através das técnicas de elicitação utilizadas no projeto, sendo os mesmo utilizados para elaboração do NFR Framework.
+  Abaixo, na Tabela 1, estão os requisitos não-funcionais levantados através das técnicas de elicitação utilizadas no projeto, sendo os mesmo utilizados para elaboração do NFR Framework.
 <br/>
 
 |Número|Requisito|Técnica|
@@ -31,6 +31,7 @@ Existem três tipos de softgoals, e cada um deles possui uma notação gráfica 
 |RNF5|O sistema deve ser multiplataforma|Questionário|
 |RNF6	|O sistema deve possuir uma boa conexão com o servidor	|Observação, Brainstorm|
 |RNF9|O sistema deve suportar o acesso simultâneo de mais de um perfil do mesmo usuário	|Introspecção|
+<p align="center" >Tabela 1: Requisitos não-funcionais selecionados</p>
 
 ## Diagramas
 ### Geral
