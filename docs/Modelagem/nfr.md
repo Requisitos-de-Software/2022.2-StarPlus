@@ -9,13 +9,23 @@ Para representar essa interdependência, usa-se um Softgoal Interdependency Grap
 
 Existem três tipos de softgoals, e cada um deles possui uma notação gráfica associada.
 
-<img src='https://raw.githubusercontent.com/Requisitos-de-Software/2021.1-DisneyPlus/main/docs/assets/nfr/nfr_guide.png' width ="900"/>
-<p align="center" >Imagem 1: Legenda dos elementos de definição do NFR Framework</p>
-<br><br>
+<p style="font-size: 15px">Tabela1: Legenda dos diagramas<p>
 
-<img src='https://raw.githubusercontent.com/Requisitos-de-Software/2021.1-DisneyPlus/main/docs/assets/nfr/nfr_line_guide.png'  width ="900"/>
-<p align="center" >Imagem 2: Legenda dos elementos de relacionamento do NFR Framework</p>
-<br>
+| Imagem                                                                  | Legenda                                 |
+| :---------------------------------------------------------------------- | :-------------------------------------- |
+| ![softgoal](../assets/nfr/balao1.png) | Softgoal de NFR |
+| ![softgoal](../assets/nfr/balao2.png) | Softgoal de Operacionalização |
+| ![softgoal](../assets/nfr/balao3.png) | Softgoal de Afirmação |
+| ![softgoal](../assets/nfr/critical.png) | Crítico |
+| ![softgoal](../assets/nfr/aceito.png) | Aceito |
+| ![softgoal](../assets/nfr/rejected.png) | Negado |
+| ![softgoal](../assets/nfr/implicito.png) | Implícito |
+| ![softgoal](../assets/nfr/explicito.png) | Explícito |
+| ![softgoal](../assets/nfr/pSatisficing.png) | Muito Satisfeito |
+| ![softgoal](../assets/nfr/PSatificing2.png) | Satisfeito |
+| ![softgoal](../assets/nfr/negativeS.png) | Insatisfeito |
+| ![softgoal](../assets/nfr/sNF.png) | Muito Insatisfeito |
+<p style="font-size: 15px"> Fonte: Josué Teixeira <p>
 
 ## 2. Metodologia
   Através desse documento, buscamos definir as funcionalidades dos requisitos não-funcionais através da implementação de diagramas, representados nas Imagens 3 a 9, utilizando o NFR Framework, criando análises das possíveis situações.
@@ -25,44 +35,68 @@ Existem três tipos de softgoals, e cada um deles possui uma notação gráfica 
   Abaixo, na Tabela 1, estão os requisitos não-funcionais levantados através das técnicas de elicitação utilizadas no projeto, sendo os mesmo utilizados para elaboração do NFR Framework.
 <br/>
 
+<p align="center" style="font-size: 15px">Tabela 2: Requisitos não-funcionais selecionados</p>
+
 |Número|Requisito|Técnica|
 |----|----|----|
 |RFN4|O sistema deve ser responsivo	|Brainstorm, Questionário|
 |RNF5|O sistema deve ser multiplataforma|Questionário|
 |RNF6	|O sistema deve possuir uma boa conexão com o servidor	|Observação, Brainstorm|
 |RNF9|O sistema deve suportar o acesso simultâneo de mais de um perfil do mesmo usuário	|Introspecção|
-<p align="center" >Tabela 1: Requisitos não-funcionais selecionados</p>
+
+<p align="center" style="font-size: 15px">Fonte: Josué Teixeira</p>
 
 ## Diagramas
 ### Geral
+
+<p align="center" style="font-size: 15px">Imagem 1: Diagrama geral NFR</p>
+
 <img src='https://raw.githubusercontent.com/Requisitos-de-Software/2022.2-StarPlus/gh-pages/docs/assets/nfr/geral.png' width="800" height="600">
-<p align="center" >Imagem 3: Diagrama geral NFR - StarPlus (Autoria - Abdul Hannan)
-</p>
+
+<p align="center" style="font-size: 15px">Fonte: Abdul Hannan</p>
 
 ### Disponibilidade
-<img src='https://raw.githubusercontent.com/Requisitos-de-Software/2022.2-StarPlus/gh-pages/docs/assets/nfr/disponibilidade.png' width="800" height="600">
-<p align="center" >Imagem 4: Diagrama Disponibilidade NFR - StarPlus (Autoria - Abdul Hannan)</p><br/>
 
+<p align="center" style="font-size: 15px">Imagem 2: Diagrama Disponibilidade NFR</p>
+
+<img src='https://raw.githubusercontent.com/Requisitos-de-Software/2022.2-StarPlus/gh-pages/docs/assets/nfr/disponibilidade.png' width="800" height="600">
+
+<br/>
+<p align="center" style="font-size: 15px">Fonte: Abdul Hannan</p>
+</br>
+<p align="center" style="font-size: 15px">Imagem 3: Diagrama Disponibilidade NFR - StarPlus (Autoria - Abdul Hannan)</p>
 
 <img src='https://raw.githubusercontent.com/Requisitos-de-Software/2022.2-StarPlus/gh-pages/docs/assets/nfr/disponibilidadepropagacao.png' width="800" height="600">
-<p align="center" >Imagem 5: Diagrama Disponibilidade NFR - StarPlus (Autoria - Abdul Hannan)</p>
 
+<p align="center" style="font-size: 15px">Fonte: Abdul Hannan</p>
 
 ### Segurança
-<img src='https://raw.githubusercontent.com/Requisitos-de-Software/2022.2-StarPlus/gh-pages/docs/assets/nfr/seguranca.png' width="800" height="600">
-<p align="center" >Imagem 6: Diagrama Segurança NFR - StarPlus (Autoria - Abdul Hannan)</p><br/>
 
+<p align="center" style="font-size: 15px">Imagem 4: Diagrama Segurança NFR - StarPlus (Autoria - Abdul Hannan)</p><br/>
+
+<img src='https://raw.githubusercontent.com/Requisitos-de-Software/2022.2-StarPlus/gh-pages/docs/assets/nfr/seguranca.png' width="800" height="600">
+
+<p align="center" style="font-size: 15px">Fonte: Abdul Hannan</p>
+</br>
+<p align="center" style="font-size: 15px">Imagem 5: Diagrama Segurança NFR - StarPlus (Autoria - Abdul Hannan)</p>
 
 <img src='https://raw.githubusercontent.com/Requisitos-de-Software/2022.2-StarPlus/gh-pages/docs/assets/nfr/segurancapropagacao.png' width="800" height="600">
-<p align="center" >Imagem 7: Diagrama Segurança NFR - StarPlus (Autoria - Abdul Hannan)</p>
+
+<p align="center" style="font-size: 15px">Fonte: Abdul Hannan</p>
 
 ### Usabilidade
-<img src='https://raw.githubusercontent.com/Requisitos-de-Software/2022.2-StarPlus/gh-pages/docs/assets/nfr/usabilidade.png' width="800" height="600">
-<p align="center" >Imagem 8: Diagrama Usabilidade NFR - StarPlus (Autoria - Abdul Hannan)</p><br/>
 
+<p align="center" style="font-size: 15px">Imagem 6: Diagrama Usabilidade NFR - StarPlus (Autoria - Abdul Hannan)</p><br/>
+
+<img src='https://raw.githubusercontent.com/Requisitos-de-Software/2022.2-StarPlus/gh-pages/docs/assets/nfr/usabilidade.png' width="800" height="600">
+
+<p align="center" style="font-size: 15px">Fonte: Abdul Hannan</p>
+</br>
+<p align="center" style="font-size: 15px">Imagem 7: Diagrama Usabilidade NFR - StarPlus (Autoria - Abdul Hannan)</p>
 
 <img src='https://raw.githubusercontent.com/Requisitos-de-Software/2022.2-StarPlus/gh-pages/docs/assets/nfr/usabilidadepropagacao.png' width="800" height="600">
-<p align="center" >Imagem 9: Diagrama Usabilidade NFR - StarPlus (Autoria - Abdul Hannan)</p>
+
+<p align="center" style="font-size: 15px">Fonte: Abdul Hannan</p>
 
 ## Referências
 Reinaldo Antônio da Silva. "NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados". Universidade Federal de Pernambuco, 2019.
@@ -70,4 +104,5 @@ Reinaldo Antônio da Silva. "NFR4ES: Um Catálogo de Requisitos Não-Funcionais 
 ## Histórico de versão
 |Versão|Data|Descrição|Autor|Revisor|
 |-|-|-|-|-|
-|1.0|3/1/2023|Criação do documento| [Abdul Hannan](https://github.com/hannanhunny01), [Thiago Vivan Bastos](https://github.com/thiago-vivan), [Josué Teixeira](https://github.com/zjosuez)|[Gabriel Roger](https://github.com/GabrielRoger07), [João Pedro de Camargo Vaz](https://github.com/JoaoPedro0803), [Vinícius Assumpção](https://github.com/viniman27)|
+|1.0|03/01/2023|Criação do documento| [Abdul Hannan](https://github.com/hannanhunny01), [Thiago Vivan Bastos](https://github.com/thiago-vivan), [Josué Teixeira](https://github.com/zjosuez)|[Gabriel Roger](https://github.com/GabrielRoger07), [João Pedro de Camargo Vaz](https://github.com/JoaoPedro0803), [Vinícius Assumpção](https://github.com/viniman27)|
+|1.1|04/01/2023|Adicionado tabela com as legendas, legendas das imagens e tabelas e correção ortográfica| [Josué Teixeira](https://github.com/zjosuez)|[Abdul Hannan](https://github.com/hannanhunny01), [Thiago Vivan Bastos](https://github.com/thiago-vivan)|
