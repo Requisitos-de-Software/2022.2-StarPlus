@@ -27,7 +27,7 @@
 &emsp;&emsp; É essencial que todas as histórias de Usuário possuam critérios de aceitação relacionadas a si, para que seja possível o levantamento da qualidade e do que seria uma história completa e bem-sucedida.
 
 ### 2.3 Estrutura do Product Backlog com Histórias de Usuário
-&emsp;&emsp; Com o entedimento da especificação do Product Backlog e das Histórias de Usuário, a equipe montou o Product Backlog do aplicativo YouTube, seguindo o seguinte formato:
+&emsp;&emsp; Com o entedimento da especificação do Product Backlog e das Histórias de Usuário, a equipe montou o Product Backlog do aplicativo Star+, seguindo o seguinte formato:
 
 #### [EPCXX] Nome Épico
 
