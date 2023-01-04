@@ -32,7 +32,7 @@ Existem três tipos de softgoals, e cada um deles possui uma notação gráfica 
 
 
 ## 3. Requisitos não funcionais
-  Abaixo, na Tabela 1, estão os requisitos não-funcionais levantados através das técnicas de elicitação utilizadas no projeto, sendo os mesmo utilizados para elaboração do NFR Framework.
+  Abaixo, na Tabela 2, estão os requisitos não-funcionais levantados através das técnicas de elicitação utilizadas no projeto, sendo os mesmo utilizados para elaboração do NFR Framework.
 <br/>
 
 <p align="center" style="font-size: 15px">Tabela 2: Requisitos não-funcionais selecionados</p>
