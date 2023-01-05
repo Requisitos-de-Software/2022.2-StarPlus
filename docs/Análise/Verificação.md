@@ -23,25 +23,26 @@ Basicamente, na Inspeção, são feitos checklists que buscam encontrar defeitos
 #### 2.3 Planejamento
 | Artefato | Criador do Checklist | Inspetor |
 | :------: | :------------------: | :-----------: |
-| Rich Picture              | ?  | ? |
-| Personas                  | ? | ? |
-| Perfil de Usuário         | ? | ? |
-| Brainstorm                | ? | ?  |
-| Introspecção              | ? | ?  |
-| Observação                | ? | ?  |
-| Entrevista                | ? | ?  |
-| MoSCoW                    | ? | ?  |
-| 100 Dólares               | ? | ?  |
-| Resultado Elicitação      | ?  | ?  |
-| Cenários                  | ?  | ? |
-| Léxicos                   | ?  | ? |
-| Casos de Uso              | ?  | ? |
-| Especificação Suplementar | ?  | ? |
-| NFR Framework             | ? | ?  |
-| Backlog + Histórias       | ?  | ? |
-| Validação                 | ? | ?  |
-| Backward-From             | ? | ? |
-| Forward-From              | ? | ?  |
+| Rich Picture              | João Pedro| Gabriel |
+| Personas                  | Vinicius | João Pedro |
+| Perfil de Usuário         | Vinicius | João Pedro |
+| Brainstorm                | Vinicius | Gabriel  |
+| Introspecção              | Gabriel | Vinicius  |
+| Observação                | Gabriel | Vinicius  |
+| Entrevista                | João Pedro | Gabriel  |
+| Escala de Três Níveis     | Vinicius | Gabriel  |
+| First Things First        | Gabriel | João Pedro  |
+| In or Out                 | João Pedro | Vinicius |
+| Resultado Elicitação      | Gabriel  | João Pedro  |
+| Cenários                  | Gabriel  | Vinicius |
+| Léxicos                   | Vinicius  | João Pedro|
+| Casos de Uso              | João Pedro  | Gabriel |
+| Especificação Suplementar | Vinicius  | João Pedro |
+| NFR Framework             | Gabriel | João Pedro  |
+| Backlog + Histórias       | João Pedro  | Vinicius |
+| Validação                 | João Pedro | Gabriel  |
+| Backward-From             | Gabriel | Vinicius |
+| Forward-From              | Vinicius | Gabriel |
 
 ## 3. Inspeção
 
@@ -243,12 +244,12 @@ O artefato segue os padrões e não necessita de correção aparente.
 ### 3.17 NFR Framework
 | Item | Inspeção |
 | :-------    | :------: | 
-| Todos os diagramas estão bem representados? | ? |
-| Os softgoals fazem sentido? | ? |
-| As decomposições são corretas? | ? |
-| Todas as propagações são condizentes com o contexto dos diagramas? | ? |
-| Há uma legenda para cada elemento usado nos diagramas? | ? |
-| Há um diagrama para cada tipo de requisito ?-funcional encontrado na especificação suplementar? | ? |
+| Todos os diagramas estão bem representados? | Sim |
+| Os softgoals fazem sentido? | Sim |
+| As decomposições são corretas? | Sim |
+| Todas as propagações são condizentes com o contexto dos diagramas? | Sim |
+| Há uma legenda para cada elemento usado nos diagramas? | Sim |
+| Há um diagrama para cada tipo de requisito-funcional encontrado na especificação suplementar? |Sim|
 
 #### 3.17.1 Correção e Acompanhamento
 
