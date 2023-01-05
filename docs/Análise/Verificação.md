@@ -267,31 +267,6 @@ O artefato segue os padrões e não necessita de correção aparente.
 #### 3.18.1 Correção e Acompanhamento
 
    O artefato segue os padrões e não necessita de correção aparente.
-
-
-### 3.19 Backward-From
-| Item | Inspeção |
-| :-------    | :------: | 
-| Todos os requisitos possuem links para o perfil de usuário ao qual são relacionados? | Não |
-| Todos os requisitos possuem links para as técnicas no qual eles foram elicitados? | Sim |
-
-#### 3.19.1 Correção e Acompanhamento
-
-   Para que tudo esteja em ordem, é necessário que seja adicionado na tabela dos requisitos elicitados
-   um hard link para o perfil de usuário que foi relacionado.
-
-### 3.20 Forward-From
-| Item | Inspeção |
-| :-------    | :------: | 
-| Todos os requisitos com histórias de usuário possuem links para seus épicos e features, também? | Não |
-| Todos os requisitos com cenários relacionados possuem linkagem com seus cenários? | Não |
-| Todos os requisitos com casos de uso relacionados possuem linkagem com seus casos de uso? | Não |
-| Há identificação para o print ou protótipo no qual um requisito é ligado? | Não |
-| Todos os requisitos-funcionais possuem identificação para o seu tipo no FURPS+? | Não |
-
-#### 3.20.1 Correção e Acompanhamento
-
-   Ajeitar todos os links requisitados na tabela acima.
     
 ## 4. Referências
 
