@@ -250,7 +250,7 @@ O artefato segue os padrões e não necessita de correção aparente.
 | Há um diagrama para cada tipo de requisito-funcional encontrado na especificação suplementar? |Sim|
 
 #### 3.17.1 Correção e Acompanhamento
-
+  O artefato segue os padrões e não necessita de correção aparente.
 
 ### 3.18 Backlog do Produto + Histórias de Usuário
 | Item | Inspeção |
