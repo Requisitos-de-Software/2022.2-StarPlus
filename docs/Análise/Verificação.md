@@ -1,20 +1,18 @@
 # Verificação(Destinada ao grupo 7- Moodle)
 
 ## 1. Introdução
-<p align="justify">&emsp;&emsp;A verificação é uma etapa do processo que busca garantir que os produtos de trabalho selecionados cumpram os seus requisitos especificados. Durante o desenvolvimento de um software, basicamente qualquer documento ou artefato pode ser verificado.</p>
+A verificação é uma etapa do processo que busca garantir que os produtos de trabalho selecionados cumpram os seus requisitos especificados. Durante o desenvolvimento de um software, basicamente qualquer documento ou artefato pode ser verificado.</p>
 
-<p align="justify">&emsp;&emsp;Normalmente, busca-se responder as seguintes perguntas: tem algo errado com o modelo em termos de notação, processo e/ou procedimentos? O modelo está de acordo com o que se espera dele? Sendo assim, normalmente, a verificação é um processo que só interessa aos engenheiros de software, sem a necessidade de envolver o cliente.</p>
+Normalmente, busca-se responder as seguintes perguntas: tem algo errado com o modelo em termos de notação, processo e/ou procedimentos? O modelo está de acordo com o que se espera dele? Sendo assim, normalmente, a verificação é um processo que só interessa aos engenheiros de software, sem a necessidade de envolver o cliente.</p>
 
 ## 2. Metodologia
 
 ### 2.1 Inspeção
-<p align="justify">&emsp;&emsp;Há diversas formas de se realizar uma verificação, porém, o grupo seguiu a de Inspeção.</p>
 
-<p align="justify">&emsp;&emsp;Basicamente, na Inspeção, são feitos checklists que buscam encontrar defeitos nos documentos desenvolvidos. Os itens de cada um dos checklists estão de acordo com o que esperaria do artefato e sua notação em si.</p>
+
+Basicamente, na Inspeção, são feitos checklists que buscam encontrar defeitos nos documentos desenvolvidos. Os itens de cada um dos checklists estão de acordo com o que esperaria do artefato e sua notação em si.</p>
 
 ### 2.2 Fagan
-
-<p align="justify">&emsp;&emsp;A equipe seguiu os seis passos de Fagan para um método de inspeção:</p>
 
 - Planejamento: definir os artefatos a serem inspecionados em quem faria a inspeção de qual;
 - Visão geral: entendimento de cada um dos documentos;
@@ -48,7 +46,7 @@
 ## 3. Inspeção
 
 ### 3.1 Legenda
-<p align="justify">&emsp;&emsp;.</p>
+
 
 ### 3.2 Rich Picture
 | Item        | Inspeção |
@@ -61,7 +59,8 @@
 | Há título? | Sim |
 
 #### 3.2.1 Correção e Acompanhamento
-<p align="justify">&emsp;&emsp;.</p> O artefato segue os padrões e não necessita de correção aparente.
+
+ O artefato segue os padrões e não necessita de correção aparente.
 
 ### 3.3 Personas
 | Item | Inspeção |
@@ -73,9 +72,7 @@
 | As imagens encontradas são de pessoas ? existentes? | Sim, Não |
 
 #### 3.3.1 Correção e Acompanhamento
-<p align="justify">&emsp;&emsp;.</p>O artefato segue os padrões e não necessita de correção aparente.
-
-
+O artefato segue os padrões e não necessita de correção aparente.
 
 ### 3.4 Perfil de Usuário
 | Item | Inspeção |
@@ -84,7 +81,7 @@
 | Os perfis de usuários possuem experiência, nível de alfabetização e faixa etária? | Incompleto |
 
 #### 3.4.1 Correção e Acompanhamento
-<p align="justify">&emsp;&emsp;.</p>  O artefato, no geral, segue os padrões. É recomendado a criação de pelo menos um tópico ou uma aba específica para tornar o acesso e leitura do perfil de usuário mais clara. Além disso , recomenda-se um detalhamento maior, visto que o único perfil elicitado não parece abranger toda a gama de usuários. 
+ O artefato, no geral, segue os padrões. É recomendado a criação de pelo menos um tópico ou uma aba específica para tornar o acesso e leitura do perfil de usuário mais clara. Além disso , recomenda-se um detalhamento maior, visto que o único perfil elicitado não parece abranger toda a gama de usuários. 
 
 ### 3.5 StoryTelling
 | Item | Inspeção |
@@ -96,9 +93,9 @@
 | Todos os requisitos possuem um ID? | Sim |
 
 #### 3.5.1 Correção e Acompanhamento
-<p align="justify">&emsp;&emsp;.</p>  O artefato segue os padrões e não necessita de correção aparente.
+ O artefato segue os padrões e não necessita de correção aparente.
 
-<p align="justify">&emsp;&emsp;.</p>
+
 
 ### 3.6 Introspecção
 | Item | Inspeção |
@@ -109,7 +106,7 @@
 | Foi explicitado os participantes da instrospecção? | Sim |
 
 #### 3.6.1 Correção e Acompanhamento
-<p align="justify">&emsp;&emsp;.</p>O artefato segue os padrões e não necessita de correção aparente.
+O artefato segue os padrões e não necessita de correção aparente.
 
 ### 3.7 Observação
 | Item | Inspeção |
@@ -121,7 +118,7 @@
 | Há uma divisão entre os requisitos funcionais e os não-funcionais? | Sim |
 
 #### 3.7.1 Correção e Acompanhamento
-<p align="justify">&emsp;&emsp;.</p> O artefato, no geral, segue os padrões. No entanto, o usuário da observação não foi identificado, não há gravações ou prints.
+ O artefato, no geral, segue os padrões. No entanto, o usuário da observação não foi identificado, não há gravações ou prints.
 
 ### 3.8 Questionário
 | Item | Inspeção |
@@ -132,8 +129,9 @@
 | Há uma divisão entre os requisitos funcionais e os Não-funcionais? | Sim |
 
 #### 3.8.1 Correção e Acompanhamento
-<p align="justify">&emsp;&emsp;.</p>O artefato segue os padrões e não necessita de correção aparente.
-<p align="justify">&emsp;&emsp;.</p>
+
+O artefato segue os padrões e não necessita de correção aparente.
+
 
 ### 3.9 Escala de Três Níveis
 | Item | Inspeção |
@@ -143,9 +141,9 @@
 | O usuário que fez parte da priorização foi identificado? |Não|
 
 #### 3.9.1 Correção e Acompanhamento
-<p align="justify">&emsp;&emsp;.</p>
-    É possível realizar a correção por meio da inclusão dos dados do usuário que foi utilizado na priorização.
-<p align="justify">&emsp;&emsp;.</p>
+
+ É possível realizar a correção por meio da inclusão dos dados do usuário que foi utilizado na priorização.
+
 
 ### 3.10 First Things First
 | Item | Inspeção |
@@ -154,9 +152,9 @@
 | O usuário que fez parte da priorização foi identificado? | Sim |
 
 #### 3.10.1 Correção e Acompanhamento
-<p align="justify">&emsp;&emsp;.</p>
-    Está tudo de acordo com os conformes.
-<p align="justify">&emsp;&emsp;.</p>
+
+   O artefato segue os padrões e não necessita de correção aparente.
+
 
 ### 3.11 In or Out
 | Item | Inspeção |
@@ -165,9 +163,9 @@
 | O usuário que fez parte da priorização foi identificado? | Sim |
 
 #### 3.11.1 Correção e Acompanhamento
-<p align="justify">&emsp;&emsp;.</p>
-    Está tudo de acordo com os conformes.
-<p align="justify">&emsp;&emsp;.</p>
+
+  Está tudo de acordo com os conformes.
+
 
 ### 3.12 Resultado Elicitação
 | Item | Inspeção |
@@ -178,7 +176,8 @@
 | Há uma divisão entre os requisitos funcionais e os ?-funcionais? | Sim |
 
 #### 3.12.1 Correção e Acompanhamento
-<p align="justify">&emsp;&emsp;.</p> Tudo está em ordem.
+
+  O artefato segue os padrões e não necessita de correção aparente.
 
 ### 3.13 Cenários
 | Item | Inspeção |
@@ -194,8 +193,8 @@
 | Os cenários fazem sentido com os requisitos? | Sim |
 
 #### 3.13.1 Correção e Acompanhamento
-<p align="justify">&emsp;&emsp;.</p>
-    Para que tudo esteja em ordem, falta colocar o título em alguns cenários.
+
+  Para que tudo esteja em ordem, falta colocar o título em alguns cenários.
 
 ### 3.14 Léxicos
 | Item | Inspeção |
@@ -207,8 +206,8 @@
 | As noções de todos os léxicos fazem sentido com eles? | Sim |
 
 #### 3.14.1 Correção e Acompanhamento
-<p align="justify">&emsp;&emsp;.</p>
-    Está tudo em ordem.
+
+   O artefato segue os padrões e não necessita de correção aparente.
 
 ### 3.15 Casos de Uso
 | Item | Inspeção |
@@ -226,8 +225,8 @@
 | Os fluxos principais são completos? | Sim |
 
 #### 3.15.1 Correção e Acompanhamento
-<p align="justify">&emsp;&emsp;.</p>
-    Está tudo de acordo
+
+   O artefato segue os padrões e não necessita de correção aparente.
 
 ### 3.16 Especificação Suplementar
 | Item | Inspeção |
@@ -238,9 +237,8 @@
 | Todos os requisitos são mensuráveis e avaliáveis? | Sim |
 
 #### 3.16.1 Correção e Acompanhamento
-<p align="justify">&emsp;&emsp;.</p>
-    Está tudo de acordo
-<p align="justify">&emsp;&emsp;.</p>
+
+   O artefato segue os padrões e não necessita de correção aparente.
 
 ### 3.17 NFR Framework
 | Item | Inspeção |
@@ -253,7 +251,7 @@
 | Há um diagrama para cada tipo de requisito ?-funcional encontrado na especificação suplementar? | ? |
 
 #### 3.17.1 Correção e Acompanhamento
-<p align="justify">&emsp;&emsp;.</p>
+
 
 ### 3.18 Backlog do Produto + Histórias de Usuário
 | Item | Inspeção |
@@ -266,9 +264,9 @@
 | As histórias seguem um padrão? (quem, o que, para que) | Sim |
 
 #### 3.18.1 Correção e Acompanhamento
-<p align="justify">&emsp;&emsp;.</p>
-    Tudo está em ordem
-<p align="justify">&emsp;&emsp;.</p>
+
+   O artefato segue os padrões e não necessita de correção aparente.
+
 
 ### 3.19 Backward-From
 | Item | Inspeção |
@@ -277,9 +275,9 @@
 | Todos os requisitos possuem links para as técnicas no qual eles foram elicitados? | Sim |
 
 #### 3.19.1 Correção e Acompanhamento
-<p align="justify">&emsp;&emsp;.</p>
-    Para que tudo esteja em ordem, é necessário que seja adicionado na tabela dos requisitos elicitados
-    um hard link para o perfil de usuário que foi relacionado.
+
+   Para que tudo esteja em ordem, é necessário que seja adicionado na tabela dos requisitos elicitados
+   um hard link para o perfil de usuário que foi relacionado.
 
 ### 3.20 Forward-From
 | Item | Inspeção |
@@ -291,8 +289,9 @@
 | Todos os requisitos-funcionais possuem identificação para o seu tipo no FURPS+? | Não |
 
 #### 3.20.1 Correção e Acompanhamento
-<p align="justify">&emsp;&emsp;.</p>
-    Ajeitar todos os links requisitados na tabela acima.
+
+   Ajeitar todos os links requisitados na tabela acima.
+    
 ## 4. Referências
 
 > - Gerência e Qualidade de Software - Aula 05 - Verificação e Validação, UNIVESP. Acesso em: 14 de agosto de 2022. Disponível em: https://www.youtube.com/watch?v=1Y-1zz6rZxo&t=22s
