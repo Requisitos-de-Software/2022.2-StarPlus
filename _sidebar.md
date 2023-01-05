@@ -51,3 +51,9 @@
     - [Especificação Suplementar](docs/Modelagem/especificacao_suplementar/especificacao.md)
     - [NFR Framework](docs/Modelagem/nfr.md)
     - [Backlog + Histórias de Usuário](docs/Modelagem/backlog_US.md)
+
+- <h3> Análise</h3>
+
+    - [Verificação Destinada ao grupo 7](docs/Análise/Verificação.md)
+    - [Validação Destinada ao grupo 7]
+---
