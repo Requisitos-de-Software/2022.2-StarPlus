@@ -41,8 +41,6 @@ Basicamente, na Inspeção, são feitos checklists que buscam encontrar defeitos
 | NFR Framework             | Gabriel | João Pedro  |
 | Backlog + Histórias       | João Pedro  | Vinicius |
 | Validação                 | João Pedro | Gabriel  |
-| Backward-From             | Gabriel | Vinicius |
-| Forward-From              | Vinicius | Gabriel |
 
 ## 3. Inspeção
 
