@@ -11,7 +11,7 @@ O léxico é a base para o entendimento entre clientes, usuários e profissionai
 
 Os léxicos possuem classificações em sua técnica do tipo: Verbo, Objeto ou Estado. A tabela a seguir apresenta os tipos e suas definições.
 
-Fonte: Josué e Gabriel
+<figcaption style="font-size: 15px" align="center">Fonte: Josué e Gabriel </figcaption>
 
 | Verbo | Noção | Impacto |
 |-------|-------|---------|
@@ -24,7 +24,7 @@ Fonte: Josué e Gabriel
 
 Os léxicos foram divididos em ordem alfabética seguindo a tabela abaixo:
   
- Fonte: Josué e Gabriel
+ <figcaption style="font-size: 15px" align="center">Fonte: Josué e Gabriel </figcaption>
 
 | Léxico       | Noção | Impacto           | Sinônimo         | Classificação               |
 | ------------ | ----- | ------------------| --------         | --------------------------- |
@@ -35,7 +35,7 @@ Os léxicos foram divididos em ordem alfabética seguindo a tabela abaixo:
 
 ### L01 - Acesso ao aplicativo
 
-Fonte: Josué e Gabriel
+<figcaption style="font-size: 15px" align="center">Fonte: Josué e Gabriel </figcaption>
 
 | Léxico | Noção | Impacto | Sinônimo         | Classificação |
 | ------ | ----- | ------- | --------         | ------------- |
@@ -44,7 +44,7 @@ Fonte: Josué e Gabriel
 
 ### L02 - Usuário
 
-Fonte: Josué e Gabriel
+<figcaption style="font-size: 15px" align="center">Fonte: Josué e Gabriel </figcaption>
 
 | Léxico | Noção | Impacto | Sinônimo          | Classificação |
 | ------ | ----- | ------- | --------          | ------------- |
@@ -53,7 +53,7 @@ Fonte: Josué e Gabriel
 
 ### L03 - Criar Conta
 
-Fonte: Josué e Gabriel
+<figcaption style="font-size: 15px" align="center">Fonte: Josué e Gabriel </figcaption>
 
 | Léxico | Noção | Impacto | Sinônimo      | Classificação |
 | ------ | ----- | ------- | --------      | ------------- |
@@ -62,7 +62,7 @@ Fonte: Josué e Gabriel
 
 ### L04 - Login
 
-Fonte: Josué e Gabriel
+<figcaption style="font-size: 15px" align="center">Fonte: Josué e Gabriel </figcaption>
 
 | Léxico | Noção | Impacto | Sinônimo      | Classificação |
 | ------ | ----- | ------- | --------      | ------------- |
@@ -71,7 +71,7 @@ Fonte: Josué e Gabriel
 
 ### L05 - Logout
 
-Fonte: Josué e Gabriel
+<figcaption style="font-size: 15px" align="center">Fonte: Josué e Gabriel </figcaption>
 
 | Léxico | Noção | Impacto | Sinônimo | Classificação |
 | ------ | ----- | ------- | -------- | ------------- |
@@ -80,7 +80,7 @@ Fonte: Josué e Gabriel
 
 ### L06 - Conta
 
-Fonte: Josué e Gabriel
+<figcaption style="font-size: 15px" align="center">Fonte: Josué e Gabriel </figcaption>
 
 | Léxico | Noção | Impacto | Sinônimo | Classificação |
 | ------ | ----- | ------- | -------- | ------------- |
@@ -89,7 +89,7 @@ Fonte: Josué e Gabriel
 
 ### L07 - Assinatura
 
-Fonte: Josué e Gabriel
+<figcaption style="font-size: 15px" align="center">Fonte: Josué e Gabriel </figcaption>
 
 | Léxico   | Noção | Impacto | Sinônimo | Classificação |
 | ------   | ----- | ------- | -------- | ------------- |
@@ -98,7 +98,7 @@ Fonte: Josué e Gabriel
 
 ### L08 - Perfil
 
-Fonte: Josué e Gabriel
+<figcaption style="font-size: 15px" align="center">Fonte: Josué e Gabriel </figcaption>
 
 | Léxico | Noção | Impacto | Sinônimo | Classificação |
 | ------ | ----- | ------- | -------- | ------------- |
@@ -107,7 +107,7 @@ Fonte: Josué e Gabriel
 
 ### L09 - Selecionar perfil
 
-Fonte: Josué e Gabriel
+<figcaption style="font-size: 15px" align="center">Fonte: Josué e Gabriel </figcaption>
 
 | Léxico          | Noção | Impacto | Sinônimo      | Classificação |
 | --------------- | ----- | ------- | --------      | ------------- |
@@ -116,7 +116,7 @@ Fonte: Josué e Gabriel
 
 ### L10 - Editar Perfil
 
-Fonte: Josué e Gabriel
+<figcaption style="font-size: 15px" align="center">Fonte: Josué e Gabriel </figcaption>
 
 | Léxico | Noção | Impacto | Sinônimo          | Classificação |
 | ------ | ----- | ------- | --------          | ------------- |
@@ -125,7 +125,7 @@ Fonte: Josué e Gabriel
 
 ### L11 - Títulos
 
-Fonte: Josué e Gabriel
+<figcaption style="font-size: 15px" align="center">Fonte: Josué e Gabriel </figcaption>
 
 | Léxico | Noção | Impacto | Sinônimo                    | Classificação |
 | ------ | ----- | ------- | --------                    | ------------- |
@@ -134,7 +134,7 @@ Fonte: Josué e Gabriel
 
 ### L12 - Filme
 
-Fonte: Josué e Gabriel
+<figcaption style="font-size: 15px" align="center">Fonte: Josué e Gabriel </figcaption>
 
 | Léxico | Noção | Impacto | Sinônimo                            | Classificação |
 | ------ | ----- | ------- | --------                            | ------------- |
@@ -143,7 +143,7 @@ Fonte: Josué e Gabriel
 
 ### L13 - Série
 
-Fonte: Josué e Gabriel
+<figcaption style="font-size: 15px" align="center">Fonte: Josué e Gabriel </figcaption>
 
 | Léxico | Noção | Impacto | Sinônimo | Classificação |
 | ------ | ----- | ------- | -------- | ------------- |
@@ -152,7 +152,7 @@ Fonte: Josué e Gabriel
 
 ### L14 - Documentário
 
-Fonte: Josué e Gabriel
+<figcaption style="font-size: 15px" align="center">Fonte: Josué e Gabriel </figcaption>
 
 | Léxico     | Noção | Impacto | Sinônimo | Classificação |
 | ---------- | ----- | ------- | -------- | ------------- |
@@ -162,7 +162,7 @@ Fonte: Josué e Gabriel
 
 ### L15 - Gênero
 
-Fonte: Josué e Gabriel
+<figcaption style="font-size: 15px" align="center">Fonte: Josué e Gabriel </figcaption>
 
 | Léxico | Noção | Impacto | Sinônimo           | Classificação |
 | ------ | ----- | ------- | --------           | ------------- |
@@ -171,7 +171,7 @@ Fonte: Josué e Gabriel
 
 ### L16 - Sinopse
 
-Fonte: Josué e Gabriel
+<figcaption style="font-size: 15px" align="center">Fonte: Josué e Gabriel </figcaption>
 
 | Léxico | Noção | Impacto | Sinônimo               | Classificação |
 | ------ | ----- | ------- | --------               | ------------- |
@@ -180,7 +180,7 @@ Fonte: Josué e Gabriel
 
 ### L17 - Episódio
 
-Fonte: Josué e Gabriel
+<figcaption style="font-size: 15px" align="center">Fonte: Josué e Gabriel </figcaption>
 
 | Léxico | Noção | Impacto | Sinônimo | Classificação |
 | ------ | ----- | ------- | -------- | ------------- |
@@ -189,7 +189,7 @@ Fonte: Josué e Gabriel
 
 ### L18 - Assistir
 
-Fonte: Josué e Gabriel
+<figcaption style="font-size: 15px" align="center">Fonte: Josué e Gabriel </figcaption>
 
 | Léxico | Noção | Impacto | Sinônimo | Classificação |
 | ------ | ----- | ------- | -------- | ------------- |
@@ -198,7 +198,7 @@ Fonte: Josué e Gabriel
 
 ### L19 - Controlar
 
-Fonte: Josué e Gabriel
+<figcaption style="font-size: 15px" align="center">Fonte: Josué e Gabriel </figcaption>
 
 | Léxico  | Noção | Impacto | Sinônimo          | Classificação |
 | ------- | ----- | ------- | --------          | ------------- |
@@ -207,7 +207,7 @@ Fonte: Josué e Gabriel
 
 ### L20 - Download
 
-Fonte: Josué e Gabriel
+<figcaption style="font-size: 15px" align="center">Fonte: Josué e Gabriel </figcaption>
 
 | Léxico | Noção | Impacto | Sinônimo | Classificação |
 | ------ | ----- | ------- | -------- | ------------- |
@@ -216,7 +216,7 @@ Fonte: Josué e Gabriel
 
 ### L21 - Explorar
 
-Fonte: Josué e Gabriel
+<figcaption style="font-size: 15px" align="center">Fonte: Josué e Gabriel </figcaption>
 
 | Léxico | Noção | Impacto | Sinônimo | Classificação |
 | ------ | ----- | ------- | -------- | ------------- |
@@ -225,7 +225,7 @@ Fonte: Josué e Gabriel
 
 ### L22 - Filtrar
 
-Fonte: Josué e Gabriel
+<figcaption style="font-size: 15px" align="center">Fonte: Josué e Gabriel </figcaption>
 
 | Léxico | Noção | Impacto | Sinônimo | Classificação |
 | ------ | ----- | ------- | -------- | ------------- |
@@ -234,7 +234,7 @@ Fonte: Josué e Gabriel
 
 ### L23 - Idioma
 
-Fonte: Josué e Gabriel
+<figcaption style="font-size: 15px" align="center">Fonte: Josué e Gabriel </figcaption>
 
 | Léxico | Noção | Impacto | Sinônimo      | Classificação |
 | ------ | ----- | ------- | --------      | ------------- |
@@ -243,7 +243,7 @@ Fonte: Josué e Gabriel
 
 ### L24 - Legenda
 
-Fonte: Josué e Gabriel
+<figcaption style="font-size: 15px" align="center">Fonte: Josué e Gabriel </figcaption>
 
 | Léxico | Noção | Impacto | Sinônimo | Classificação |
 | ------ | ----- | ------- | -------- | ------------- |
@@ -252,7 +252,7 @@ Fonte: Josué e Gabriel
 
 ### L25 - Lista
 
-Fonte: Josué e Gabriel
+<figcaption style="font-size: 15px" align="center">Fonte: Josué e Gabriel </figcaption>
 
 | Léxico | Noção | Impacto | Sinônimo | Classificação |
 | ------ | ----- | ------- | -------- | ------------- |
@@ -261,7 +261,7 @@ Fonte: Josué e Gabriel
 
 ### L26 - Pesquisar
 
-Fonte: Josué e Gabriel
+<figcaption style="font-size: 15px" align="center">Fonte: Josué e Gabriel </figcaption>
 
 | Léxico  | Noção | Impacto | Sinônimo       | Classificação |
 | ------- | ----- | ------- | --------       | ------------- |
@@ -270,7 +270,7 @@ Fonte: Josué e Gabriel
 
 ### L27 - Tendência
 
-Fonte: Josué e Gabriel
+<figcaption style="font-size: 15px" align="center">Fonte: Josué e Gabriel </figcaption>
 
 | Léxico  | Noção | Impacto | Sinônimo | Classificação |
 | ------  | ----- | ------- | -------- | ------------- |
@@ -290,3 +290,4 @@ HABITICA - Gamify your Life. Disponível em: https://requisitos-habitica.netlify
 | 1.0 | 07/12/2022 | Criação dos léxicos | [Josué Teixeira](https://github.com/zjosuez)  | [Gabriel Roger](https://github.com/GabrielRoger07) |
 | 1.1 | 08/12/2022 | adiciona novos léxicos; corrige legenda de tabelas; | [Josué Teixeira](https://github.com/zjosuez)  | [Gabriel Roger](https://github.com/GabrielRoger07) |
 | 1.2 | 09/12/2022 | correção ortográfica | [Josué Teixeira](https://github.com/zjosuez)  | [Gabriel Roger](https://github.com/GabrielRoger07) |
+| 1.3 | 09/12/2022 | ajuste na fonte das tabelas | [Josué Teixeira](https://github.com/zjosuez)  | [Gabriel Roger](https://github.com/GabrielRoger07) |

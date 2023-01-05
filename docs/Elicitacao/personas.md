@@ -78,7 +78,7 @@
 | **Ambiente** | Maria passa grande parte do dia com seus colegas de trabalho, é acostumada a viajar à trabalho para examinar animais e está sempre em contato com novas pessoas. Tem costuma de viajar para São Paulo para visitar seus filhos e ver seus netos. |
 | **Requisitos** | Como Maria não utiliza plataformas de streming, não foi definido nenhum requisito baseado nos dados sobre ela. |
 | **Expectativas** | Maria não tem expectativas em relação ao aplicativo porque não costuma assistir filmes/séries/documentarios. |
-<figcaption style="font-size: 15px; text-align: center" >Fonte: Josué Teixeira</figcaption>
+
 <figcaption style="font-size: 15px; text-align: center ">Tabela 4: Maria Alice da Luz</figcaption>
 
 ## 4. Referências
@@ -96,3 +96,4 @@
 | 1.2 | 30/11/2022 | ajustando informação da persona | [Gabriel Roger](https://github.com/GabrielRoger07) | [Josué](https://github.com/zjosuez)
 | 1.3 | 07/12/2022 | alterado: Incrementado alguns dados sobre a formação do elenco; Atualizado atividades da persona  | [Josué](https://github.com/zjosuez) | [Gabriel Roger](https://github.com/GabrielRoger07)
 | 1.4 | 03/01/2023 | adicionado informações sobre o elenco; separado requisitos das expectativas; adicionado fonte as imagens e tabelas | [Josué](https://github.com/zjosuez) | [Gabriel Roger](https://github.com/GabrielRoger07)
+| 1.5 | 05/01/2023 | ajustade na legenda das tabelas | [Josué](https://github.com/zjosuez) | [Gabriel Roger](https://github.com/GabrielRoger07)
