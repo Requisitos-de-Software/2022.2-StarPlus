@@ -14,6 +14,8 @@ Basicamente, na Inspeção, são feitos checklists que buscam encontrar defeitos
 
 ### 2.2 Fagan
 
+ A equipe seguiu os seis passos de Fagan para um método de inspeção
+
 - Planejamento: definir os artefatos a serem inspecionados em quem faria a inspeção de qual;
 - Visão geral: entendimento de cada um dos documentos;
 - Planejamento: criação dos checklists a partir do que foi levantado como necessário;
