@@ -8,4 +8,4 @@
 
 | Versão | Data | Descrição | Autor | Revisor
 |--------|------|-----------|-------| -------
-| 1.0 | 04/01/23 | adiciona a apresentação 3 | [Josué Teixeira](https://github.com/zjosuez) | [João Pedro de Camargo Vaz](https://github.com/JoaoPedro0803)
+| 1.0 | 04/01/23 | adiciona a apresentação 4 | [Josué Teixeira](https://github.com/zjosuez) | [João Pedro de Camargo Vaz](https://github.com/JoaoPedro0803)
