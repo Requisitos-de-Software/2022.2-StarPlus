@@ -11,7 +11,7 @@
 
 - [RF09](https://requisitos-de-software.github.io/2022.2-Moodle/Elicitacao/requisitos/#RF09) - O sistema deve permitir pesquisar disciplina por nome.
 - [RF34](https://requisitos-de-software.github.io/2022.2-Moodle/Elicitacao/requisitos/) - O aluno deve ser capaz de recuperar a senha.
-
+- [RF12](https://requisitos-de-software.github.io/2022.2-Moodle/Elicitacao/requisitos/) - O sistema deve permitir a inserção de arquivos para envio das atividades.
 
 ## 3. Validação dos Requisitos
 
@@ -23,7 +23,7 @@
 
 <center>
 
-<img height="742px" weight="353px" src="../assets/validaçãoG7/pesquisaNome.png"/>
+<img height="742px" weight="353px" src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.2-StarPlus/gh-pages/docs/assets/valida%C3%A7%C3%A3oG7/pesquisaNome.png"/>
 <p text-align="center" style="font-size: 15px",>Figura 1: Pesquisa por nome da disciplina</p>
 <p text-align="center" style="font-size: 15px",>Fonte: Josué Teixeira</p>
 
@@ -36,8 +36,8 @@
 
 <center>
 
-<img height="742px" weight="353px" src="../assets/validaçãoG7/ESenha3.jpg"/>
-<img height="742px" weight="353px" src="../assets/validaçãoG7/ESenha2.jpg"/>
+<img height="742px" weight="353px" src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.2-StarPlus/gh-pages/docs/assets/valida%C3%A7%C3%A3oG7/ESenha3.jpg"/>
+<img height="742px" weight="353px" src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.2-StarPlus/gh-pages/docs/assets/valida%C3%A7%C3%A3oG7/Esenha2.jpg"/>
 
 <p text-align="center" style="font-size: 15px",>Figura 2 e 3: Tela de senha esquecida e tela de sucesso na requisição </p>
 <p text-align="center" style="font-size: 15px",>Fonte: Josué Teixeira</p>
@@ -52,8 +52,8 @@
 
 <center>
 
-<img height="742px" weight="353px" src="../assets/validaçãoG7/adicionaArquivo1.jpg"/>
-<img height="742px" weight="353px" src="../assets/validaçãoG7/adicionaArquivo2.jpg"/>
+<img height="742px" weight="353px" src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.2-StarPlus/gh-pages/docs/assets/valida%C3%A7%C3%A3oG7/adicionaArquivo1.jpg"/>
+<img height="742px" weight="353px" src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.2-StarPlus/gh-pages/docs/assets/valida%C3%A7%C3%A3oG7/adicionaArquivo2.jpg"/>
 <p text-align="center" style="font-size: 15px",>Figura 4 e 5: Tela de adicionar arquivo e Tela de busca pelo arquivo</p>
 <p text-align="center" style="font-size: 15px",>Fonte: Josué Teixeira</p>
 
@@ -74,3 +74,4 @@ Requisitos](http://disciplinas.lia.ufc.br/engsof081/arquivos/ProcessosEngRequisi
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
 | 1.0 | 08/01/2023 | Criação do arquivo e também da primeira validação de requisito | [Josué Teixeira](https://github.com/zjosuez)  | [Abdul Hannan](https://github.com/hannanhunny01), [Thiago Vivan Bastos](https://github.com/thiago-vivan) |
+| 1.1 | 09/01/2023 | Adicionado novas validações de requisitos | [Josué Teixeira](https://github.com/zjosuez)  | [Abdul Hannan](https://github.com/hannanhunny01), [Thiago Vivan Bastos](https://github.com/thiago-vivan) |
