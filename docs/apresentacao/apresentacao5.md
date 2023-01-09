@@ -8,4 +8,4 @@
 
 | Versão | Data | Descrição | Autor | Revisor
 |--------|------|-----------|-------| -------
-| 1.0 | 04/01/23 | adiciona a apresentação 5 | [Josué Teixeira](https://github.com/zjosuez) | [Vinícius Assumpção de Araújo](https://github.com/viniman27)
+| 1.0 | 09/01/23 | adiciona a apresentação 5 | [Josué Teixeira](https://github.com/zjosuez) | [Vinícius Assumpção de Araújo](https://github.com/viniman27)
