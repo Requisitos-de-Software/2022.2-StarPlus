@@ -19,7 +19,7 @@
 
 ### 3.1 RF09 - O usuário deve ser capaz de excluir um canal.
 
-<p align="justify">&emsp;&emsp;A figura abaixo mostra o requisito funcional implementado RF09: O sistema deve permitir pesquisar disciplina por nome.</p>
+<p align="justify">&emsp;&emsp;A figura abaixo mostra o requisito funcional implementado RF09: O sistema deve permitir pesquisar disciplina por nome. A figura lista as matérias que foram encontradas a partir da busca "requisitos de software"</p>
 
 <center>
 
@@ -31,7 +31,35 @@
 
 <p align="justify">&emsp;&emsp;<b>Feedback:</b> A funcionalidade cumpre com o que promete, entretanto, ela não apresenta precisão na busca. Por exemplo, na figura acima foi realizada uma busca pela matéria requisitos de software e apareceu matérias não condizentes com a minha busca.</p>
 
-<div id="add-legenda"></div>
+### 3.2 RF34 - O aluno deve ser capaz de recuperar a senha.
+<p align="justify">&emsp;&emsp;A figura abaixo mostra o requisito funcional implementado RF34: O aluno deve ser capaz de recuperar a senha. A figura 2 mostra a primeira tela em que o usuário pode escolher qual a melhor forma de recuperar a senha. A figura 3 apresenta a mensagem de sucesso ao enviar um pedido de recuperação de senha.</p>
+
+<center>
+
+<img height="742px" weight="353px" src="../assets/validaçãoG7/ESenha3.jpg"/>
+<img height="742px" weight="353px" src="../assets/validaçãoG7/ESenha2.jpg"/>
+
+<p text-align="center" style="font-size: 15px",>Figura 2 e 3: Tela de senha esquecida e tela de sucesso na requisição </p>
+<p text-align="center" style="font-size: 15px",>Fonte: Josué Teixeira</p>
+
+</center>
+
+<p align="justify">&emsp;&emsp;<b>Feedback:</b> A funcionalidade funciona corretamente. Ela possui mais de uma opção de escolha para recuperar senha o que facilita e abre mais opções para o usuário escolher a melhor forma de recuperação de senha.</p>
+
+### 3.3 RF12 - O sistema deve permitir a inserção de arquivos para envio das atividades.
+
+<p align="justify">&emsp;&emsp;A figura abaixo mostra o requisito funcional implementado RF12: O sistema deve permitir a inserção de arquivos para envio das atividades. A figura mostra que é possível adicionar arquivos para envio das atividades.</p>
+
+<center>
+
+<img height="742px" weight="353px" src="../assets/validaçãoG7/adicionaArquivo1.jpg"/>
+<img height="742px" weight="353px" src="../assets/validaçãoG7/adicionaArquivo2.jpg"/>
+<p text-align="center" style="font-size: 15px",>Figura 4 e 5: Tela de adicionar arquivo e Tela de busca pelo arquivo</p>
+<p text-align="center" style="font-size: 15px",>Fonte: Josué Teixeira</p>
+
+</center>
+
+<p align="justify">&emsp;&emsp;<b>Feedback:</b> O requisito está implementado no aplicativo. Ele funciona perfeitamente, após clicar no botão "adicionar arquivo" ele apresenta uma opção para selecionar um arquivo que está presente no dispositivo. Acredito apenas que poderia apresentar uma opção para travar o envio para um tipo de arquivo específico. </p>
 
 
 ## 5. Referências
