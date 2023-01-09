@@ -13,6 +13,7 @@
   - [Apresentação 2](/docs/apresentacao/apresentacao2.md)
   - [Apresentação 3](/docs/apresentacao/apresentacao3.md)
   - [Apresentação 4](/docs/apresentacao/Apresentação4.md)
+  - [Apresentação 5](docs/apresentacao/apresentacao5.md)
 ---
 - <h3>Planejamento</h3>
 
@@ -55,5 +56,4 @@
 - <h3> Análise</h3>
 
     - [Verificação Destinada ao grupo 7](docs/Análise/Verificação.md)
-    - [Validação Destinada ao grupo 7](docs/Análise/Validação.md)
 ---
