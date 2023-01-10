@@ -29,8 +29,8 @@ Instrospecção | 24/11/2022 | Gabriel Roger, Josué Teixeira | Abdul Hannan | 2
 Personas | 24/11/2022 | Josué Teixeira, Gabriel Roger | Vinicius Assumpção |28/11/2022
 Storytelling  |  24/11/2022  | Vinicius Assumpção, Thiago Vivan | João Pedro de Camargo | 29/11/2022
 Priorização | 24/11/2022 | João Pedro de Camargo, Abdul Hannan | Thiago Vivan |28/11/2022
-Gravação e entrega do vídeo de apresentação | 29/11/2022 | Todos | Todos |29/11/2022
-Apresentação do projeto na aula | 22/11/2022 | Todos | Todos |---------
+Gravação e entrega do vídeo de apresentação | 29/11/2022 | Todos os participantes do grupo 6 | Todos os participantes do grupo 6 |29/11/2022
+Apresentação do projeto na aula | 22/11/2022 | Todos os participantes do grupo 6 | Todos os participantes do grupo 6 |---------
 <br>
 
 <br>
@@ -45,8 +45,8 @@ Desenvolvimento de casos de uso | 06/12/2022 |Vinícius Assumpção e Gabriel Ro
 Cenários   | 08/12/2022 |Thiago Vivan |Abdul Hannan| 08/12/2022
 Léxicos | 06/12/2022 | Josué Teixeira | Gabriel Roger | 07/12/2022
 Especificação suplementar | 05/12/2022 | João Pedro de Camargo Vaz | Vinicius| 06/12/2022
-Gravação do vídeo | 10/12/2022 | Todos | Todos | 10/12/2022
-Entrega do vídeo | 11/12/2022 | Todos | Todos | 11/12/2022
+Gravação do vídeo | 10/12/2022 | Todos os participantes do grupo 6 | Todos os participantes do grupo 6 | 10/12/2022
+Entrega do vídeo | 11/12/2022 | Todos os participantes do grupo 6 | Todos os participantes do grupo 6 | 11/12/2022
 <br>
 
 ## Histórico de Versão
@@ -54,4 +54,4 @@ Entrega do vídeo | 11/12/2022 | Todos | Todos | 11/12/2022
 | Versão | Data | Descrição | Autor | Revisor
 |--------|------|-----------|-------| -------
 | 1.0 | 30/11/22 | Documento com as datas e quem realizou a atividade; correção ortografica; | [Josué](https://github.com/zjosuez) | [Gabriel](https://github.com/GabrielRoger07) 
-|1.1|12/08/2022|atualização para terceira entrega|Abdul hannan|Thiago Vivan |
+|1.1|12/08/2022|atualização para terceira entrega|[Abdul hannan](https://github.com/hannanhunny01)|[Thiago Vivan](https://github.com/thiago-vivan) |
