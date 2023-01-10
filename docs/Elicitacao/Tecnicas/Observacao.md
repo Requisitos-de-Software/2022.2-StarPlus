@@ -6,16 +6,29 @@ A técnica de observação, ou etnografia, consiste em um meio de elicitar requi
 
 ## 2. Metodologia
 
-A partir da definição da técnica, os dois participantes da etapa realizaram a observação da utilização da plataforma através do compartilhamento de tela, ambos os participantes participaram das atividades de utilizar a plataforma por completo, buscando utilizar a maior quantidade de funcionalidades possivel, e observar a utilização enquanto toma notas. 
+A partir da definição da técnica, os dois participantes da etapa realizaram a observação da utilização da plataforma através do compartilhamento de tela, ambos os participantes participaram das atividades de utilizar a plataforma por completo, buscando utilizar a maior quantidade de funcionalidades possivel, e observar a utilização enquanto toma notas. Os resultados podem ser vistos nas tabelas 2 e 3.
+
+Nesse interim, Uma reunião com um usuário do StarPlus não integrante da equipe e pediu/guiou a realização da técnica. O nome desse usuário externo é Davi Borges.</p>
+
+Tabela 1: Dados do usuário externo.
+| Nome | Idade | Gênero| Ocupação | Cidade/Estado |
+| :-: | :-------- | :-----: | :--------: | :--------: |
+|Davi Borges| 20 anos| Masculino  | Estudante  | Brasília/DF |
+
+Fonte: Grupo 6
 
 ## 3. Participantes
 
 * Thiago Vivan Bastos
 * Vinicius Assumpção
+* Davi Borges
 
 ## 4. Resultados
 
 ### 4.1 Requisitos Funcionais
+
+Tabela 2: Requisitos Funcionais.
+
 |Número|Requisitos Funcionais|
 |--|-----------------------------------------------|
 |01 | O usuário deve ser capaz de passar para o proximo episódio ainda na reprodução do atual  |
@@ -35,8 +48,9 @@ A partir da definição da técnica, os dois participantes da etapa realizaram a
 |15 | O usuário deve conseguir acessar um título pelo nome completo ou apenas parte dele |
 |16 | O usuário deve poder criar um perfil infantil |
 
-Tabela 1: Requisitos Funcionais. Fonte: Grupo 6
+Fonte: Grupo 6
 
+Tabela 3: Requisitos Não Funcionais.
 
 ### 4.2 Requisitos Não Funcionais
 |Número|Requisitos Não Funcionais|
@@ -44,7 +58,7 @@ Tabela 1: Requisitos Funcionais. Fonte: Grupo 6
 |01 |O sistema deve possuir uma boa conexão com o servidor |
 |02 |O sistema deve proporcionar uma aba com sugestões para o usuário logado |
 
-Tabela 2: Requisitos Não Funcionais. Fonte: Grupo 6
+Fonte: Grupo 6
 
 ## Referências
 
