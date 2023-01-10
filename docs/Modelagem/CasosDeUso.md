@@ -109,7 +109,7 @@ Tabela 1: Fluxo de perfil
 | Ação | O usuário cria uma conta utilizando seus dados |
 | Fluxo principal | <ul><li>O usuário acessa a aplicação</li><li>O usuário seleciona a opção de criar uma conta</li><li>O usuário fornece seus dados</li></ul> |
 | Pós-condições | O usuário poderá acessar um perfil específico |
-| Requisitos relacionados [RF18](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado?id=_31-requisitos-funcionais),[RF40](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado?id=_31-requisitos-funcionais),[RF43](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado?id=_31-requisitos-funcionais),[RF44](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado?id=_31-requisitos-funcionais) e [RNF9](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado?id=_31-requisitos-funcionais) | 
+| Requisitos relacionados  | [RF18](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado?id=_31-requisitos-funcionais),[RF40](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado?id=_31-requisitos-funcionais),[RF43](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado?id=_31-requisitos-funcionais),[RF44](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado?id=_31-requisitos-funcionais) e [RNF9](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado?id=_31-requisitos-funcionais) | 
 
 Fonte: Vinicius e João,integrantes do grupo 6
 
@@ -126,7 +126,7 @@ Tabela 2: Fluxo de título
 | Ação | O usuário assiste um título |
 | Fluxo principal | <ul><li>O usuário acessa a aplicação</li><li>O usuário seleciona um título</li></ul> |
 | Pós-condições | O usuário poderá assisitir a um título |
-| Requisitos relacionados  [RF12](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado?id=_31-requisitos-funcionais),[RF13](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado?id=_31-requisitos-funcionais),[RF16](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado?id=_31-requisitos-funcionais),[RF17](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado?id=_31-requisitos-funcionais),[RF45](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado?id=_31-requisitos-funcionais) | 
+| Requisitos relacionados |  [RF12](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado?id=_31-requisitos-funcionais),[RF13](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado?id=_31-requisitos-funcionais),[RF16](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado?id=_31-requisitos-funcionais),[RF17](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado?id=_31-requisitos-funcionais),[RF45](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado?id=_31-requisitos-funcionais) | 
 
 Fonte: Vinicius e João,integrantes do grupo 6
 
@@ -142,7 +142,7 @@ Fonte: Vinicius e João,integrantes do grupo 6
 | Ação | O usuário navega pelo conteúdo |
 | Fluxo principal | <ul><li>O usuário acessa a aplicação</li><li>O usuário seleciona um perfil</li></ul> |
 | Pós-condições | O usuário poderá navegar pelo conteúdo |
-| Requisitos relacionados  [RF10](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado?id=_31-requisitos-funcionais),[RF15](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado?id=_31-requisitos-funcionais),[RF17](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado?id=_31-requisitos-funcionais),[RF21](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado?id=_31-requisitos-funcionais),[RF36](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado?id=_31-requisitos-funcionais),[RF37](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado?id=_31-requisitos-funcionais),[RF47](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado?id=_31-requisitos-funcionais) e [RNF7](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado?id=_31-requisitos-funcionais) |  
+| Requisitos relacionados |   [RF10](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado?id=_31-requisitos-funcionais),[RF15](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado?id=_31-requisitos-funcionais),[RF17](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado?id=_31-requisitos-funcionais),[RF21](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado?id=_31-requisitos-funcionais),[RF36](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado?id=_31-requisitos-funcionais),[RF37](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado?id=_31-requisitos-funcionais),[RF47](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado?id=_31-requisitos-funcionais) e [RNF7](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado?id=_31-requisitos-funcionais) |  
   
  Fonte: Vinicius e João,integrantes do grupo 6 
  
@@ -158,7 +158,7 @@ Fonte: Vinicius e João,integrantes do grupo 6
 | Ação | O usuário cria uma lista de favoritos |
 | Fluxo principal | <ul><li>O usuário acessa a aplicação</li><li>O usuário seleciona um perfil</li><li>O usuário seleciona um titulo</li><li>O usuário adiciona à lista</li></ul> |
 | Pós-condições | O usuário poderá acessar uma lista de favoritos |
-| Requisitos relacionados [RF8](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado?id=_31-requisitos-funcionais),[RF20](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado?id=_31-requisitos-funcionais)  | 
+| Requisitos relacionados |  [RF8](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado?id=_31-requisitos-funcionais),[RF20](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado?id=_31-requisitos-funcionais)  | 
 
 Fonte: Vinicius e João,integrantes do grupo 6
   
@@ -175,7 +175,7 @@ Tabela 5: Fluxo de busca
 | Ação | O usuário busca um título de interesse |
 | Fluxo principal | <ul><li>O usuário acessa a aplicação</li><li>O usuário seleciona a barra de pesquisa</li></ul><li>O usuário busca pelo título de interesse, com ou sem o uso de filtros</li> |
 | Pós-condições | O usuário poderá buscar pelo conteúdo |
-| Requisitos relacionados  [RF21](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado?id=_31-requisitos-funcionais),[RF22](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado?id=_31-requisitos-funcionais)  | 
+| Requisitos relacionados |  [RF21](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado?id=_31-requisitos-funcionais),[RF22](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado?id=_31-requisitos-funcionais)  | 
 
 Fonte: Vinicius e João,integrantes do grupo 6
 
@@ -192,7 +192,7 @@ Tabela 6: Fluxo de alteração do idioma
 | Ação | O usuário muda o idioma da dublagem e/ou legenda do título|
 | Fluxo principal | <ul><li>O usuário acessa a aplicação</li><li>O usuário seleciona um título</li></ul><li>O usuário muda o idioma da dublagem e/ou legenda do título</li> |
 | Pós-condições | O usuário poderá navegar pelo conteúdo |
-| Requisitos relacionados  [RF25](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado?id=_31-requisitos-funcionais),[RF26](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado?id=_31-requisitos-funcionais),[RF27](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado?id=_31-requisitos-funcionais),[RF28](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado?id=_31-requisitos-funcionais) | 
+| Requisitos relacionados |  [RF25](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado?id=_31-requisitos-funcionais),[RF26](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado?id=_31-requisitos-funcionais),[RF27](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado?id=_31-requisitos-funcionais),[RF28](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado?id=_31-requisitos-funcionais) | 
 
 Fonte: Vinicius e João,integrantes do grupo 6
 
@@ -214,7 +214,7 @@ Tabela 7: Fluxo de reprodução em segundo plano
 | Ação | O usuário altera para permitido a reprodução de um título em segundo plano |
 | Fluxo principal | <ul><li>O usuário acessa a aplicação</li><li>O usuário seleciona a opção de configurações</li><li>O usuário permite a reprodução de um título em segundo plano</li></ul> |
 | Pós-condições | O usuário poderá reproduzir um título em segundo plano |
-| Requisitos relacionados  [RF43](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado?id=_31-requisitos-funcionais),[RF44](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado?id=_31-requisitos-funcionais) | 
+| Requisitos relacionados |  [RF43](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado?id=_31-requisitos-funcionais),[RF44](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado?id=_31-requisitos-funcionais) | 
 
 Fonte: Vinicius e João,integrantes do grupo 6
 
@@ -230,7 +230,7 @@ Tabela 8: Fluxo de compartilhamento do título
 | Ação | O usuário compartilha um título em suas redes sociais|
 | Fluxo principal | <ul><li>O usuário acessa a aplicação</li><li>O usuário seleciona um título</li><li>O usuário seleciona a opção de compartilhar o título</li><li>O usuário seleciona  alguma das diversas redes sociais disponíveis</li></ul> |
 | Pós-condições | O usuário poderá compartilhar um título|
-| Requisitos relacionados  [RF37](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado?id=_31-requisitos-funcionais),[RF46](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado?id=_31-requisitos-funcionais) e [RNF5](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado?id=_31-requisitos-funcionais) | 
+| Requisitos relacionados |  [RF37](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado?id=_31-requisitos-funcionais),[RF46](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado?id=_31-requisitos-funcionais) e [RNF5](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado?id=_31-requisitos-funcionais) | 
 
 Fonte: Vinicius e João,integrantes do grupo 6
 
@@ -246,7 +246,7 @@ Tabela 9: Fluxo de detalhamento do título
 | Ação | O usuário observa o título de forma mais detalhada|
 | Fluxo principal | <ul><li>O usuário acessa a aplicação</li><li>O usuário seleciona um título</li><li>O usuário seleciona a opção de detalhar o título</li></ul> |
 | Pós-condições | O usuário poderá conhecer em detalhes o título |
-| Requisitos relacionados  [RF12](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado?id=_31-requisitos-funcionais),[RF13](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado?id=_31-requisitos-funcionais),[RF16](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado?id=_31-requisitos-funcionais),[RF17](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado?id=_31-requisitos-funcionais),[RF45](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado?id=_31-requisitos-funcionais),[RF24](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado?id=_31-requisitos-funcionais),[RF46](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado?id=_31-requisitos-funcionais)| 
+| Requisitos relacionados |  [RF12](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado?id=_31-requisitos-funcionais),[RF13](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado?id=_31-requisitos-funcionais),[RF16](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado?id=_31-requisitos-funcionais),[RF17](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado?id=_31-requisitos-funcionais),[RF45](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado?id=_31-requisitos-funcionais),[RF24](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado?id=_31-requisitos-funcionais),[RF46](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado?id=_31-requisitos-funcionais)| 
 
 Fonte: Vinicius e João,integrantes do grupo 6
 
@@ -262,7 +262,7 @@ Tabela 10: Fluxo de configurações da legenda
 | Ação | O usuário muda as configurações da legenda|
 | Fluxo principal | <ul><li>O usuário acessa a aplicação</li><li>O usuário seleciona um título</li><li>O usuário seleciona a opção de configuração da legenda</li></ul> |
 | Pós-condições | O usuário poderá alterar diversos aspectos da legenda |
-| Requisitos relacionados  [RF26](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado?id=_31-requisitos-funcionais),[RF28](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado?id=_31-requisitos-funcionais) | 
+| Requisitos relacionados |  [RF26](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado?id=_31-requisitos-funcionais),[RF28](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado?id=_31-requisitos-funcionais) | 
 
 Fonte: Vinicius e João,integrantes do grupo 6
 
@@ -278,7 +278,7 @@ Tabela 11: Fluxo de configurações da velocidade de reprodução
 | Ação | O usuário muda as da velocidade da reprodução|
 | Fluxo principal | <ul><li>O usuário acessa a aplicação</li><li>O usuário seleciona um título</li><li>O usuário seleciona a opção de configuração da velocidade</li></ul> |
 | Pós-condições | O usuário poderá alterar a velocidade de reprodução do título |
-| Requisitos relacionados  [RF45](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado?id=_31-requisitos-funcionais)| 
+| Requisitos relacionados |  [RF45](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado?id=_31-requisitos-funcionais)| 
 
 Fonte: Vinicius e João,integrantes do grupo 6
 
@@ -294,7 +294,7 @@ Tabela 12: Fluxo de download
 | Ação | O usuário baixa um título|
 | Fluxo principal | <ul><li>O usuário acessa a aplicação</li><li>O usuário seleciona um título</li><li>O usuário seleciona a opção de baixar o título</li></ul> |
 | Pós-condições | O usuário poderá acessar o títlo mesmo offline |
-| Requisitos relacionados  [RF24](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado?id=_31-requisitos-funcionais) | 
+| Requisitos relacionados |  [RF24](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado?id=_31-requisitos-funcionais) | 
 
 Fonte: Vinicius e João,integrantes do grupo 6
 
@@ -310,7 +310,7 @@ Tabela 13: Fluxo de configuração de rede móvel
 | Ação | O usuário altera as configurações de funcionamneto com base em redes móveis|
 | Fluxo principal | <ul><li>O usuário acessa a aplicação</li><li>O usuário seleciona as configurações do app</li><li>O usuário seleciona a opção de alterar o limite de funcionamento com base em redes móveis</li></ul> |
 | Pós-condições | O usuário poderá alterar o limite de funcionamneto do app com base em redes móveis |
-| Requisitos relacionados  [RNF2](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado?id=_31-requisitos-funcionais)  | 
+| Requisitos relacionados |  [RNF2](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado?id=_31-requisitos-funcionais)  | 
 
 Fonte: Vinicius e João,integrantes do grupo 6
 
@@ -326,3 +326,4 @@ Fonte: Vinicius e João,integrantes do grupo 6
 | :----: | :--: | :-------: | :---: | :-----: |
 | 1.0 | 06/12/2022 | Criação da página de casos de uso | [Vinícius Assumpção](https://github.com/viniman27)  | [João Pedro de Camargo Vaz](https://github.com/JoaoPedro0803) |
 | 2.0 | 07/12/2022 | Atualização das imagens e adição de mais casos de uso  | [Vinícius Assumpção](https://github.com/viniman27) e  [Gabriel Roger](https://github.com/GabrielRoger07) | [João Pedro de Camargo Vaz](https://github.com/JoaoPedro0803) |
+| 3.0 | 10/01/2023 | Adequação a padrões  | [Vinícius Assumpção](https://github.com/viniman27) e  [Gabriel Roger](https://github.com/GabrielRoger07) | [João Pedro de Camargo Vaz](https://github.com/JoaoPedro0803) |
