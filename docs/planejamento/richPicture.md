@@ -11,14 +11,19 @@ Um Rich Picture pode auxiliar na identificação de:
 - Relações entre atores e processos;
 - Problemas e conflitos.
 
-## Versão 1
+## Versão 1 do projeto Star+
 ![StarPul RichPicture](..\assets\RichPicture.png)
-<p>Imagem 1: Rich Picture, Autor: Vinicius Assumpção, Versão: 1.0<p/>
+<p>Imagem 1: Rich Picture, Autor: Vinicius Assumpção, integrante do grupo 6, Versão: 1.0<p/>
+
+## 3. Referências
+
+> - David Benyon, Interação Humano-Computador. São Paulo, 2a Edição, Pearson Prentice Hall, 2011. Disponível em: Base de dados (Biblioteca Virtual): Pearson da BCE da UnB.
 
 ## Histórico de Versão
 
 | Versão | Data | Descrição | Autor | Revisor
 |--------|------|-----------|-------| -------
 | 1.0 | 15/11/22 | Documento Inicial | [Vinicius](https://github.com/viniman27) | [Gabriel](https://github.com/GabrielRoger07)
+| 2.0 | 10/01/22 | Adição das referências | [Vinicius](https://github.com/viniman27) | [Gabriel](https://github.com/GabrielRoger07)
 
 
