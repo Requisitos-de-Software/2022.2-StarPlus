@@ -1,8 +1,4 @@
-<style>
-    #tamanho {
-      font-size: 15px;
-    }
-  </style>
+
 # Verificação (Destinada ao grupo 7- Moodle)
 
 ## 1. Introdução
@@ -30,28 +26,27 @@ Basicamente, na Inspeção, são feitos checklists que buscam encontrar defeitos
 
 <p style="text-align: center">Tabela 1: Planejamento do artefato</p>
 
-| Artefato | Criador do Checklist | Inspetor |
-| :------: | :------------------: | :-----------: |
-| Rich Picture              | João Pedro | Gabriel |
-| Personas                  | Vinicius | João Pedro |
-| Perfil de Usuário         | Vinicius | João Pedro |
-| Brainstorm                | Vinicius | Gabriel  |
-| Storytelling              | João Pedro | Vinicius  |
-| Introspecção              | Gabriel | Vinicius  |
-| Observação                | Gabriel | Vinicius  |
-| Questionário              | João Pedro | Vinicius |
-| Entrevista                | João Pedro | Gabriel |
-| Escala de Três Níveis     | Vinicius | Gabriel |
-| First Things First        | Gabriel | João Pedro |
-| In or Out                 | João Pedro | Vinicius |
-| Resultado Elicitação      | Gabriel  | João Pedro  |
-| Cenários                  | Gabriel  | Vinicius |
-| Léxicos                   | Vinicius  | João Pedro|
-| Casos de Uso              | João Pedro  | Gabriel |
-| Especificação Suplementar | Vinicius  | João Pedro |
-| NFR Framework             | Gabriel | João Pedro  |
-| Backlog + Histórias       | João Pedro  | Vinicius |
-| Validação                 | João Pedro | Gabriel  |
+| Artefato | Criador do Checklist | Inspetor | Revisor da inspeção
+| :------: | :------------------: | :-----------: |:-----------: |
+| Rich Picture              | João Pedro | Gabriel |João Pedro |
+| Personas                  | Vinicius | João Pedro |Vinicius | 
+| Perfil de Usuário         | Vinicius | João Pedro |João Pedro |
+| Brainstorm                | Vinicius | Gabriel  |Vinicius | 
+| Storytelling              | João Pedro | Vinicius  |João Pedro |
+| Introspecção              | Gabriel | Vinicius  |Vinicius | 
+| Observação                | Gabriel | Vinicius  |João Pedro |
+| Questionário              | João Pedro | Vinicius |Vinicius | 
+| Entrevista                | João Pedro | Gabriel |João Pedro |
+| First Things First        | Gabriel | João Pedro |João Pedro |
+| In or Out                 | João Pedro | Vinicius |Vinicius | 
+| Resultado Elicitação      | Gabriel  | João Pedro  |João Pedro |
+| Cenários                  | Gabriel  | Vinicius |Gabriel |
+| Léxicos                   | Vinicius  | João Pedro|João Pedro |
+| Casos de Uso              | João Pedro  | Gabriel |Vinicius | 
+| Especificação Suplementar | Vinicius  | João Pedro |João Pedro |
+| NFR Framework             | Gabriel | João Pedro  |Gabriel |
+| Backlog + Histórias       | João Pedro  | Vinicius |João Pedro |
+| Validação                 | João Pedro | Gabriel  |Vinicius | 
 
 <p style="text-align: center">Fonte: Josué Teixeira, integrante do grupo 6</p>
 
