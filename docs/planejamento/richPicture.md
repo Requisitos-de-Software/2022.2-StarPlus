@@ -15,7 +15,7 @@ Um Rich Picture pode auxiliar na identificação de:
 
 <p>Imagem 1: Rich Picture, Autor: Vinicius Assumpção, integrante do grupo 6, Versão: 1.0<p/>
 
-![StarPul RichPicture](docs\assets\RichPicture.jpg)
+![StarPul RichPicture](docs\assets\RichPicture.png)
 
 <p>Fonte: Autoria própria, grupo 6<p>
 
