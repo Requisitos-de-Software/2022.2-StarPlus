@@ -13,13 +13,16 @@ A reunião foi iniciada às 11:40 e finalizada às 12:20.
 ## Objetivos
 Revisar os artefatos desenvolvidos para no segundo ponto de controle e definir tarefas para o ponto de controle 3
 ## Tarefas
+
+Tabela 1: Atividades a serem feitas
+
 | Tarefa | Responsável |
 | ---- | ---- |
 | Revisar cronograma(incluir cronograma executado) e desenvolver NFR(Abdul),cenários(Thiago) | Thiago  e Abdul
 | Revisar Perfil de usuário, desenvolver casos de uso(Vinicius) e especificação suplementar(João)|  Vinicius e João
 | Revisar personas(definir primárias e secundárias), e desenvover agil e léxicos | Gabriel(Agil) e Josué(léxicos)
 
-Tabela 1: Atividades a serem feitas
+Fonte: Grupo 6
 
 ## Gravação da reunião
 Reunião presencial
