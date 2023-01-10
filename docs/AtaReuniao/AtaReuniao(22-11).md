@@ -2,7 +2,13 @@
 
 Presencial 
 
-# Participantes - Todos os integrantes presentes
+# Participantes 
+- Vinicius Assumpcao
+- Thiago Vivan
+- João Pedro de Camargo
+- Gabriel Roger
+- Abdul Hannan
+- Josué Teixeira
 
 ## Início e término
 A reunião foi iniciada às 14:10 e finalizada às 15:00.
