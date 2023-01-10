@@ -118,7 +118,7 @@ Por fim, como pode ser visto na imagem 10, decidimos analisar a satisfação do 
 
 ## Conclusões
 
-O Questionário é uma importante ferramanta no processo de elicitação por ser uma solução rápida,prática e barata. Contudo, sua execução deve ser bem pensada, pois a disposição e engajamento dos usuários para responder a uma série de questões é geralmente baixa. Em geral, é uma maneira mais fácil informações de um público numeroso.
+O Questionário é uma importante ferramanta no processo de elicitação por ser uma solução rápida, prática e barata. Contudo, sua execução deve ser bem pensada, pois a disposição e engajamento dos usuários para responder a uma série de questões é geralmente baixa. Em geral, é uma maneira mais fácil informações de um público numeroso.
 
 ## Referências
 
