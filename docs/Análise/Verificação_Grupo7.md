@@ -78,7 +78,14 @@ Para cada item de cada um dos checklists, foram escritos "Sim" caso o item se en
 
 Segue gráfico de aproveitamento dados os itens verificados
 
-Provisório - 100%
+<figcaption>Imagem 1: Gráfico de aproveitamento do Rich Picture </figcaption>
+
+<center>
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.2-StarPlus/docs/assets/graficosVer/100.png" alt="drawing" width="400"/>
+
+<figcaption>Fonte: Autoria Própria, Grupo 6 </figcaption>
+
+</center>
 
 Comentários: O artefato segue os padrões e não necessita de correção aparente.
 
