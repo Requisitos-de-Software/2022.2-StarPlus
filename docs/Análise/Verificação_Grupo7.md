@@ -117,8 +117,8 @@ Comentários: O artefato segue os padrões, mas faltou as chamadas dentro do tex
 | :-------    | :------: | 
 | Os perfis de usuários estão definidos | Sim |
 | Os perfis de usuários possuem experiência, nível de alfabetização e faixa etária? | Incompleto |
-|Existe uma declaração do porque o uso da metodologia escolhida?| Sim |
-|Existe uma declaração do prque o uso da metodologia escolhida?| Sim|
+|Existe uma declaração dos métodos para elicitar o perfil de usuário?| Sim |
+|Existe uma declaração do porque o uso da metodologia escolhida?| Sim|
 |O histórico de versão padronizado? | Sim |
 |O(s) autor(es) e o(s) revisor(es) presente? | Sim |
 |As referências bibliográficas e/ou bibliografia em todos os artefatos | Sim |
