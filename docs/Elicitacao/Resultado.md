@@ -2,7 +2,7 @@
 
 ## 1. Introdução
 
-&emsp;&emsp;Esse documento reúne o resultado de todas as técnicas de elicitação de requisitos usadas ([Brainstorm](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/BrainStorming), [Introspecção](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Tecnicas/introspeccao), entrevista e [Observação](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Tecnicas/Observacao)) em um único espaço, rastreando cada um dos requisitos com suas respectivas técnicas.
+&emsp;&emsp;Esse documento reúne o resultado de todas as técnicas de elicitação de requisitos usadas ([Brainstorm](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/BrainStorming), [Introspecção](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Tecnicas/introspeccao), [entrevista](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Tecnicas/Entrevista) e [Observação](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Tecnicas/Observacao)) em um único espaço, rastreando cada um dos requisitos com suas respectivas técnicas.
 
 ## 2. Metodologia
 
@@ -64,7 +64,8 @@ Tabela 1: Requisitos funcionais
 |RF44| O usuário pode pausar um título | [Introspecção](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Tecnicas/introspeccao) <br/>  
 |RF45| O usuário pode avançar ou retroceder na reprodução de um título | [Introspecção](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Tecnicas/introspeccao) <br/>  
 |RF46| O usuário deve ser capaz de ver as informações de um título | [Introspecção](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Tecnicas/introspeccao) <br/>   
-|RF47| O título deve possuir ao menos uma categoria | [Introspecção](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Tecnicas/introspeccao) <br/>   
+|RF47| O título deve possuir ao menos uma categoria | [Introspecção](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Tecnicas/introspeccao) <br/> |    
+ 
 
 Fonte: Autoria própria, grupo 6
 
@@ -86,9 +87,9 @@ Tabela 2: Requisitos não funcionais
 | RNF6 | O sistema deve possuir uma boa conexão com o servidor | [Observação](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Tecnicas/Observacao), [Brainstorm](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/BrainStorming) |
 | RNF7 | O sistema deve proporcionar uma aba com sugestões para o usuário logado | [Observação](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Tecnicas/Observacao), [Questionário](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Tecnicas/Questionário) |
 |RNF8| O sistema deve oferecer ao usuário transmissão ao vivo sem atraso | [Introspecção](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Tecnicas/introspeccao)<br/>  
-|RNF9| O sistema deve suportar o acesso simultâneo de mais de um perfil do mesmo usuário | [Introspecção](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Tecnicas/introspeccao)<br/> 
+|RNF9| O sistema deve suportar o acesso simultâneo de mais de um perfil do mesmo usuário | [Introspecção](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Tecnicas/introspeccao)<br/> | 
  
- Fonte: Autoria própria, grupo 6
+Fonte: Autoria própria, grupo 6
 
 
 <figcaption>Tabela 2: Requisitos não funcionais.</figcaption>
