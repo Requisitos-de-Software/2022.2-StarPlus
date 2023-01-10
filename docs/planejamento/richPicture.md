@@ -23,7 +23,7 @@ Um Rich Picture pode auxiliar na identificação de:
   
  <p>Imagem 2: Rich Picture, Autor: Vinicius Assumpção, integrante do grupo 6, Versão: 1.0<p/>
  
-![StarPul RichPicture](docs\assets\richV2.png)
+![StarPul RichPicture2](docs\assets\richV2.png)
 
 <p>Fonte: Autor: Vinicius Assumpção, integrante do grupo 6, , Versão: 2.0<p> 
   
