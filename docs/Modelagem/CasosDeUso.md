@@ -90,16 +90,31 @@
 
 <figcaption> Fonte: Vinícius, integrante do grupo 6</figcaption>
 
+### 3.1 Legenda das Tabelas
+
+Tabela 2: Legenda das tabelas
+
+| UCXX | Informações | 
+| :----: | :------:|
+| Descrição | descrição do usuário |
+| Pré-condições | pré-condições para a realização da tarefa |
+| Ator | perfil do usuário da ação |
+| Ação | a ação em si |
+| Fluxo principal | Descrição do fluxo da ação |
+| Pós-condições | Consequências da ação |
+| Requisitos relacionados  | requisitos elicitados relacionados | 
+
+Fonte: Grupo 6
+
 ## Casos de uso para, pelo menos, perfil com baixo dominio tecnológico
 
-
+<figcaption>Imagem 5: Casos de uso do usuário com baixo dominio tecnológico.</figcaption>
 <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.2-StarPlus/gh-pages/docs/assets/casos de uso/diagramaperfil1.png" alt="drawing" width="400"/>
-<figcaption>Imagem 5: Casos de uso do usuário com baixo dominio tecnológico. Fonte: Grupo 6</figcaption>
+<figcaption> Fonte: Grupo 6</figcaption>
 
-### 3.1 Fluxo de perfil
+### 3.2 Fluxo de perfil
 
-
-Tabela 2: Fluxo de perfil
+Tabela 3: Fluxo de perfil
 
 | UC01 | Informações | 
 | :----: | :------:|
@@ -113,10 +128,10 @@ Tabela 2: Fluxo de perfil
 
 Fonte: Vinicius e João,integrantes do grupo 6
 
-### 3.2 Fluxo de título
+### 3.3 Fluxo de título
 
 
-Tabela 3: Fluxo de título
+Tabela 4: Fluxo de título
 
 | UC02 | Informações | 
 | :----: | :------:|
@@ -130,9 +145,9 @@ Tabela 3: Fluxo de título
 
 Fonte: Vinicius e João,integrantes do grupo 6
 
-### 3.3 Fluxo de conteúdo
+### 3.4 Fluxo de conteúdo
 
- Tabela 4: Fluxo de conteúdo
+ Tabela 5: Fluxo de conteúdo
 
 | UC03 | Informações | 
 | :----: | :------:|
@@ -146,9 +161,9 @@ Fonte: Vinicius e João,integrantes do grupo 6
   
  Fonte: Vinicius e João,integrantes do grupo 6 
  
- ### 3.4 Fluxo de lista
+ ### 3.5 Fluxo de lista
  
- Tabela 5: Fluxo de lista 
+ Tabela 6: Fluxo de lista 
   
 | UC04 | Informações | 
 | :----: | :------:|
@@ -163,9 +178,9 @@ Fonte: Vinicius e João,integrantes do grupo 6
 Fonte: Vinicius e João,integrantes do grupo 6
   
   
-### 3.5 Fluxo de busca
+### 3.6 Fluxo de busca
 
-Tabela 6: Fluxo de busca
+Tabela 7: Fluxo de busca
   
 | UC05 | Informações | 
 | :----: | :------:|
@@ -180,9 +195,9 @@ Tabela 6: Fluxo de busca
 Fonte: Vinicius e João,integrantes do grupo 6
 
   
-### 3.6 Fluxo de alteração do idioma
+### 3.7 Fluxo de alteração do idioma
 
-Tabela 7: Fluxo de alteração do idioma
+Tabela 8: Fluxo de alteração do idioma
   
 | UC06 | Informações | 
 | :----: | :------:|
@@ -202,9 +217,9 @@ Fonte: Vinicius e João,integrantes do grupo 6
 <figcaption>Imagem 6: Casos de uso do usuário com bom dominio tecnológico. Fonte: Grupo 6</figcaption>
 
 
-### 3.7 Fluxo de reprodução em segundo plano
+### 3.8 Fluxo de reprodução em segundo plano
 
-Tabela 8: Fluxo de reprodução em segundo plano
+Tabela 9: Fluxo de reprodução em segundo plano
 
 | UC07 | Informações | 
 | :----: | :------:|
@@ -218,9 +233,9 @@ Tabela 8: Fluxo de reprodução em segundo plano
 
 Fonte: Vinicius e João,integrantes do grupo 6
 
-### 3.8 Fluxo de compartilhamento do título
+### 3.9 Fluxo de compartilhamento do título
 
-Tabela 9: Fluxo de compartilhamento do título
+Tabela 10: Fluxo de compartilhamento do título
 
 | UC08 | Informações | 
 | :----: | :------:|
@@ -234,9 +249,9 @@ Tabela 9: Fluxo de compartilhamento do título
 
 Fonte: Vinicius e João,integrantes do grupo 6
 
-### 3.9 Fluxo de detalhamento do título
+### 3.10 Fluxo de detalhamento do título
 
-Tabela 10: Fluxo de detalhamento do título
+Tabela 11: Fluxo de detalhamento do título
 
 | UC09 | Informações | 
 | :----: | :------:|
@@ -250,9 +265,9 @@ Tabela 10: Fluxo de detalhamento do título
 
 Fonte: Vinicius e João,integrantes do grupo 6
 
-### 3.10 Fluxo de configurações da legenda
+### 3.11 Fluxo de configurações da legenda
 
-Tabela 11: Fluxo de configurações da legenda
+Tabela 12: Fluxo de configurações da legenda
 
 | UC10 | Informações | 
 | :----: | :------:|
@@ -266,9 +281,9 @@ Tabela 11: Fluxo de configurações da legenda
 
 Fonte: Vinicius e João,integrantes do grupo 6
 
-### 3.11 Fluxo de configurações da velocidade de reprodução
+### 3.12 Fluxo de configurações da velocidade de reprodução
 
-Tabela 12: Fluxo de configurações da velocidade de reprodução
+Tabela 13: Fluxo de configurações da velocidade de reprodução
 
 | UC11 | Informações | 
 | :----: | :------:|
@@ -282,9 +297,9 @@ Tabela 12: Fluxo de configurações da velocidade de reprodução
 
 Fonte: Vinicius e João,integrantes do grupo 6
 
-### 3.12 Fluxo de download
+### 3.13 Fluxo de download
 
-Tabela 13: Fluxo de download
+Tabela 14: Fluxo de download
 
 | UC12 | Informações | 
 | :----: | :------:|
@@ -298,9 +313,9 @@ Tabela 13: Fluxo de download
 
 Fonte: Vinicius e João,integrantes do grupo 6
 
-### 3.13 Fluxo de configuração de rede móvel
+### 3.14 Fluxo de configuração de rede móvel
 
-Tabela 14: Fluxo de configuração de rede móvel
+Tabela 15: Fluxo de configuração de rede móvel
 
 | UC13 | Informações | 
 | :----: | :------:|
