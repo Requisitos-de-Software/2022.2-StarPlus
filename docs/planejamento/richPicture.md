@@ -15,15 +15,15 @@ Um Rich Picture pode auxiliar na identificação de:
 
 <p>Imagem 1: Rich Picture, Autor: Vinicius Assumpção, integrante do grupo 6, Versão: 1.0<p/>
 
-<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.2-StarPlus/gh-pages/docs/RichPicture.png" alt="drawing" width="400"/>
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.2-StarPlus/gh-pages/docs/assets/RichPicture.png" alt="drawing" width="400"/>
 
 <p>Fonte: Autoria própria, grupo 6<p>
 
 ## Versão 2 do projeto Star+
   
-<p>Imagem 2: Rich Picture, Autor: Vinicius Assumpção, integrante do grupo 6, Versão: 1.0<p/>
+<p>Imagem 2: Rich Picture, Autor: Vinicius Assumpção, integrante do grupo 6, Versão: 2.0<p/>
  
-<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.2-StarPlus/gh-pages/docs/richV2.png" alt="drawing" width="400"/>
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.2-StarPlus/gh-pages/docs/assets/richV2.png" alt="drawing" width="400"/>
 
 <p>Fonte: Autor: Vinicius Assumpção, integrante do grupo 6, , Versão: 2.0<p> 
   
