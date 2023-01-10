@@ -6,7 +6,11 @@ A técnica de introspecção consiste na compreensão de quais propriedades o si
 
 ## 2. Metodologia
 
-A partir da definição da técnica, os dois participantes da etapa realizaram a introspecção de maneira individual. Posteriormente, se reuniram e discutiram para analisar e comparar os requisitos elicitados por cada um. 
+A partir da definição da técnica, os dois participantes da etapa realizaram a introspecção de maneira individual. Posteriormente, se reuniram e discutiram para analisar e comparar os requisitos elicitados por cada um, os resultados podem ser observados nas tabelas de 1 a 6.
+
+## 3. Documentação
+
+Ambos os integrantes realizaram indivudualmente a instrospecção, em suas respectivas casas, no dia 27 e 28 de novembro de 2022, e reuniram-se no dia 28 para cruzarem seus resultados, por meio da plataforma Microsoft Teams.
 
 ## 3. Participantes
 
@@ -148,5 +152,5 @@ Tabela 6: Requisitos Não Funcionais.
 | Versão | Data | Descrição | Autor | Revisor |
 |--------|------|-----------|-------|---------|
 | 1.0 | 27/11/2022 | Documento inicial | [Gabriel Roger](https://github.com/GabrielRoger07) | [Josué Teixeira](https://github.com/zjosuez) | 
-| 1.1 | 29/11/2022 | Correção nas tabelas | [Gabriel Roger](https://github.com/GabrielRoger07) | [Josué Teixeira](https://github.com/zjosuez) |
-| 1.2 | 08/12/2022 | Adição de tabelas individuais | [Gabriel Roger](https://github.com/GabrielRoger07) | [Josué Teixeira](https://github.com/zjosuez) |
+| 2.0 | 29/11/2022 | Correção nas tabelas | [Gabriel Roger](https://github.com/GabrielRoger07) | [Josué Teixeira](https://github.com/zjosuez) |
+| 3.0 | 08/12/2022 | Adição de tabelas individuais | [Gabriel Roger](https://github.com/GabrielRoger07) | [Josué Teixeira](https://github.com/zjosuez) |
