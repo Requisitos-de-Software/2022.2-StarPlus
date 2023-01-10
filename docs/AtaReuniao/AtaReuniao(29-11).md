@@ -3,12 +3,12 @@
 Remoto
 
 # Participantes - 
-Vinicius Assumpcao
-Thiago Vivan
-João Pedro de Camargo
-Gabriel Roger
-Abdul Hannan
-Josué Teixeira
+- Vinicius Assumpcao
+- Thiago Vivan
+- João Pedro de Camargo
+- Gabriel Roger
+- Abdul Hannan
+- Josué Teixeira
 
 ## Início e término
 A reunião foi iniciada às 19:00 e finalizada às 19:50.
