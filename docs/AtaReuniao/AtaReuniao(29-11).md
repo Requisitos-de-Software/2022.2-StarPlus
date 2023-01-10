@@ -18,13 +18,16 @@ Revisar os artefatos desenvolvidos para o segundo ponto de controle e gravar a a
 
 ## Tarefas
 
+Tabela 1: Atividades a serem feitas
+
 | Tarefa | Responsável |
 | ---- | ---- |
 | Revisar Técnica de brainstorm e escolha da priorização(first things first) e gravar a reunião e apresentação | Joao Pedro Vaz  e Abdul
 | Revisar Técnicas de observação,questionário e  escolha da priorização(In or Out) |  Vinicius e Thiago
 | Revisar personas, técnica de introspecção e página de perfil de usuário | Gabriel e Josué
 
-Tabela 1: Atividades a serem feitas
+Fonte: Grupo 6
+
 
 ## Gravação da reunião
 
