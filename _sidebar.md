@@ -56,4 +56,5 @@
 - <h3> Análise</h3>
 
     - [Verificação Destinada ao grupo 7](docs/Análise/Verificação.md)
+    - [Verificação](docs/Análise/verificacaoCanon.md)
 ---
