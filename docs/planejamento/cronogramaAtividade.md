@@ -44,8 +44,8 @@ Instrospecção | 24/11/2022 | Gabriel Roger, Josué Teixeira | Abdul Hannan | 2
 Personas | 24/11/2022 | Josué Teixeira, Gabriel Roger | Vinicius Assumpção |28/11/2022
 Storytelling  |  24/11/2022  | Vinicius Assumpção, Thiago Vivan | João Pedro de Camargo | 29/11/2022
 Priorização | 24/11/2022 | João Pedro de Camargo, Abdul Hannan | Thiago Vivan |28/11/2022
-Gravação e entrega do vídeo de apresentação | 29/11/2022 | Todos | Todos |29/11/2022
-Apresentação do projeto na aula | 22/11/2022 | Todos | Todos |---------
+Gravação e entrega do vídeo de apresentação | 29/11/2022 | Todos os participantes do grupo 6 | Todos os participantes do grupo 6 |29/11/2022
+Apresentação do projeto na aula | 22/11/2022 | Todos os participantes do grupo 6 | Todos os participantes do grupo 6 |---------
 <br>
 
 ### Terceira entrega - 12/11/2022
@@ -58,8 +58,8 @@ Desenvolvimento de casos de uso | 06/12/2022 | Gabriel Roger, Vinicius Assumpç�
 Cenários   | 08/12/2022 |Thiago Vivan | Abdul Hannan | 09/12/2022
 Léxicos | 07/12/2022 | Josué Teixeira | Gabriel Roger | 09/12/2022
 Especificação suplementar | 06/12/2022 | João Pedro de Camargo Vaz |  Vinicius Assumpção | 09/12/2022
-Gravação do vídeo | 10/12/2022 | Todos | Todos | 10/12/2022
-Entrega do vídeo | 11/12/2022 | Todos | Todos | 11/12/2022
+Gravação do vídeo | 10/12/2022 | Todos os participantes do grupo 6 | Todos os participantes do grupo 6 | 10/12/2022
+Entrega do vídeo | 11/12/2022 | Todos os participantes do grupo 6 | Todos os participantes do grupo 6 | 11/12/2022
 
 
 ### Quarta Entrega - 04/01/2023
@@ -71,8 +71,8 @@ Atividade(s) | Data  | Responsável | Revisor | Data de revisão
 Product backlog | 10/12/2022 | Gabriel Roger, Josué Teixeira | João Pedro de Camargo | 03/01/2023 |
 Épicos | 10/12/2022 | João Pedro de Camargo, Abdul Hannan | Gabriel Roger | 03/01/2023 |
 Histórias de usuário  | 10/12/2022 | Vinicius Assumpção, Thiago Vivan | Abdul Hannan | 03/01/2023
-NFR Framework | 10/12/2022 | Todos| Todos | 03/01/2023
-Entrega do vídeo | 10/12/2022 | Todos | Todos | 03/01/2023
+NFR Framework | 10/12/2022 | Todos os participantes do grupo 6| Todos os participantes do grupo 6 | 03/01/2023
+Entrega do vídeo | 10/12/2022 | Todos os participantes do grupo 6 | Todos os participantes do grupo 6| 03/01/2023
 <br>
 
 
@@ -98,9 +98,9 @@ Verificação Casos de Uso e Perfil do Usuário | 04/01/2023|  Vinicius Assumpç
 Atividade(s) | Data  | Responsável | Revisor | Data de revisão
 ------------ | ------- | ----------| ------- | ---------------
 Validação - Prototipação  | 11/01/2023 | Gabriel Roger, Thiago Vivan | Todos | 16/01/2023
-Validação - Comprovação Informal | 11/01/2023 | João Pedro de Camargo, Vinicius Assumpção | Todos | 16/01/2023
+Validação - Comprovação Informal | 11/01/2023 | João Pedro de Camargo, Vinicius Assumpção | Todos os participantes do grupo 6 | 16/01/2023
 Planejamento da etapa 07: Separação e distribuição das atividades para os membros  | 11/01/2023 | Abdul Hanna, Josué Teixeira | Todos | 16/01/2023 | 
-Gravação do vídeo | 11/01/2023 | Todos | Todos | 16/01/2023
+Gravação do vídeo | 11/01/2023 | Todos os participantes do grupo 6 | Todos os participantes do grupo 6 | 16/01/2023
 <br>
 
 ### Sétima entrega - 24/01/2023
@@ -109,10 +109,10 @@ Gravação do vídeo | 11/01/2023 | Todos | Todos | 16/01/2023
 
 Atividade(s) | Data  | Responsável | Revisor | Data de revisão
 ------------ | ------- | ----------| ------- | ---------------
-Documento backward-form  | 17/01/2023 | Gabriel Roger, Thiago Vivan | Todos | 24/01/2023
-Documento forward-form | 17/01/2023 | João Pedro de Camargo, Vinicius Assumpção | Todos | 24/01/2023
+Documento backward-form  | 17/01/2023 | Gabriel Roger, Thiago Vivan | Todos os participantes do grupo 6 | 24/01/2023
+Documento forward-form | 17/01/2023 | João Pedro de Camargo, Vinicius Assumpção | Todos os participantes do grupo 6 | 24/01/2023
 Planejamento da etapa 08: Separação e distribuição das atividades para os membros  | 17/01/2023 | Abdul Hanna, Josué Teixeira | Todos | 24/01/2023 | 
-Gravação do vídeo | 17/01/2023 | Todos | Todos | 24/01/2023
+Gravação do vídeo | 17/01/2023 | Todos os participantes do grupo 6 | Todos os participantes do grupo 6| 24/01/2023
 <br>
 
 ### Última entrega - 02/02/2023
@@ -122,9 +122,9 @@ Gravação do vídeo | 17/01/2023 | Todos | Todos | 24/01/2023
 Atividade(s) | Data  | Responsável | Revisor | Data de revisão
 ------------ | ------- | ----------| ------- | ---------------
 Correções do projeto final | 25/01/2023 | Todos | Todos |01/02/2023 |
-Complemento das ferramentas: onde foram utilizadas no projeto | 25/01/2023 | Todos | Todos |01/02/2023 |
-Complemento: técnicas e métodos utilizadas no projeto | 25/01/2023 | Todos | Todos | 01/02/2023
-Entrega do arquivo | 25/01/2023 | Todos | Todos | 01/02/2023
+Complemento das ferramentas: onde foram utilizadas no projeto | 25/01/2023 | Todos os participantes do grupo 6 | Todos os participantes do grupo 6 |01/02/2023 |
+Complemento: técnicas e métodos utilizadas no projeto | 25/01/2023 | Todos os participantes do grupo 6 | Todos os participantes do grupo 6 | 01/02/2023
+Entrega do arquivo | 25/01/2023 | Todos os participantes do grupo 6 | Todos os participantes do grupo 6 | 01/02/2023
 <br>
 
 
@@ -135,5 +135,5 @@ Entrega do arquivo | 25/01/2023 | Todos | Todos | 01/02/2023
 | 1.0 | 15/11/2022 | Documento Inicial | [Gabriel](https://github.com/GabrielRoger07) | [Josué](https://github.com/zjosuez)
 | 1.1 | 29/11/2022 | Adicionado novas informações as tabelas | [Josué](https://github.com/GabrielRoger07) | [Gabriel](https://github.com/zjosuez)
 | 1.2 | 30/11/2022 | correção de erro na tabela | [Josué](https://github.com/GabrielRoger07) | [Gabriel](https://github.com/zjosuez)
-|1.3|11/12/2022|atualização para terceira entrega|Abdul hannan|Thiago Vivan |
+|1.3|11/12/2022|atualização para terceira entrega|[Abdul hannan](https://github.com/hannanhunny01)|[Thiago Vivan](https://github.com/hannanhunny01) |
 
