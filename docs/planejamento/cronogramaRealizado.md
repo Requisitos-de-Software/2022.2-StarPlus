@@ -13,6 +13,7 @@ Rich Picture | 28/06/2022 | Vinicius Assumpção | Thiago Vivan | 17/11/2022
 Definição de ferramentas e metodologias |  08/11/2022   | João Pedro de Camargo, Abdul Hannan | Josué | 20/11/2022 
 Cronograma detalhado | 17/11/2022 | Josué Teixeira, Thiago Vivan | Gabriel Roger | 20/11/2022
 Detalhamento das Metodologias | 17/11/2022 | Abdul Hannan, Gabriel Roger | Vinicius Assumpção | 19/11/2022
+<p> Fonte - Josué Teixeira, integrante do grupo 6</p>
 
 <br>
 
@@ -32,6 +33,7 @@ Priorização | 24/11/2022 | João Pedro de Camargo, Abdul Hannan | Thiago Vivan
 Gravação e entrega do vídeo de apresentação | 29/11/2022 | Todos os participantes do grupo 6 | Todos os participantes do grupo 6 |29/11/2022
 Apresentação do projeto na aula | 22/11/2022 | Todos os participantes do grupo 6 | Todos os participantes do grupo 6 |---------
 <br>
+<p> Fonte - Josué Teixeira, integrante do grupo 6</p>
 
 <br>
 
@@ -48,10 +50,39 @@ Especificação suplementar | 05/12/2022 | João Pedro de Camargo Vaz | Vinicius
 Gravação do vídeo | 10/12/2022 | Todos os participantes do grupo 6 | Todos os participantes do grupo 6 | 10/12/2022
 Entrega do vídeo | 11/12/2022 | Todos os participantes do grupo 6 | Todos os participantes do grupo 6 | 11/12/2022
 <br>
+<p> Fonte - Josué Teixeira, integrante do grupo 6</p>
+
+### Quarta Entrega - 04/01/2023
+### Modelagem de requisitos - Ágil
+<p> Tabela 5 - Cronograma detalhado para quarta entrega</p>
+
+Atividade(s) | Data  | Responsável | Revisor | Data de revisão
+------------ | ------- | ----------| ------- | ---------------
+Product backlog | 10/12/2022 | Gabriel Roger, Josué Teixeira | João Pedro de Camargo | 04/01/2023 |
+Épicos | 10/12/2022 | João Pedro de Camargo, Abdul Hannan | Gabriel Roger | 03/01/2023 |
+Histórias de usuário  | 10/12/2022 | Vinicius Assumpção, Thiago Vivan | Abdul Hannan | 03/01/2023
+NFR Framework | 10/12/2022 | Todos os participantes do grupo 6| Todos os participantes do grupo 6 | 03/01/2023
+Entrega do vídeo | 10/12/2022 | Todos os participantes do grupo 6 | Todos os participantes do grupo 6| 03/01/2023
+<p> Fonte - Josué Teixeira, integrante do grupo 6</p>
+
+### Quinta entrega - 09/01/2023
+###  Análise de Requisitos - Verificação e Validação I
+<p>Tabela 6 - Cronograma detalhado para quinta entrega</p>
+
+Atividade(s) | Data  | Responsável | Revisor | Data de revisão
+------------ | ------- | ----------| ------- | ---------------
+Validação  | 04/01/2023 | Abdul Hannan, João Pedro de Camargo | Thiago Vivan | 10/01/2023 |
+Verificação NFR e Personas | 04/01/2023 | Josué Teixeira, Gabriel Roger | Vinicius Assumpção | 10/01/2023 |
+Verificação Léxicos e Cenários | 04/01/2023 | Vinicius Assumpção, Thiago Vivan | Gabriel Roger | 10/01/2023
+Verificação Priorização e Brainstorming, Introspecção | 04/01/2023| Abdul Hannan, João Pedro de Camargo | Josué Teixeira | 10/01/2023
+Verificação Backlog e RichPicture | 04/01/2023 | Josué Teixeira, Gabriel Roger | João Pedro de Camargo | 10/01/2023
+Verificação Casos de Uso e Perfil do Usuário | 04/01/2023|  Vinicius Assumpção, Thiago Vivan | Abdul Hannan | 10/01/2023
+<br>
+<p> Fonte - Josué Teixeira, integrante do grupo 6</p>
 
 ## Histórico de Versão
 
 | Versão | Data | Descrição | Autor | Revisor
 |--------|------|-----------|-------| -------
 | 1.0 | 30/11/22 | Documento com as datas e quem realizou a atividade; correção ortografica; | [Josué](https://github.com/zjosuez) | [Gabriel](https://github.com/GabrielRoger07) 
-|1.1|12/08/2022|atualização para terceira entrega|[Abdul hannan](https://github.com/hannanhunny01)|[Thiago Vivan](https://github.com/thiago-vivan) |
+|2.0|12/08/2022|atualização para terceira entrega|[Abdul hannan](https://github.com/hannanhunny01)|[Thiago Vivan](https://github.com/thiago-vivan) |
