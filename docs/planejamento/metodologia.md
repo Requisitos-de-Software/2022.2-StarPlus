@@ -13,6 +13,7 @@ O Pair Programming consiste em duas pessoas trabalhando nas mesmas linhas de có
 
 <figcaption> Figura 1:Representação da metodologia do pair programming
   
+  
 ![xp](https://user-images.githubusercontent.com/56610229/176553394-f0233d20-3fbc-4772-9ec3-802e5c0ba439.png)
   
 <figcaption>Fonte: Práticas de Extreme Programming, retirado do livro "Engenharia de Software" de Ian Sommerville.</figcaption>
