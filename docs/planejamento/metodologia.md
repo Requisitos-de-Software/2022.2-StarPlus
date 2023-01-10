@@ -10,7 +10,11 @@ Scrum é um framework utilizado para gestão dinâmica de projetos, sendo muitas
 ### Pair Programming
 O Pair Programming consiste em duas pessoas trabalhando nas mesmas linhas de código e se ajudando mutuamente. Uma escreve as linhas de código, enquanto a outra fica de observadora analisando e percebendo possíveis problemas no código. De tempo em tempo definido as posições são trocadas. Essa técnica é eficiente para a elaboração do código de forma limpa e com menos erros, além de não se tornar preocupando o fato de um desenvolvedor tirar férias, por exemplo, pois terá um parceiro que esteve presente o tempo todo.
 
+
+<figcaption> Figura 1:Representação da metodologia do pair programming
+  
 ![xp](https://user-images.githubusercontent.com/56610229/176553394-f0233d20-3fbc-4772-9ec3-802e5c0ba439.png)
+  
 <figcaption>Fonte: Práticas de Extreme Programming, retirado do livro "Engenharia de Software" de Ian Sommerville.</figcaption>
 
 ### Quadro Kanban
