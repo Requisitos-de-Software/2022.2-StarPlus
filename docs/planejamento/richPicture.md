@@ -15,7 +15,7 @@ Um Rich Picture pode auxiliar na identificação de:
 
 <p>Imagem 1: Rich Picture, Autor: Vinicius Assumpção, integrante do grupo 6, Versão: 1.0<p/>
 
-![StarPul RichPicture](docs\assets\RichPicture.png)
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.2-StarPlus/gh-pages/docs/RichPicture.png" alt="drawing" width="400"/>
 
 <p>Fonte: Autoria própria, grupo 6<p>
 
@@ -23,7 +23,7 @@ Um Rich Picture pode auxiliar na identificação de:
   
 <p>Imagem 2: Rich Picture, Autor: Vinicius Assumpção, integrante do grupo 6, Versão: 1.0<p/>
  
-![StarPlus RichPicturee](docs\assets\richV2.png)
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.2-StarPlus/gh-pages/docs/richV2.png" alt="drawing" width="400"/>
 
 <p>Fonte: Autor: Vinicius Assumpção, integrante do grupo 6, , Versão: 2.0<p> 
   
