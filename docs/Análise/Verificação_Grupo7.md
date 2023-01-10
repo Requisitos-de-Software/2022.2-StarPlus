@@ -81,7 +81,9 @@ Segue gráfico de aproveitamento dados os itens verificados
 <figcaption>Imagem 1: Gráfico de aproveitamento do Rich Picture </figcaption>
 
 <center>
-<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.2-StarPlus/docs/assets/graficosVer/100.png" alt="drawing" width="400"/>
+
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.2-StarPlus/gh-pages/docs/assets/graficosVer/100.png" alt="drawing" width="400"/>
+  
 
 <figcaption>Fonte: Autoria Própria, Grupo 6 </figcaption>
 
@@ -112,7 +114,13 @@ Comentários: O artefato segue os padrões e não necessita de correção aparen
 
 Segue gráfico de aproveitamento dados os itens verificados
 
-Provisório - 83,33%
+<figcaption>Imagem 2: Gráfico de aproveitamento de Personas </figcaption>
+
+<center>
+
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.2-StarPlus/gh-pages/docs/assets/graficosVer/83.png" alt="drawing" width="400"/>
+  
+<figcaption>Fonte: Autoria Própria, Grupo 6 </figcaption>
 
 Comentários: O artefato segue os padrões, mas faltou as chamadas dentro do texto.
 
@@ -138,7 +146,13 @@ Comentários: O artefato segue os padrões, mas faltou as chamadas dentro do tex
 
 Segue gráfico de aproveitamento dados os itens verificados
 
-Provisório - 81,25%
+<figcaption>Imagem 3: Gráfico de aproveitamento de Perfil de usuário </figcaption>
+
+<center>
+
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.2-StarPlus/gh-pages/docs/assets/graficosVer/81.png" alt="drawing" width="400"/>
+  
+<figcaption>Fonte: Autoria Própria, Grupo 6 </figcaption>
 
 Comentários:O artefato, no geral, segue os padrões. É recomendado a criação de pelo menos um tópico ou uma aba específica para tornar o acesso e leitura do perfil de usuário mais clara. Além disso , recomenda-se um detalhamento maior, visto que o único perfil elicitado não parece abranger toda a gama de usuários. 
 
@@ -166,7 +180,13 @@ Comentários:O artefato, no geral, segue os padrões. É recomendado a criação
 
 Segue gráfico de aproveitamento dados os itens verificados
 
-Provisório - 95,45%
+<figcaption>Imagem 4: Gráfico de aproveitamento de StoryTelling </figcaption>
+
+<center>
+
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.2-StarPlus/gh-pages/docs/assets/graficosVer/95.png" alt="drawing" width="400"/>
+  
+<figcaption>Fonte: Autoria Própria, Grupo 6 </figcaption>
 
 Comentários:O artefato segue os padrões, no entanto não há fonte da tabela e ela não foi chamada no texto. Além disso, o título das histórias poderiam ser mais descritivos, detalhando além do nome das personas utilizadas.
 
@@ -196,7 +216,13 @@ Comentários:O artefato segue os padrões, no entanto não há fonte da tabela e
 
 Segue gráfico de aproveitamento dados os itens verificados
 
-Provisório - 86,36%
+<figcaption>Imagem 5: Gráfico de aproveitamento de Instorspecção </figcaption>
+
+<center>
+
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.2-StarPlus/gh-pages/docs/assets/graficosVer/86.png" alt="drawing" width="400"/>
+  
+<figcaption>Fonte: Autoria Própria, Grupo 6 </figcaption>
 
 Comentários: O artefato segue os padrões, mas a metodologia não foi explicada e não há gravações ou documentações do processo.Além disso não há fonte da tabela.
 
@@ -223,7 +249,13 @@ Comentários: O artefato segue os padrões, mas a metodologia não foi explicada
 
 Segue gráfico de aproveitamento dados os itens verificados
 
-Provisório - 85%
+<figcaption>Imagem 6: Gráfico de aproveitamento de Observação </figcaption>
+
+<center>
+
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.2-StarPlus/gh-pages/docs/assets/graficosVer/85.png" alt="drawing" width="400"/>
+  
+<figcaption>Fonte: Autoria Própria, Grupo 6 </figcaption>
 
 Comentários:O artefato, no geral, segue os padrões. No entanto, o usuário da observação não foi identificado, não há gravações ou prints. Além disso, existe a ausência de hyperlinks para facilitar a navegação e fonte  das tabelas
 
@@ -250,7 +282,13 @@ Comentários:O artefato, no geral, segue os padrões. No entanto, o usuário da 
 
 Segue gráfico de aproveitamento dados os itens verificados
 
-Provisório - 83,33%
+<figcaption>Imagem 7: Gráfico de aproveitamento do Questionário </figcaption>
+
+<center>
+
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.2-StarPlus/gh-pages/docs/assets/graficosVer/83.png" alt="drawing" width="400"/>
+  
+<figcaption>Fonte: Autoria Própria, Grupo 6 </figcaption>
 
 Comentários:O artefato segue os padrões, mas não há chamada da tabela no texto e não há hyperlinks para facilitar a navegação
 
@@ -275,7 +313,13 @@ Comentários:O artefato segue os padrões, mas não há chamada da tabela no tex
 
 Segue gráfico de aproveitamento dados os itens verificados
 
-Provisório - 85,71%
+<figcaption>Imagem 8: Gráfico de aproveitamento do FTF </figcaption>
+
+<center>
+
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.2-StarPlus/gh-pages/docs/assets/graficosVer/85.png" alt="drawing" width="400"/>
+  
+<figcaption>Fonte: Autoria Própria, Grupo 6 </figcaption>
 
 Comentários:O artefato segue os padrões, mas não possui hyperlinks para facilitar a navegação
 
@@ -300,7 +344,13 @@ Comentários:O artefato segue os padrões, mas não possui hyperlinks para facil
 
 Segue gráfico de aproveitamento dados os itens verificados
 
-Provisório - 85,71%
+<figcaption>Imagem 9: Gráfico de aproveitamento do In or Out </figcaption>
+
+<center>
+
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.2-StarPlus/gh-pages/docs/assets/graficosVer/85.png" alt="drawing" width="400"/>
+  
+<figcaption>Fonte: Autoria Própria, Grupo 6 </figcaption>
 
 Comentários:O artefato segue os padrões, mas não possui hyperlinks para facilitar a navegação
   
@@ -326,7 +376,13 @@ Comentários:O artefato segue os padrões, mas não possui hyperlinks para facil
 
 Segue gráfico de aproveitamento dados os itens verificados
 
-Provisório - 100%
+<figcaption>Imagem 10: Gráfico de aproveitamento do Resultado da Elicitação </figcaption>
+
+<center>
+
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.2-StarPlus/gh-pages/docs/assets/graficosVer/100.png" alt="drawing" width="400"/>
+  
+<figcaption>Fonte: Autoria Própria, Grupo 6 </figcaption>
 
 Comentários:O artefato segue os padrões e não necessita de correção aparente.
 
@@ -356,7 +412,13 @@ Comentários:O artefato segue os padrões e não necessita de correção aparent
 
 Segue gráfico de aproveitamento dados os itens verificados
 
-Provisório - 92,30%
+<figcaption>Imagem 11: Gráfico de aproveitamento dos Cenários </figcaption>
+
+<center>
+
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.2-StarPlus/gh-pages/docs/assets/graficosVer/92.png" alt="drawing" width="400"/>
+  
+<figcaption>Fonte: Autoria Própria, Grupo 6 </figcaption>
 
 Comentários:O artefato segue os padrões, mas para que tudo esteja em ordem, falta colocar o título em alguns cenários.
 
@@ -384,7 +446,13 @@ Comentários:O artefato segue os padrões, mas para que tudo esteja em ordem, fa
 
 Segue gráfico de aproveitamento dados os itens verificados
 
-Provisório - 86,36
+<figcaption>Imagem 12: Gráfico de aproveitamento dos Léxicos </figcaption>
+
+<center>
+
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.2-StarPlus/gh-pages/docs/assets/graficosVer/86.png" alt="drawing" width="400"/>
+  
+<figcaption>Fonte: Autoria Própria, Grupo 6 </figcaption>
 
 Comentários:O artefato segue os padrões, mas não há hyperlinks para facilitar a navegação  as tabelas não possuem fonte .
 
@@ -417,7 +485,13 @@ Comentários:O artefato segue os padrões, mas não há hyperlinks para facilita
 
 Segue gráfico de aproveitamento dados os itens verificados
 
-Provisório - 93,35%   
+<figcaption>Imagem 13: Gráfico de aproveitamento dos casos de uso </figcaption>
+
+<center>
+
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.2-StarPlus/gh-pages/docs/assets/graficosVer/93.png" alt="drawing" width="400"/>
+  
+<figcaption>Fonte: Autoria Própria, Grupo 6 </figcaption>
 
 Comentários:O artefato segue os padrões, mas não há hyperlinks para facilitar a navegação.
 
@@ -443,7 +517,13 @@ Comentários:O artefato segue os padrões, mas não há hyperlinks para facilita
 
 Segue gráfico de aproveitamento dados os itens verificados
 
-Provisório - 100% 
+<figcaption>Imagem 14: Gráfico de aproveitamento da Especificação Suplementar </figcaption>
+
+<center>
+
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.2-StarPlus/gh-pages/docs/assets/graficosVer/100.png" alt="drawing" width="400"/>
+  
+<figcaption>Fonte: Autoria Própria, Grupo 6 </figcaption>
 
 Comentários:O artefato segue os padrões e não necessita de correção aparente.
 
@@ -471,7 +551,13 @@ Comentários:O artefato segue os padrões e não necessita de correção aparent
   
 Segue gráfico de aproveitamento dados os itens verificados  
   
-Provisório - 90,90%  
+<figcaption>Imagem 15: Gráfico de aproveitamento do NFR framework </figcaption>
+
+<center>
+
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.2-StarPlus/gh-pages/docs/assets/graficosVer/90.png" alt="drawing" width="400"/>
+  
+<figcaption>Fonte: Autoria Própria, Grupo 6 </figcaption>
   
 Comentários:O artefato segue os padrões, mas não há hyperlinks para facilitar a navegação.
 
@@ -499,7 +585,13 @@ Comentários:O artefato segue os padrões, mas não há hyperlinks para facilita
 
 Segue gráfico de aproveitamento dados os itens verificados
 
-Provisório - 90,90%  
+<figcaption>Imagem 16: Gráfico de aproveitamento do Backlog e histórias de usuário </figcaption>
+
+<center>
+
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.2-StarPlus/gh-pages/docs/assets/graficosVer/90.png" alt="drawing" width="400"/>
+  
+<figcaption>Fonte: Autoria Própria, Grupo 6 </figcaption>
 
 Comentários:O artefato segue os padrões, mas não há hyperlinks para facilitar a navegação.
 
