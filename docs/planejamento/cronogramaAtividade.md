@@ -14,7 +14,7 @@ Etapa | Entrega | Apresentação | Atividade(s) |
 6 | 16/01/2023 | 17/01/2023 | Análise de Requisitos: Verificação e Validação II
 7 | 23/01/2023 | 24/01/2023 | Pós-Rastreabilidade - Gerência II
 8 | 01/02/2023 | 02/02/2023 | Entrega da apresentação do projeto final
-
+<p> Fonte - Josué Teixeira, integrante do grupo 6</p>
 
 ### Primeira entrega - 21/11/2022
 ### Planejamento do projeto
@@ -28,8 +28,8 @@ Rich Picture | 28/06/2022 | Vinicius Assumpção | Thiago Vivan | 17/11/2022
 Definição de ferramentas e metodologias |  08/11/2022   | João Pedro de Camargo, Abdul Hannan | Josué | 20/11/2022 
 Cronograma detalhado | 17/11/2022 | Josué Teixeira, Thiago Vivan | Gabriel Roger | 20/11/2022
 Detalhamento das Metodologias | 17/11/2022 | Abdul Hannan, Gabriel Roger | Vinicius Assumpção | 19/11/2022
-
 <br>
+<p> Fonte - Josué Teixeira, integrante do grupo 6</p>
 
 ### Segunda entrega - 30/11/2022
 ### Elicitação de requisitos - técnicas e priorização
@@ -47,6 +47,7 @@ Priorização | 24/11/2022 | João Pedro de Camargo, Abdul Hannan | Thiago Vivan
 Gravação e entrega do vídeo de apresentação | 29/11/2022 | Todos os participantes do grupo 6 | Todos os participantes do grupo 6 |29/11/2022
 Apresentação do projeto na aula | 22/11/2022 | Todos os participantes do grupo 6 | Todos os participantes do grupo 6 |---------
 <br>
+<p> Fonte - Josué Teixeira, integrante do grupo 6</p>
 
 ### Terceira entrega - 12/11/2022
 ### Modelagem de requisitos - Cenários e Léxicos
@@ -60,7 +61,7 @@ Léxicos | 07/12/2022 | Josué Teixeira | Gabriel Roger | 09/12/2022
 Especificação suplementar | 06/12/2022 | João Pedro de Camargo Vaz |  Vinicius Assumpção | 09/12/2022
 Gravação do vídeo | 10/12/2022 | Todos os participantes do grupo 6 | Todos os participantes do grupo 6 | 10/12/2022
 Entrega do vídeo | 11/12/2022 | Todos os participantes do grupo 6 | Todos os participantes do grupo 6 | 11/12/2022
-
+<p> Fonte - Josué Teixeira, integrante do grupo 6</p>
 
 ### Quarta Entrega - 04/01/2023
 ### Modelagem de requisitos - Ágil
@@ -74,7 +75,7 @@ Histórias de usuário  | 10/12/2022 | Vinicius Assumpção, Thiago Vivan | Abdu
 NFR Framework | 10/12/2022 | Todos os participantes do grupo 6| Todos os participantes do grupo 6 | 03/01/2023
 Entrega do vídeo | 10/12/2022 | Todos os participantes do grupo 6 | Todos os participantes do grupo 6| 03/01/2023
 <br>
-
+<p> Fonte - Josué Teixeira, integrante do grupo 6</p>
 
 ### Quinta entrega - 09/01/2023
 ###  Análise de Requisitos - Verificação e Validação I
@@ -89,7 +90,7 @@ Verificação Priorização e Brainstorming, Introspecção | 04/01/2023| Abdul 
 Verificação Backlog e RichPicture | 04/01/2023 | Josué Teixeira, Gabriel Roger | João Pedro de Camargo | 10/01/2023
 Verificação Casos de Uso e Perfil do Usuário | 04/01/2023|  Vinicius Assumpção, Thiago Vivan | Abdul Hannan | 10/01/2023
 <br>
-
+<p> Fonte - Josué Teixeira, integrante do grupo 6</p>
 
 ### Sexta entrega - 17/01/2023
 ###  Análise de Requisitos - Verificação e Validação II
@@ -102,6 +103,7 @@ Validação - Comprovação Informal | 11/01/2023 | João Pedro de Camargo, Vini
 Planejamento da etapa 07: Separação e distribuição das atividades para os membros  | 11/01/2023 | Abdul Hanna, Josué Teixeira | Todos | 16/01/2023 | 
 Gravação do vídeo | 11/01/2023 | Todos os participantes do grupo 6 | Todos os participantes do grupo 6 | 16/01/2023
 <br>
+<p> Fonte - Josué Teixeira, integrante do grupo 6</p>
 
 ### Sétima entrega - 24/01/2023
 ###  Análise de Requisitos - Pós-Rastreabilidade - Gerência II
@@ -114,6 +116,7 @@ Documento forward-form | 17/01/2023 | João Pedro de Camargo, Vinicius Assumpç�
 Planejamento da etapa 08: Separação e distribuição das atividades para os membros  | 17/01/2023 | Abdul Hanna, Josué Teixeira | Todos | 24/01/2023 | 
 Gravação do vídeo | 17/01/2023 | Todos os participantes do grupo 6 | Todos os participantes do grupo 6| 24/01/2023
 <br>
+<p> Fonte - Josué Teixeira, integrante do grupo 6</p>
 
 ### Última entrega - 02/02/2023
 ### Projeto final
@@ -126,14 +129,15 @@ Complemento das ferramentas: onde foram utilizadas no projeto | 25/01/2023 | Tod
 Complemento: técnicas e métodos utilizadas no projeto | 25/01/2023 | Todos os participantes do grupo 6 | Todos os participantes do grupo 6 | 01/02/2023
 Entrega do arquivo | 25/01/2023 | Todos os participantes do grupo 6 | Todos os participantes do grupo 6 | 01/02/2023
 <br>
-
+<p> Fonte - Josué Teixeira, integrante do grupo 6</p>
 
 ## Histórico de Versão
 
 | Versão | Data | Descrição | Autor | Revisor
 |--------|------|-----------|-------| -------
 | 1.0 | 15/11/2022 | Documento Inicial | [Gabriel](https://github.com/GabrielRoger07) | [Josué](https://github.com/zjosuez)
-| 1.1 | 29/11/2022 | Adicionado novas informações as tabelas | [Josué](https://github.com/GabrielRoger07) | [Gabriel](https://github.com/zjosuez)
-| 1.2 | 30/11/2022 | correção de erro na tabela | [Josué](https://github.com/GabrielRoger07) | [Gabriel](https://github.com/zjosuez)
-|1.3|11/12/2022|atualização para terceira entrega|[Abdul hannan](https://github.com/hannanhunny01)|[Thiago Vivan](https://github.com/hannanhunny01) |
+| 2.0 | 29/11/2022 | Adicionado novas informações as tabelas | [Josué](https://github.com/GabrielRoger07) | [Gabriel](https://github.com/zjosuez)
+| 3.0 | 30/11/2022 | correção de erro na tabela | [Josué](https://github.com/GabrielRoger07) | [Gabriel](https://github.com/zjosuez)
+|4.0|11/12/2022|atualização para terceira entrega|[Abdul hannan](https://github.com/hannanhunny01)|[Thiago Vivan](https://github.com/hannanhunny01) |
+| 5.0 | 10/01/23 | Adequação ao padrão e adição da fonte das tabelas | [Vinicius](https://github.com/viniman27) | [Gabriel](https://github.com/GabrielRoger07)|
 
