@@ -12,13 +12,16 @@ A reunião foi iniciada às 16:30 e finalizada às 17:20.
 ## Objetivos
 Revisar os artefatos desenvolvidos no terceiro ponto de controle, revisar os artefatos desenvolvidos para o quarto e definir tarefas para o ponto de controle 5
 ## Tarefas
+
+Tabela 1: Atividades a serem feitas
+
 | Tarefa | Responsável |
 | ---- | ---- |
 | Revisar e feedback do monitor NFR(Abdul),cenários(Thiago) | Thiago  e Abdul
 | Revisar feedback do monitor dos casos de uso(Vinicius) e especificação suplementar(João)|  Vinicius e João
 | Revisar feedback do monitor desenvover agil e léxicos, além da entrevista para validar o perfil de usuário | Gabriel(Agil) e Josué(léxicos)
 
-Tabela 1: Atividades a serem feitas
+Fonte: Grupo 6
 
 ## Gravação da reunião
 https://unbbr.sharepoint.com/:v:/s/RequisitosdeSoftware-Time6/ESvH153H9lNMv2pjdmIon8YB_-hOv63KxZFTMN5SXWAQ9g?e=lqb7WT
