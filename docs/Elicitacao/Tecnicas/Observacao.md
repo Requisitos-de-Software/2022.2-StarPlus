@@ -11,6 +11,7 @@ A partir da definição da técnica, os dois participantes da etapa realizaram a
 Nesse interim, Uma reunião com um usuário do StarPlus não integrante da equipe e pediu/guiou a realização da técnica. O nome desse usuário externo é Davi Borges.</p>
 
 Tabela 1: Dados do usuário externo.
+
 | Nome | Idade | Gênero| Ocupação | Cidade/Estado |
 | :-: | :-------- | :-----: | :--------: | :--------: |
 |Davi Borges| 20 anos| Masculino  | Estudante  | Brasília/DF |
