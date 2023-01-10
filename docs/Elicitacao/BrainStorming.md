@@ -3,8 +3,8 @@
 A técnica de elicitação através do brainstorming é baseada em uma reunião, com um espaço de tempo pré-definido, entre os engenheiros de requisitos, com o objetivo de explorar ideias, interagir com os outros participantes e compartilhar suas opiniões. Assim, listando a maior quantidade de requisitos possível, visando entender o que os usuários querem e precisam. Normalmente esta técnica é utilizada no inicío do processo de elicitação, quando pouco do produto, do processo e do projeto é conhecido.
 É importante levar em consideração as Personas definidas durante o processo de Brainstorm.
 
-## Processo
-A reunião ocorreu no dia  25/11/2022 as 12horas ate 12:30 na forma presencial onde todos os membros da equipe discutiram juntos sobre os possíveis Requisitos Funcionais e Não-Funcionais
+## Documentação
+A reunião ocorreu no dia  25/11/2022 as 12horas ate 12:30 na forma presencial onde todos os membros da equipe discutiram juntos sobre os possíveis Requisitos Funcionais e Não-Funcionais. Os resultados podem ser vistos nas tabelas 2 e 3.
 
 ## Participantes
  | Membros|
