@@ -50,12 +50,12 @@ Basicamente, na Inspeção, são feitos checklists que buscam encontrar defeitos
 | Backlog + Histórias       | João Pedro  | Vinicius |
 | Validação                 | João Pedro | Gabriel  |
 <p style="text-align: center">Tabela 1: Planejamento do artefato</p>
-<p style="text-align: center">Fonte: Josué Teixeira</p>
+<p style="text-align: center">Fonte: Josué Teixeira, integrante do grupo 6</p>
 
 ## 3. Inspeção
 
 ### 3.1 Legenda
-Para cada item de cada um dos checklists, foram escritos "Sim" caso o item se encontrasse presente no artefato e "Não" caso contrário.
+Para cada item de cada um dos checklists, foram escritos "Sim" caso o item se encontrasse presente no artefato,"Não" caso contrário ou "incompleto" caso necessite de ajustes pontuais.
 
 ### 3.2 Rich Picture
 | Item        | Inspeção |
@@ -68,7 +68,7 @@ Para cada item de cada um dos checklists, foram escritos "Sim" caso o item se en
 | Há título? | Sim |
 
 <p id="tamanho" style="text-align: center">Tabela 2: Rich Picture</p>
-<p id="tamanho" style="text-align: center">Fonte: João Pedro</p>
+<p id="tamanho" style="text-align: center">Fonte: João Pedro, integrante do grupo 6</p>
 
 #### 3.2.1 Correção e Acompanhamento
 
@@ -83,7 +83,7 @@ Para cada item de cada um dos checklists, foram escritos "Sim" caso o item se en
 | Todas as personas são condizentes com pessoas? | Sim |
 | As imagens encontradas são de pessoas ? existentes? | Sim, Não |
 <p id="tamanho" style="text-align: center">Tabela 3: Personas</p>
-<p id="tamanho" style="text-align: center">Fonte: Vinicius</p>
+<p id="tamanho" style="text-align: center">Fonte: Vinicius, integrante do grupo 6</p>
 
 #### 3.3.1 Correção e Acompanhamento
 O artefato segue os padrões e não necessita de correção aparente.
@@ -94,7 +94,7 @@ O artefato segue os padrões e não necessita de correção aparente.
 | Os perfis de usuários estão definidos | Sim |
 | Os perfis de usuários possuem experiência, nível de alfabetização e faixa etária? | Incompleto |
 <p id="tamanho" style="text-align: center">Tabela 4: Perfil de Usuário</p>
-<p id="tamanho" style="text-align: center">Fonte: Vinicius</p>
+<p id="tamanho" style="text-align: center">Fonte: Vinicius, integrante do grupo 6</p>
 
 #### 3.4.1 Correção e Acompanhamento
  O artefato, no geral, segue os padrões. É recomendado a criação de pelo menos um tópico ou uma aba específica para tornar o acesso e leitura do perfil de usuário mais clara. Além disso , recomenda-se um detalhamento maior, visto que o único perfil elicitado não parece abranger toda a gama de usuários. 
@@ -108,7 +108,7 @@ O artefato segue os padrões e não necessita de correção aparente.
 | Há uma divisão entre os requisitos funcionais e os não-funcionais? | Sim |
 | Todos os requisitos possuem um ID? | Sim |
 <p id="tamanho" style="text-align: center">Tabela 5: Personas</p>
-<p id="tamanho" style="text-align: center">Fonte: João Pedro</p>
+<p id="tamanho" style="text-align: center">Fonte: João Pedro, integrante do grupo 6</p>
 
 #### 3.5.1 Correção e Acompanhamento
  O artefato segue os padrões e não necessita de correção aparente.
@@ -123,7 +123,7 @@ O artefato segue os padrões e não necessita de correção aparente.
 | Há uma divisão entre os requisitos funcionais e os não-funcionais? | Sim |
 | Foi explicitado os participantes da instrospecção? | Sim |
 <p id="tamanho" style="text-align: center">Tabela 6: Introspecção</p>
-<p id="tamanho" style="text-align: center">Fonte: Gabriel</p>
+<p id="tamanho" style="text-align: center">Fonte: Gabriel, integrante do grupo 6</p>
 
 #### 3.6.1 Correção e Acompanhamento
 O artefato segue os padrões e não necessita de correção aparente.
@@ -137,7 +137,7 @@ O artefato segue os padrões e não necessita de correção aparente.
 | Todos os requisitos possuem um ID? | Sim |
 | Há uma divisão entre os requisitos funcionais e os não-funcionais? | Sim |
 <p id="tamanho" style="text-align: center">Tabela 7: Observação</p>
-<p id="tamanho" style="text-align: center">Fonte: Gabriel</p>
+<p id="tamanho" style="text-align: center">Fonte: Gabriel, integrante do grupo 6</p>
 
 #### 3.7.1 Correção e Acompanhamento
  O artefato, no geral, segue os padrões. No entanto, o usuário da observação não foi identificado, não há gravações ou prints.
@@ -150,7 +150,7 @@ O artefato segue os padrões e não necessita de correção aparente.
 | Todos os requisitos possuem um ID? | Sim |
 | Há uma divisão entre os requisitos funcionais e os Não-funcionais? | Sim |
 <p id="tamanho" style="text-align: center">Tabela 8: Questionário</p>
-<p id="tamanho" style="text-align: center">Fonte: João Pedro</p>
+<p id="tamanho" style="text-align: center">Fonte: João Pedro, integrante do grupo 6</p>
 
 #### 3.8.1 Correção e Acompanhamento
 
@@ -164,7 +164,7 @@ O artefato segue os padrões e não necessita de correção aparente.
 | Há uma descrição de cada um dos tipos de prioridade? (Alta, Média e Baixa) |Sim|
 | O usuário que fez parte da priorização foi identificado? |Não|
 <p id="tamanho" style="text-align: center">Tabela 9: Escala de Três Níveis</p>
-<p id="tamanho" style="text-align: center">Fonte: Vinicius</p>
+<p id="tamanho" style="text-align: center">Fonte: Vinicius, integrante do grupo 6</p>
 
 #### 3.9.1 Correção e Acompanhamento
 
@@ -177,7 +177,7 @@ O artefato segue os padrões e não necessita de correção aparente.
 | Todos os requisitos elicitados tiveram sua prioridade feita? |Sim |
 | O usuário que fez parte da priorização foi identificado? | Sim |
 <p id="tamanho" style="text-align: center">Tabela 10: First Things First</p>
-<p id="tamanho" style="text-align: center">Fonte: Gabriel</p>
+<p id="tamanho" style="text-align: center">Fonte: Gabriel, integrante do grupo 6</p>
 
 #### 3.10.1 Correção e Acompanhamento
 
@@ -190,7 +190,7 @@ O artefato segue os padrões e não necessita de correção aparente.
 | Todos os requisitos elicitados tiveram sua prioridade feita? |Sim |
 | O usuário que fez parte da priorização foi identificado? | Sim |
 <p id="tamanho" style="text-align: center">Tabela 11: In or Out</p>
-<p id="tamanho" style="text-align: center">Fonte: João Pedro</p>
+<p id="tamanho" style="text-align: center">Fonte: João Pedro, integrante do grupo 6</p>
 
 #### 3.11.1 Correção e Acompanhamento
   Está tudo de acordo com os conformes.
@@ -202,7 +202,7 @@ O artefato segue os padrões e não necessita de correção aparente.
 | Os requisitos estão bem escritos e claros? | Sim |
 | Há uma divisão entre os requisitos funcionais e os ?-funcionais? | Sim |
 <p id="tamanho" style="text-align: center">Tabela 12: Resultado Elicitação</p>
-<p id="tamanho" style="text-align: center">Fonte: Gabriel</p>
+<p id="tamanho" style="text-align: center">Fonte: Gabriel, integrante do grupo 6</p>
 
 #### 3.12.1 Correção e Acompanhamento
 
@@ -221,7 +221,7 @@ O artefato segue os padrões e não necessita de correção aparente.
 | Os episódios são bem descritos? | Sim |
 | Os cenários fazem sentido com os requisitos? | Sim |
 <p id="tamanho" style="text-align: center">Tabela 13: Cenários</p>
-<p id="tamanho" style="text-align: center">Fonte: Gabriel</p>
+<p id="tamanho" style="text-align: center">Fonte: Gabriel, integrante do grupo 6</p>
 
 #### 3.13.1 Correção e Acompanhamento
 
@@ -236,7 +236,7 @@ O artefato segue os padrões e não necessita de correção aparente.
 | Todos os léxicos tem impactos relacionados a eles? | Sim |
 | As noções de todos os léxicos fazem sentido com eles? | Sim |
 <p id="tamanho" style="text-align: center">Tabela 14: Léxicos</p>
-<p id="tamanho" style="text-align: center">Fonte: Vinicius</p>
+<p id="tamanho" style="text-align: center">Fonte: Vinicius, integrante do grupo 6</p>
 
 #### 3.14.1 Correção e Acompanhamento
 
@@ -257,7 +257,7 @@ O artefato segue os padrões e não necessita de correção aparente.
 | Os casos de uso fazem sentido com os requisitos? | Sim |
 | Os fluxos principais são completos? | Sim |
 <p id="tamanho" style="text-align: center">Tabela 15: Casos de Uso</p>
-<p id="tamanho" style="text-align: center">Fonte: João Pedro</p>
+<p id="tamanho" style="text-align: center">Fonte: João Pedro, integrante do grupo 6</p>
 
 #### 3.15.1 Correção e Acompanhamento
 
@@ -271,7 +271,7 @@ O artefato segue os padrões e não necessita de correção aparente.
 | Cada uma das letras possuem pelo menos um requisito relacionado a elas? | Sim |
 | Todos os requisitos são mensuráveis e avaliáveis? | Sim |
 <p id="tamanho" style="text-align: center">Tabela 16: Especificação Suplementar</p>
-<p id="tamanho" style="text-align: center">Fonte: Vinicius</p>
+<p id="tamanho" style="text-align: center">Fonte: Vinicius, integrante do grupo 6</p>
 
 #### 3.16.1 Correção e Acompanhamento
 
@@ -287,7 +287,7 @@ O artefato segue os padrões e não necessita de correção aparente.
 | Há uma legenda para cada elemento usado nos diagramas? | Sim |
 | Há um diagrama para cada tipo de requisito-funcional encontrado na especificação suplementar? |Sim|
 <p id="tamanho" style="text-align: center">Tabela 17: NFR Framework</p>
-<p id="tamanho" style="text-align: center">Fonte: Gabriel</p>
+<p id="tamanho" style="text-align: center">Fonte: Gabriel, integrante do grupo 6</p>
 
 #### 3.17.1 Correção e Acompanhamento
   O artefato segue os padrões e não necessita de correção aparente.
@@ -302,7 +302,7 @@ O artefato segue os padrões e não necessita de correção aparente.
 | Há gravação para a reunião de priorização? | Sim |
 | As histórias seguem um padrão? (quem, o que, para que) | Sim |
 <p id="tamanho" style="text-align: center">Tabela 18: Backlog do Produto + Histórias de Usuário</p>
-<p id="tamanho" style="text-align: center">Fonte: João Pedro</p>
+<p id="tamanho" style="text-align: center">Fonte: João Pedro, integrante do grupo 6</p>
 
 #### 3.18.1 Correção e Acompanhamento
 
@@ -316,7 +316,8 @@ O artefato segue os padrões e não necessita de correção aparente.
 ## 5. Histórico de Versão
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ----------- |
-| 1.0    | 04/01/2023 | Início do documento com introdução, metodologia, checklists | Vinicius Assumpção, João Pedro Vaz e Gabriel Roger | Vinicius Assumpção, João Pedro Vaz e Gabriel Roger |
-| 2.0    | 05/01/2023 | Finalização da verificação dos artefatos do grupo 7 | Vinicius Assumpção, João Pedro Vaz e Gabriel Roger | Vinicius Assumpção, João Pedro Vaz e Gabriel Roger |
- 3.0    | 09/01/2023 | Foi realizada algumas alterações nas verificações, inclusão de títulos e fontes nas tabelas e correção de erros. | Josué Teixeira | Abdul Hannan |
+| 1.0    | 04/01/2023 | Início do documento com introdução, metodologia, checklists | [Vinicius Assumpção](https://github.com/viniman27), [João Pedro Vaz](https://github.com/JoaoPedro0803) e [Gabriel Roger](https://github.com/GabrielRoger07) | [Vinicius Assumpção](https://github.com/viniman27), [João Pedro Vaz](https://github.com/JoaoPedro0803) e [Gabriel Roger](https://github.com/GabrielRoger07) |
+| 2.0    | 05/01/2023 | Finalização da verificação dos artefatos do grupo 7 | [Vinicius Assumpção](https://github.com/viniman27), [João Pedro Vaz](https://github.com/JoaoPedro0803) e [Gabriel Roger](https://github.com/GabrielRoger07) | [Vinicius Assumpção](https://github.com/viniman27), [João Pedro Vaz](https://github.com/JoaoPedro0803) e [Gabriel Roger](https://github.com/GabrielRoger07) |
+ 3.0    | 09/01/2023 | Foi realizada algumas alterações nas verificações, inclusão de títulos e fontes nas tabelas e correção de erros. | [Josué Teixeira](https://github.com/zjosuez) | [Abdul Hannan](https://github.com/hannanhunny01) |
+ 4.0    | 09/01/2023 | Foi realizada algumas alterações com base no feedback da apresentação 5 |[Vinicius Assumpção](https://github.com/viniman27) e [Gabriel Roger](https://github.com/GabrielRoger07) | [Abdul Hannan](https://github.com/hannanhunny01) e [João Pedro Vaz](https://github.com/JoaoPedro0803) |
 
