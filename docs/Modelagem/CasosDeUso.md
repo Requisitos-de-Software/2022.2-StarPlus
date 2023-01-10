@@ -99,7 +99,7 @@
 ### 3.1 Fluxo de perfil
 
 
-Tabela 1: Fluxo de perfil
+Tabela 2: Fluxo de perfil
 
 | UC01 | Informações | 
 | :----: | :------:|
@@ -116,7 +116,7 @@ Fonte: Vinicius e João,integrantes do grupo 6
 ### 3.2 Fluxo de título
 
 
-Tabela 2: Fluxo de título
+Tabela 3: Fluxo de título
 
 | UC02 | Informações | 
 | :----: | :------:|
@@ -132,7 +132,7 @@ Fonte: Vinicius e João,integrantes do grupo 6
 
 ### 3.3 Fluxo de conteúdo
 
- Tabela 3: Fluxo de conteúdo
+ Tabela 4: Fluxo de conteúdo
 
 | UC03 | Informações | 
 | :----: | :------:|
@@ -148,7 +148,7 @@ Fonte: Vinicius e João,integrantes do grupo 6
  
  ### 3.4 Fluxo de lista
  
- Tabela 4: Fluxo de lista 
+ Tabela 5: Fluxo de lista 
   
 | UC04 | Informações | 
 | :----: | :------:|
@@ -165,7 +165,7 @@ Fonte: Vinicius e João,integrantes do grupo 6
   
 ### 3.5 Fluxo de busca
 
-Tabela 5: Fluxo de busca
+Tabela 6: Fluxo de busca
   
 | UC05 | Informações | 
 | :----: | :------:|
@@ -182,7 +182,7 @@ Fonte: Vinicius e João,integrantes do grupo 6
   
 ### 3.6 Fluxo de alteração do idioma
 
-Tabela 6: Fluxo de alteração do idioma
+Tabela 7: Fluxo de alteração do idioma
   
 | UC06 | Informações | 
 | :----: | :------:|
@@ -204,7 +204,7 @@ Fonte: Vinicius e João,integrantes do grupo 6
 
 ### 3.7 Fluxo de reprodução em segundo plano
 
-Tabela 7: Fluxo de reprodução em segundo plano
+Tabela 8: Fluxo de reprodução em segundo plano
 
 | UC07 | Informações | 
 | :----: | :------:|
@@ -220,7 +220,7 @@ Fonte: Vinicius e João,integrantes do grupo 6
 
 ### 3.8 Fluxo de compartilhamento do título
 
-Tabela 8: Fluxo de compartilhamento do título
+Tabela 9: Fluxo de compartilhamento do título
 
 | UC08 | Informações | 
 | :----: | :------:|
@@ -236,7 +236,7 @@ Fonte: Vinicius e João,integrantes do grupo 6
 
 ### 3.9 Fluxo de detalhamento do título
 
-Tabela 9: Fluxo de detalhamento do título
+Tabela 10: Fluxo de detalhamento do título
 
 | UC09 | Informações | 
 | :----: | :------:|
@@ -252,7 +252,7 @@ Fonte: Vinicius e João,integrantes do grupo 6
 
 ### 3.10 Fluxo de configurações da legenda
 
-Tabela 10: Fluxo de configurações da legenda
+Tabela 11: Fluxo de configurações da legenda
 
 | UC10 | Informações | 
 | :----: | :------:|
@@ -268,7 +268,7 @@ Fonte: Vinicius e João,integrantes do grupo 6
 
 ### 3.11 Fluxo de configurações da velocidade de reprodução
 
-Tabela 11: Fluxo de configurações da velocidade de reprodução
+Tabela 12: Fluxo de configurações da velocidade de reprodução
 
 | UC11 | Informações | 
 | :----: | :------:|
@@ -284,7 +284,7 @@ Fonte: Vinicius e João,integrantes do grupo 6
 
 ### 3.12 Fluxo de download
 
-Tabela 12: Fluxo de download
+Tabela 13: Fluxo de download
 
 | UC12 | Informações | 
 | :----: | :------:|
@@ -300,7 +300,7 @@ Fonte: Vinicius e João,integrantes do grupo 6
 
 ### 3.13 Fluxo de configuração de rede móvel
 
-Tabela 13: Fluxo de configuração de rede móvel
+Tabela 14: Fluxo de configuração de rede móvel
 
 | UC13 | Informações | 
 | :----: | :------:|
