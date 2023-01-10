@@ -86,3 +86,4 @@ Verificação Casos de Uso e Perfil do Usuário | 04/01/2023|  Vinicius Assumpç
 |--------|------|-----------|-------| -------
 | 1.0 | 30/11/22 | Documento com as datas e quem realizou a atividade; correção ortografica; | [Josué](https://github.com/zjosuez) | [Gabriel](https://github.com/GabrielRoger07) 
 |2.0|12/08/2022|atualização para terceira entrega|[Abdul hannan](https://github.com/hannanhunny01)|[Thiago Vivan](https://github.com/thiago-vivan) |
+|3.0|12/08/2022|atualização para quarta e quinta entregas|[Abdul hannan](https://github.com/hannanhunny01)|[Thiago Vivan](https://github.com/thiago-vivan) |
