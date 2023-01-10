@@ -6,7 +6,7 @@
 &emsp;&emsp;
 ## 2. Formação do Elenco de Persona e Anti-Persona
 
-&emsp;&emsp;O Elenco e a quantidade de personas foi definido após uma reunião com os integrantes do grupo. A quantidade de personas foi definido de forma que todos os perfis de usuários fossem devidamente representados, tanto jovens, quanto pessoas mais experiêntes, com muito ou pouco conhecimento em tecnologia. Resultando em três personas e uma anti-persona. As personas criadas estão representadas nas tabelas logo abaixo. As imagens utilizadas foram obtidas do site ThisPersonDoesNotExist um site que gera imagens sem direitos autorais.
+&emsp;&emsp;O Elenco e a quantidade de personas foi definido após uma reunião com os integrantes do grupo. A quantidade de personas foi definido de forma que todos os perfis de usuários fossem devidamente representados, tanto jovens, quanto pessoas mais experiêntes, com muito ou pouco conhecimento em tecnologia. Resultando em três personas(tabelas 1 a 3) e uma anti-persona(tabela 4). As personas criadas estão representadas nas tabelas logo abaixo. As imagens utilizadas foram obtidas do site ThisPersonDoesNotExist um site que gera imagens sem direitos autorais.
 
 ## 3. Personas
 ### 3.1 Pedro Miguel Santos
