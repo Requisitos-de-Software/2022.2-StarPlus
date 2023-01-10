@@ -38,7 +38,7 @@ Fonte: Thiago Vivan, Abdul Hannan
 | Recursos | Dispositivo com acesso a internet<br>Forma de pagamento válida<br>Email válido |
 | Exceção | Perda da conexão com a internet<br>Dados fornecidos inválidos |
 | Episódios | Acessar site ou aplicativo Star+<br>Clicar em Criar conta<br>Preencher os dados necessários<br>Confirmar e-mail |
-| Rastreabilidade | RF1 |
+| Rastreabilidade | [RF1](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado) |
 
 Tabela 2: Cenario 1. 
 
@@ -55,7 +55,7 @@ Fonte: Thiago Vivan, Abdul Hannan
 | Recursos | Computador ou SmartPhone com Internet , Acesso a Star+ |
 | Exceção | Sem Internet, Sem Assinatura |
 | Episódios | Acessar site ou aplicativo Star+</br>Clicar em Criar conta</br>Preencher os dados necessários</br>Confirmar e-mail |
-| Rastreabilidade |RF3|
+| Rastreabilidade |[RF2](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado)|
 
 Tabela 3: Cenario 2. 
 
@@ -72,7 +72,7 @@ Fonte: Thiago Vivan, Abdul Hannan
 | Recursos | Computador ou SmartPhone com Internet ,Acesso a StarPlus |
 | Exceção | Assinante desistir de cancelar a assinatura, Assinante esquecer a senha |
 | Episódios |    Clicar em Configurações de conta</br>Clicar em apagar Conta</br>Selecionar motivo</br>Clicar em "tenho certeza" |
-| Rastreabilidade |RF3|
+| Rastreabilidade |[RF3](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado)|
 
 Tabela 4: Cenario 3. 
 
@@ -88,7 +88,7 @@ Fonte: Thiago Vivan, Abdul Hannan
 | Recursos | Computador ou SmartPhone com Internet ,Acesso a StarPlus |
 | Exceção | Perda de conexão com a internet |
 | Episódios | Na página principal apos login</br>clique em Minha lista e selecione um título </br>E em seguida, selecione a marca de seleção |
-| Rastreabilidade |RF8|
+| Rastreabilidade |[RF8](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado)|
 
 Tabela 5: Cenario 4. 
 
@@ -104,7 +104,7 @@ Fonte: Thiago Vivan, Abdul Hannan
 | Recursos | Dispositivo com acesso a internet e compatível com Star+ |
 | Exceção | Perda de conexão com a internet |
 | Episódios | Acessar Configurações</br>Clicar em Ajuda |
-| Rastreabilidade | RF10 |
+| Rastreabilidade | [RF10](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado) |
 
 Tabela 6: Cenario 5. 
 
@@ -120,7 +120,7 @@ Fonte: Thiago Vivan, Abdul Hannan
 | Recursos | Dispositivo com acesso a internet e compatível com Star+</br>Conta Star+ Ativa |
 | Exceção | Perda de conexão com a internet |
 | Episódios | Clicar em botão de próximo episodio |
-| Rastreabilidade | RF11 |
+| Rastreabilidade |[ RF11](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado) |
 
 Tabela 7: Cenario 6. 
 
@@ -136,7 +136,7 @@ Fonte: Thiago Vivan, Abdul Hannan
 | Recursos | Dispositivo com acesso a internet e compatível com Star+</br>Conta Star+ Ativa |
 | Exceção | Perda de conexão com a internet |
 | Episódios | Clicar no titulo a qual quer assistir |
-| Rastreabilidade | RF17 |
+| Rastreabilidade | [RF17](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado) |
 
 Tabela 8: Cenario 7. 
 
@@ -152,7 +152,7 @@ Fonte: Thiago Vivan, Abdul Hannan
 | Recursos | Dispositivo com acesso a internet e compatível com Star+</br>Conta Star+ Ativa |
 | Exceção | Perda de conexão com a internet </br>Histórico está vazio |
 | Episódios | Clicar em Histórico de Reprodução |
-| Rastreabilidade | RF19 |
+| Rastreabilidade | [RF19](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado) |
 
 Tabela 9: Cenario 8. 
 
@@ -168,7 +168,7 @@ Fonte: Thiago Vivan, Abdul Hannan
 | Recursos | Dispositivo com acesso a internet e compatível com Star+ |
 | Exceção | Perda de conexão com a internet |
 | Episódios | o usuário clica na barra de pesquisa na página principal,</br>o usuário escolhe a opção de digitação ou comando pelo microfone,</br>o usuário clica no botão de pesquisa |
-| Rastreabilidade | RF21 |
+| Rastreabilidade | [RF21](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado) |
 
 Tabela 10: Cenario 9. 
 
@@ -184,7 +184,7 @@ Fonte: Thiago Vivan, Abdul Hannan
 | Recursos | Dispositivo com acesso a internet e compatível com Star+</br>Conta Star+ Ativa |
 | Exceção | Perda de conexão com a internet  |
 | Episódios |O usuário Clica na barra de pesquisa na página principal</br>O usuário clica em Filtros</br>O usuário seleciona os Filtros desejados</br>O usuário clica em Aplicar filtros |
-| Rastreabilidade | RF22 |
+| Rastreabilidade | [RF22](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado) |
 
 Tabela 11: Cenario 10. 
 
@@ -200,7 +200,7 @@ Fonte: Thiago Vivan, Abdul Hannan
 | Recursos | Dispositivo com acesso a internet e compatível com Star+</br>Conta Star+ Ativa |
 | Exceção | Perda de conexão com a internet</br>Nova forma de pagamento inválida  |
 | Episódios | Clicar no botão Conta Star+</br>Clicar em Assinatura</br>Clicar em Detalhes de Assinatura</br>Inserir novos dados</br>Clicar em Salvar |
-| Rastreabilidade | RF23 |
+| Rastreabilidade | [RF23](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado) |
 
 Tabela 12: Cenario 11. 
 
@@ -216,7 +216,7 @@ Fonte: Thiago Vivan, Abdul Hannan
 | Recursos |Dispositivo móvel com acesso a internet e compatível com Star+</br>Conta Star+ Ativa |
 | Exceção | Perda da conexão com a internet durante o download |
 | Episódios | Clicar em Baixar titulo/episodio |
-| Rastreabilidade | RF24 |
+| Rastreabilidade | [RF24](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado) |
 
 Tabela 13: Cenario 12. 
 
@@ -233,7 +233,7 @@ Fonte: Thiago Vivan, Abdul Hannan
 | Recursos | Dispositivo com acesso a internet e compatível com Star+</br>Conta Star+ Ativa |
 | Exceção |  título sem legendas ou sem dublagem idioma  |
 | Episódios | Abra o StarPlus.</br>Selecione um programa de TV ou filme.</br>Comece a jogar e execute a ação listada para o seu dispositivo:</br>Na parte superior ou inferior da tela, selecione Áudio e legendas . Nas TVs, as opções de idioma podem aparecer na parte inferior sem o ícone. Você pode escolher entre os idiomas mostrados ou selecionar Outros para ver todas as opções de idioma.</br>Faça alterações nas seleções de áudio ou legenda. |
-| Rastreabilidade | RF25,RF28 |
+| Rastreabilidade | [RF25,RF28](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/Resultado) |
 
 Tabela 14: Cenario 13. 
 
@@ -248,3 +248,4 @@ SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 10. 1º/2019. 35 slides. 
 | :----: | :--: | :-------: | :---: | :-----: |
 | 1.0 | 08/12/2022 | Criação dos cenários | [Thiago Vivan Bastos](https://github.com/thiago-vivan),[Abdul Hannan](https://github.com/hannanhunny01)  | [Abdul Hannan](https://github.com/hannanhunny01) |
 | 1.1 | 13/12/2022 | correção ortográfica | [Josué Teixeira](https://github.com/zjosuez) | [Thiago Vivan Bastos](https://github.com/thiago-vivan)
+| 1.2 | 1/10/2023 | Adicao de hiperlinks para Rastreabilidade  | [Abdul hannan](https://github.com/hannanhunny01) | [Josué Teixeira](https://github.com/zjosuez)
