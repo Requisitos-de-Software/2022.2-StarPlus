@@ -120,7 +120,7 @@ Tabela 3: Fluxo de perfil
 | :----: | :------:|
 | Descrição | O usuário deve ser capaz de criar um perfil |
 | Pré-condições | Acesso à internet e um dispositivo válido |
-| Ator | Usuário com baixo e/ou alto dominio tecnológico |
+| Ator | [Usuário com baixo e/ou alto dominio tecnológico](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/PerfildeUsuario) |
 | Ação | O usuário cria uma conta utilizando seus dados |
 | Fluxo principal | <ul><li>O usuário acessa a aplicação</li><li>O usuário seleciona a opção de criar uma conta</li><li>O usuário fornece seus dados</li></ul> |
 | Pós-condições | O usuário poderá acessar um perfil específico |
@@ -137,7 +137,7 @@ Tabela 4: Fluxo de título
 | :----: | :------:|
 | Descrição | O usuário deve ser capaz de assistir um título |
 | Pré-condições | Uma conta válida e um título |
-| Ator | Usuário com baixo e/ou alto dominio tecnológico |
+| Ator | [Usuário com baixo e/ou alto dominio tecnológico](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/PerfildeUsuario) |
 | Ação | O usuário assiste um título |
 | Fluxo principal | <ul><li>O usuário acessa a aplicação</li><li>O usuário seleciona um título</li></ul> |
 | Pós-condições | O usuário poderá assisitir a um título |
@@ -153,7 +153,7 @@ Fonte: Vinicius e João,integrantes do grupo 6
 | :----: | :------:|
 | Descrição | O usuário deve ser capaz de navegar pelo conteúdo |
 | Pré-condições | Uma conta válida |
-| Ator | Usuário com baixo e/ou alto dominio tecnológico |
+| Ator | [Usuário com baixo e/ou alto dominio tecnológico](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/PerfildeUsuario) |
 | Ação | O usuário navega pelo conteúdo |
 | Fluxo principal | <ul><li>O usuário acessa a aplicação</li><li>O usuário seleciona um perfil</li></ul> |
 | Pós-condições | O usuário poderá navegar pelo conteúdo |
@@ -169,7 +169,7 @@ Fonte: Vinicius e João,integrantes do grupo 6
 | :----: | :------:|
 | Descrição | O usuário deve ser capaz de criar uma lista de favoritos |
 | Pré-condições | Uma conta válida |
-| Ator | Usuário com baixo e/ou alto dominio tecnológico |
+| Ator | [Usuário com baixo e/ou alto dominio tecnológico](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/PerfildeUsuario) |
 | Ação | O usuário cria uma lista de favoritos |
 | Fluxo principal | <ul><li>O usuário acessa a aplicação</li><li>O usuário seleciona um perfil</li><li>O usuário seleciona um titulo</li><li>O usuário adiciona à lista</li></ul> |
 | Pós-condições | O usuário poderá acessar uma lista de favoritos |
@@ -186,7 +186,7 @@ Tabela 7: Fluxo de busca
 | :----: | :------:|
 | Descrição | O usuário deve ser capaz de buscar um título |
 | Pré-condições | Uma conta válida |
-| Ator | Usuário com baixo e/ou alto dominio tecnológico |
+| Ator | [Usuário com baixo e/ou alto dominio tecnológico](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/PerfildeUsuario) |
 | Ação | O usuário busca um título de interesse |
 | Fluxo principal | <ul><li>O usuário acessa a aplicação</li><li>O usuário seleciona a barra de pesquisa</li></ul><li>O usuário busca pelo título de interesse, com ou sem o uso de filtros</li> |
 | Pós-condições | O usuário poderá buscar pelo conteúdo |
@@ -203,7 +203,7 @@ Tabela 8: Fluxo de alteração do idioma
 | :----: | :------:|
 | Descrição | O usuário deve ser capaz de alterar o idioma da dublagem e/ou legenda do título |
 | Pré-condições | Uma conta válida |
-| Ator | Usuário com baixo e/ou alto dominio tecnológico |
+| Ator | [Usuário com baixo e/ou alto dominio tecnológico](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/PerfildeUsuario) |
 | Ação | O usuário muda o idioma da dublagem e/ou legenda do título|
 | Fluxo principal | <ul><li>O usuário acessa a aplicação</li><li>O usuário seleciona um título</li></ul><li>O usuário muda o idioma da dublagem e/ou legenda do título</li> |
 | Pós-condições | O usuário poderá navegar pelo conteúdo |
@@ -214,7 +214,7 @@ Fonte: Vinicius e João,integrantes do grupo 6
 ## Casos de uso exclusivos para perfil com bom dominio tecnológico
 
 <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.2-StarPlus/gh-pages/docs/assets/casos de uso/diagramaperfil3.png" alt="drawing" width="400"/>
-<figcaption>Imagem 6: Casos de uso do usuário com bom dominio tecnológico. Fonte: Grupo 6</figcaption>
+<figcaption>Imagem 6: Casos de uso do[ Usuário com bom dominio tecnológico](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/PerfildeUsuario). Fonte: Grupo 6</figcaption>
 
 
 ### 3.8 Fluxo de reprodução em segundo plano
@@ -225,7 +225,7 @@ Tabela 9: Fluxo de reprodução em segundo plano
 | :----: | :------:|
 | Descrição | O usuário deve ser capaz de alterar a configuração de reprodução em segundo plano|
 | Pré-condições | Acesso à internet e um dispositivo válido |
-| Ator | Usuário com bom dominio tecnológico |
+| Ator |[ Usuário com bom dominio tecnológico](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/PerfildeUsuario) |
 | Ação | O usuário altera para permitido a reprodução de um título em segundo plano |
 | Fluxo principal | <ul><li>O usuário acessa a aplicação</li><li>O usuário seleciona a opção de configurações</li><li>O usuário permite a reprodução de um título em segundo plano</li></ul> |
 | Pós-condições | O usuário poderá reproduzir um título em segundo plano |
@@ -241,7 +241,7 @@ Tabela 10: Fluxo de compartilhamento do título
 | :----: | :------:|
 | Descrição | O usuário deve ser capaz de compartilhar um título em diversas redes sociais|
 | Pré-condições | Acesso à internet e um dispositivo válido |
-| Ator | Usuário com bom dominio tecnológico |
+| Ator |[ Usuário com bom dominio tecnológico](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/PerfildeUsuario) |
 | Ação | O usuário compartilha um título em suas redes sociais|
 | Fluxo principal | <ul><li>O usuário acessa a aplicação</li><li>O usuário seleciona um título</li><li>O usuário seleciona a opção de compartilhar o título</li><li>O usuário seleciona  alguma das diversas redes sociais disponíveis</li></ul> |
 | Pós-condições | O usuário poderá compartilhar um título|
@@ -257,7 +257,7 @@ Tabela 11: Fluxo de detalhamento do título
 | :----: | :------:|
 | Descrição | O usuário deve ver com mais detalhes as informações do título|
 | Pré-condições | Acesso à internet e um dispositivo válido |
-| Ator | Usuário com bom dominio tecnológico |
+| Ator |[ Usuário com bom dominio tecnológico](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/PerfildeUsuario) |
 | Ação | O usuário observa o título de forma mais detalhada|
 | Fluxo principal | <ul><li>O usuário acessa a aplicação</li><li>O usuário seleciona um título</li><li>O usuário seleciona a opção de detalhar o título</li></ul> |
 | Pós-condições | O usuário poderá conhecer em detalhes o título |
@@ -273,7 +273,7 @@ Tabela 12: Fluxo de configurações da legenda
 | :----: | :------:|
 | Descrição | O usuário deve alterar as configuraçoes da legenda|
 | Pré-condições | Acesso à internet e um dispositivo válido |
-| Ator | Usuário com bom dominio tecnológico |
+| Ator |[ Usuário com bom dominio tecnológico](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/PerfildeUsuario) |
 | Ação | O usuário muda as configurações da legenda|
 | Fluxo principal | <ul><li>O usuário acessa a aplicação</li><li>O usuário seleciona um título</li><li>O usuário seleciona a opção de configuração da legenda</li></ul> |
 | Pós-condições | O usuário poderá alterar diversos aspectos da legenda |
@@ -289,7 +289,7 @@ Tabela 13: Fluxo de configurações da velocidade de reprodução
 | :----: | :------:|
 | Descrição | O usuário deve alterar as configuraçoes da velocidade da reprodução|
 | Pré-condições | Acesso à internet e um dispositivo válido |
-| Ator | Usuário com bom dominio tecnológico |
+| Ator |[ Usuário com bom dominio tecnológico](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/PerfildeUsuario) |
 | Ação | O usuário muda as da velocidade da reprodução|
 | Fluxo principal | <ul><li>O usuário acessa a aplicação</li><li>O usuário seleciona um título</li><li>O usuário seleciona a opção de configuração da velocidade</li></ul> |
 | Pós-condições | O usuário poderá alterar a velocidade de reprodução do título |
@@ -305,7 +305,7 @@ Tabela 14: Fluxo de download
 | :----: | :------:|
 | Descrição | O usuário deve baixar um título|
 | Pré-condições | Acesso à internet e um dispositivo válido |
-| Ator | Usuário com bom dominio tecnológico |
+| Ator |[ Usuário com bom dominio tecnológico](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/PerfildeUsuario) |
 | Ação | O usuário baixa um título|
 | Fluxo principal | <ul><li>O usuário acessa a aplicação</li><li>O usuário seleciona um título</li><li>O usuário seleciona a opção de baixar o título</li></ul> |
 | Pós-condições | O usuário poderá acessar o títlo mesmo offline |
@@ -321,7 +321,7 @@ Tabela 15: Fluxo de configuração de rede móvel
 | :----: | :------:|
 | Descrição | O usuário deve alterar as configurações de funcionamneto com base em redes móveis|
 | Pré-condições | Acesso à internet e um dispositivo válido |
-| Ator | Usuário com bom dominio tecnológico |
+| Ator |[ Usuário com bom dominio tecnológico](https://requisitos-de-software.github.io/2022.2-StarPlus/#/docs/Elicitacao/PerfildeUsuario) |
 | Ação | O usuário altera as configurações de funcionamneto com base em redes móveis|
 | Fluxo principal | <ul><li>O usuário acessa a aplicação</li><li>O usuário seleciona as configurações do app</li><li>O usuário seleciona a opção de alterar o limite de funcionamento com base em redes móveis</li></ul> |
 | Pós-condições | O usuário poderá alterar o limite de funcionamneto do app com base em redes móveis |
