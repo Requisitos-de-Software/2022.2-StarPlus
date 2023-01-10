@@ -19,7 +19,7 @@ Um Rich Picture pode auxiliar na identificação de:
 
 <p>Fonte: Autoria própria, grupo 6<p>
   
- ## Versão 2 do projeto Star+ 
+## Versão 2 do projeto Star+ 
   
  <p>Imagem 2: Rich Picture, Autor: Vinicius Assumpção, integrante do grupo 6, Versão: 1.0<p/>
  
